@@ -1,0 +1,64 @@
+[00:00:12] [Server thread/INFO]: <Tio_Prates> alo
+[00:00:14] [Server thread/INFO]: <Tio_Prates> 325 -291
+[00:02:34] [Server thread/INFO]: theBEaRstring has made the advancement [Acquire Hardware]
+[00:03:42] [Server thread/INFO]: Tio_Prates has made the advancement [Fishy Business]
+[00:06:20] [Server thread/INFO]: <Tio_Prates> a mimir
+[00:06:28] [Server thread/INFO]: theBEaRstring lost connection: Disconnected
+[00:06:28] [Server thread/INFO]: theBEaRstring left the game
+[00:06:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[00:07:10] [Server thread/INFO]: aninha  fell from a high place
+[00:08:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[00:08:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5717ms or 114 ticks behind
+[00:09:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6123ms or 122 ticks behind
+[00:09:20] [Server thread/INFO]: theBEaRstring[/201.0.252.239:56128] logged in with entity id 169899 at (331.20626169591935, 64.0, -320.92804140305077)
+[00:09:20] [Server thread/INFO]: theBEaRstring joined the game
+[00:12:35] [Server thread/INFO]: Bea lost connection: Disconnected
+[00:12:35] [Server thread/INFO]: Bea left the game
+[00:13:37] [Server thread/WARN]: aninha  moved too quickly! 4.02453890357674,1.4129092804170114,-9.177145225345413
+[00:13:52] [Server thread/INFO]: Bea[/187.183.37.156:4432] logged in with entity id 181034 at (346.02599689883067, 64.0, -311.300000011921)
+[00:13:52] [Server thread/INFO]: Bea joined the game
+[00:14:14] [Server thread/INFO]: aninha  lost connection: Timed out
+[00:14:14] [Server thread/INFO]: aninha  left the game
+[00:14:19] [Server thread/INFO]: aninha [/200.206.146.162:56846] logged in with entity id 182220 at (429.741372024564, 67.0, -274.38586225513586)
+[00:14:19] [Server thread/INFO]: aninha  joined the game
+[00:16:11] [Server thread/INFO]: Tio_Prates has made the advancement [A Seedy Place]
+[00:20:21] [Server thread/INFO]: Tio_Prates has made the advancement [Not Today, Thank You]
+[00:29:23] [Server thread/INFO]: <Tio_Prates> a mimir
+[00:29:46] [Server thread/INFO]: aninha  has made the advancement [Monster Hunter]
+[00:30:14] [Server thread/INFO]: theBEaRstring has made the advancement [Not Today, Thank You]
+[00:37:45] [Server thread/INFO]: aninha  has made the advancement [Stone Age]
+[00:39:47] [Server thread/INFO]: Bea lost connection: Disconnected
+[00:39:47] [Server thread/INFO]: Bea left the game
+[00:39:52] [Server thread/INFO]: Bea[/187.183.37.156:4559] logged in with entity id 247589 at (412.31205911525024, 64.0, -255.18767976238274)
+[00:39:52] [Server thread/INFO]: Bea joined the game
+[00:58:13] [Server thread/INFO]: Rafinha lost connection: Disconnected
+[00:58:13] [Server thread/INFO]: Rafinha left the game
+[01:14:50] [Server thread/INFO]: theBEaRstring has made the advancement [Diamonds!]
+[01:15:04] [Server thread/INFO]: Tio_Prates has made the advancement [Diamonds!]
+[01:16:06] [Server thread/WARN]: Bea moved too quickly! -2.355861401781908,5.395575898673293,-8.318175464550364
+[01:19:16] [Server thread/INFO]: Bea has made the advancement [Acquire Hardware]
+[01:19:50] [Server thread/INFO]: aninha  has made the advancement [Getting an Upgrade]
+[01:21:39] [Server thread/INFO]: theBEaRstring has made the advancement [Suit Up]
+[01:25:43] [Server thread/INFO]: Bea has made the advancement [Monster Hunter]
+[01:27:53] [Server thread/INFO]: Bea has made the advancement [Suit Up]
+[01:28:06] [Server thread/INFO]: aninha  has made the advancement [Suit Up]
+[01:31:00] [Server thread/INFO]: Bea has made the advancement [A Seedy Place]
+[01:37:59] [Server thread/INFO]: aninha  was shot by Skeleton
+[01:38:34] [Server thread/INFO]: Bea lost connection: Disconnected
+[01:38:34] [Server thread/INFO]: Bea left the game
+[01:39:38] [Server thread/INFO]: <aninha > gente vou indo dormir também, preciso acordar cedo amanha
+[01:39:56] [Server thread/INFO]: aninha  was slain by Spider
+[01:39:59] [Server thread/INFO]: aninha  lost connection: Disconnected
+[01:39:59] [Server thread/INFO]: aninha  left the game
+[01:53:09] [Server thread/INFO]: <Tio_Prates> 325 -291
+[01:54:24] [Server thread/INFO]: Tio_Prates has made the advancement [Best Friends Forever]
+[02:00:10] [Server thread/INFO]: theBEaRstring lost connection: Disconnected
+[02:00:10] [Server thread/INFO]: theBEaRstring left the game
+[02:00:12] [Server thread/INFO]: Tio_Prates lost connection: Disconnected
+[02:00:12] [Server thread/INFO]: Tio_Prates left the game
+[02:00:25] [Server Shutdown Thread/INFO]: Stopping server
+[02:00:25] [Server Shutdown Thread/INFO]: Saving players
+[02:00:25] [Server Shutdown Thread/INFO]: Saving worlds
+[02:00:25] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[02:00:25] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[02:00:25] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
