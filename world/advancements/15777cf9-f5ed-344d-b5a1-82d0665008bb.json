@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_double_plant": "2021-04-23 23:49:32 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2021-04-23 01:07:01 -0300"
@@ -394,13 +400,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2021-04-21 22:50:10 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2021-04-21 22:50:10 -0300"
     },
@@ -501,6 +507,12 @@
       "has_bed": "2021-04-21 23:22:06 -0300"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:pig": "2021-04-23 23:08:18 -0300"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
@@ -761,13 +773,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2021-04-22 01:14:50 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2021-04-22 01:14:50 -0300"
     },
@@ -787,9 +799,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2021-04-24 00:36:44 -0300",
       "minecraft:skeleton": "2021-04-21 23:30:37 -0300",
       "minecraft:phantom": "2021-04-23 01:26:18 -0300",
       "minecraft:husk": "2021-04-21 23:26:24 -0300",
+      "minecraft:enderman": "2021-04-23 22:55:46 -0300",
       "minecraft:spider": "2021-04-21 23:30:01 -0300",
       "minecraft:zombie": "2021-04-21 22:41:39 -0300",
       "minecraft:creeper": "2021-04-21 23:33:21 -0300"
@@ -1030,6 +1044,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2021-04-24 00:36:08 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2021-04-21 23:51:17 -0300"
@@ -1063,6 +1083,12 @@
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2021-04-21 23:52:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2021-04-24 00:30:15 -0300"
     },
     "done": true
   },
@@ -1383,6 +1409,7 @@
       "minecraft:forest": "2021-04-21 23:15:26 -0300",
       "minecraft:desert_hills": "2021-04-23 00:44:50 -0300",
       "minecraft:desert": "2021-04-21 22:40:46 -0300",
+      "minecraft:savanna_plateau": "2021-04-23 23:56:42 -0300",
       "minecraft:river": "2021-04-21 23:19:29 -0300",
       "minecraft:wooded_hills": "2021-04-21 22:38:46 -0300",
       "minecraft:savanna": "2021-04-21 23:52:31 -0300",
@@ -1522,6 +1549,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2021-04-23 23:08:18 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2021-04-21 23:51:17 -0300"
@@ -1537,6 +1570,13 @@
   "minecraft:recipes/decorations/brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2021-04-22 00:49:27 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2021-04-24 00:43:37 -0300",
+      "has_golden_horse_armor": "2021-04-24 00:43:37 -0300"
     },
     "done": true
   },
