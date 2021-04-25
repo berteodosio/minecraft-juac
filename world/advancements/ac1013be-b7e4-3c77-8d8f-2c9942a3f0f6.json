@@ -320,13 +320,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-04-21 23:17:43 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-04-21 23:17:43 -0300"
     },
@@ -1102,6 +1102,7 @@
       "minecraft:forest": "2021-04-22 00:12:49 -0300",
       "minecraft:desert_hills": "2021-04-21 23:28:43 -0300",
       "minecraft:desert": "2021-04-21 22:56:18 -0300",
+      "minecraft:savanna_plateau": "2021-04-24 20:26:33 -0300",
       "minecraft:river": "2021-04-21 23:33:10 -0300",
       "minecraft:wooded_hills": "2021-04-21 23:08:24 -0300",
       "minecraft:savanna": "2021-04-21 23:52:58 -0300",
