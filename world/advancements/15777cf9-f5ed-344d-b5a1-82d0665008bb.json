@@ -305,6 +305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_netherbrick": "2021-04-25 23:32:28 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_brown_mushroom": "2021-04-24 23:30:45 -0300"
@@ -354,6 +360,7 @@
       "cooked_beef": "2021-04-21 23:57:41 -0300",
       "pufferfish": "2021-04-23 00:26:46 -0300",
       "bread": "2021-04-23 00:35:37 -0300",
+      "mushroom_stew": "2021-04-26 00:03:07 -0300",
       "carrot": "2021-04-22 00:25:02 -0300"
     },
     "done": false
