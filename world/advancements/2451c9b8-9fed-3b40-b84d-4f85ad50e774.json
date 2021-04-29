@@ -197,6 +197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2021-04-29 01:17:31 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2021-04-21 22:50:19 -0300"
@@ -457,6 +463,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2021-04-29 01:18:43 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2021-04-21 23:58:33 -0300"
@@ -535,13 +547,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2021-04-21 22:43:38 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2021-04-21 22:43:38 -0300"
     },
@@ -1029,9 +1041,11 @@
       "minecraft:skeleton": "2021-04-21 23:26:29 -0300",
       "minecraft:phantom": "2021-04-25 03:26:34 -0300",
       "minecraft:witch": "2021-04-25 02:47:42 -0300",
+      "minecraft:zombie_pigman": "2021-04-29 01:18:18 -0300",
       "minecraft:husk": "2021-04-21 23:02:23 -0300",
       "minecraft:cave_spider": "2021-04-22 01:42:55 -0300",
       "minecraft:enderman": "2021-04-21 23:55:35 -0300",
+      "minecraft:magma_cube": "2021-04-29 01:17:04 -0300",
       "minecraft:spider": "2021-04-21 23:10:17 -0300",
       "minecraft:zombie": "2021-04-21 23:07:49 -0300",
       "minecraft:creeper": "2021-04-21 23:43:25 -0300",
@@ -1055,6 +1069,18 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2021-04-25 19:13:25 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2021-04-29 01:40:15 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2021-04-29 01:40:18 -0300"
     },
     "done": true
   },
@@ -1103,6 +1129,12 @@
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2021-04-22 00:02:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2021-04-29 01:40:18 -0300"
     },
     "done": true
   },
@@ -1302,6 +1334,12 @@
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_lapis": "2021-04-22 00:59:49 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2021-04-29 01:40:11 -0300"
     },
     "done": true
   },
@@ -1749,6 +1787,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2021-04-29 01:40:11 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2021-04-21 22:43:38 -0300"
@@ -1809,6 +1853,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2021-04-29 01:40:11 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2021-04-21 22:52:48 -0300"
@@ -1824,6 +1874,18 @@
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2021-04-25 21:11:05 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2021-04-29 01:40:15 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2021-04-29 01:50:24 -0300"
     },
     "done": true
   },
@@ -2130,6 +2192,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2021-04-29 01:20:27 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2021-04-22 01:15:04 -0300"
@@ -2199,6 +2267,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2021-04-21 23:15:07 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2021-04-29 01:40:15 -0300"
     },
     "done": true
   },

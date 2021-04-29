@@ -882,6 +882,7 @@
       "minecraft:skeleton": "2021-04-21 23:30:37 -0300",
       "minecraft:phantom": "2021-04-23 01:26:18 -0300",
       "minecraft:husk": "2021-04-21 23:26:24 -0300",
+      "minecraft:cave_spider": "2021-04-29 01:21:42 -0300",
       "minecraft:enderman": "2021-04-23 22:55:46 -0300",
       "minecraft:spider": "2021-04-21 23:30:01 -0300",
       "minecraft:zombie": "2021-04-21 22:41:39 -0300",
@@ -910,6 +911,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2021-04-21 22:53:56 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2021-04-29 01:38:05 -0300"
     },
     "done": true
   },
