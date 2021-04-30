@@ -1,181 +1,196 @@
-[01:03:11] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[01:03:11] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:03:11] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:03:11] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[01:03:11] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:03:12] [main/INFO]: Loaded 0 recipes
-[01:03:12] [main/INFO]: Loaded 0 advancements
-[01:03:12] [Server thread/INFO]: Starting minecraft server version 1.13.1
-[01:03:12] [Server thread/INFO]: Loading properties
-[01:03:12] [Server thread/INFO]: Default game type: SURVIVAL
-[01:03:12] [Server thread/INFO]: Generating keypair
-[01:03:13] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:03:13] [Server thread/INFO]: Using default channel type
-[01:03:16] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:03:16] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:03:16] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:03:16] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:03:17] [Server thread/INFO]: Preparing level "world"
-[01:03:17] [Server thread/INFO]: Reloading ResourceManager: Default
-[01:03:20] [Server thread/INFO]: Loaded 524 recipes
-[01:03:22] [Server thread/INFO]: Loaded 571 advancements
-[01:03:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:03:24] [Server thread/INFO]: Preparing spawn area: 4%
-[01:03:24] [Server thread/INFO]: Preparing spawn area: 8%
-[01:03:24] [Server thread/INFO]: Preparing spawn area: 12%
-[01:03:24] [Server thread/INFO]: Preparing spawn area: 16%
-[01:03:24] [Server thread/INFO]: Preparing spawn area: 20%
-[01:03:24] [Server thread/INFO]: Preparing spawn area: 24%
-[01:03:25] [Server thread/INFO]: Preparing spawn area: 28%
-[01:03:25] [Server thread/INFO]: Preparing spawn area: 32%
-[01:03:25] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 6ad9cd2d-5511-4233-868d-1c1a3af6f188
-[01:03:25] [Server thread/INFO]: Preparing spawn area: 36%
-[01:03:25] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 86a1bda1-a6eb-4a51-a7e7-4219874be389
-[01:03:25] [Server thread/WARN]: Keeping entity minecraft:horse that already exists with UUID 8e1ad72f-6bda-4830-8628-0e6548036998
-[01:03:25] [Server thread/INFO]: Preparing spawn area: 40%
-[01:03:25] [Server thread/INFO]: Preparing spawn area: 44%
-[01:03:25] [Server thread/INFO]: Preparing spawn area: 48%
-[01:03:25] [Server thread/INFO]: Preparing spawn area: 52%
-[01:03:25] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID f461a773-891e-497b-a191-24efbe543993
-[01:03:25] [Server thread/INFO]: Preparing spawn area: 56%
-[01:03:26] [Server thread/INFO]: Preparing spawn area: 60%
-[01:03:26] [Server thread/INFO]: Preparing spawn area: 64%
-[01:03:26] [Server thread/INFO]: Preparing spawn area: 68%
-[01:03:26] [Server thread/INFO]: Preparing spawn area: 72%
-[01:03:26] [Server thread/INFO]: Preparing spawn area: 76%
-[01:03:26] [Server thread/INFO]: Preparing spawn area: 80%
-[01:03:26] [Server thread/INFO]: Preparing spawn area: 84%
-[01:03:26] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
-[01:03:26] [Server thread/INFO]: Preparing spawn area: 88%
-[01:03:26] [Server thread/INFO]: Preparing spawn area: 92%
-[01:03:26] [Server thread/INFO]: Preparing spawn area: 96%
-[01:03:26] [Server thread/INFO]: Preparing spawn area: 100%
-[01:03:26] [Server thread/INFO]: Time elapsed: 3169 ms
-[01:03:26] [Server thread/INFO]: Done (9.527s)! For help, type "help"
-[01:03:59] [Server thread/INFO]: Bea[/25.109.233.81:55286] logged in with entity id 142 at (316.98442131681486, 63.0, -346.0495827145261)
-[01:03:59] [Server thread/INFO]: Bea joined the game
-[01:04:02] [Server thread/WARN]: Keeping entity minecraft:horse that already exists with UUID 9cf209fd-d46b-42f9-94d4-1781d1ea31e4
-[01:04:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4030ms or 80 ticks behind
-[01:04:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3337ms or 66 ticks behind
-[01:04:41] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 837e4ad8-3fd8-4ef1-872f-fe5ffe58a092
-[01:07:43] [Server thread/INFO]: bluekoya[/25.11.127.139:61199] logged in with entity id 2619 at (-182.01596359795892, 67.25220334025373, -591.9688460831447)
-[01:07:43] [Server thread/INFO]: bluekoya joined the game
-[01:07:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3976ms or 79 ticks behind
-[01:07:57] [Server thread/WARN]: Bea moved too quickly! 8.569077108900274,0.0,5.266761469439871
-[01:08:03] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 837e4ad8-3fd8-4ef1-872f-fe5ffe58a092
-[01:08:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19265ms or 385 ticks behind
-[01:08:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10106ms or 202 ticks behind
-[01:09:20] [Server thread/INFO]: Tanzitow[/25.3.5.199:55606] logged in with entity id 5463 at (362.0236515379557, 64.0, -300.9208883023218)
-[01:09:20] [Server thread/INFO]: Tanzitow joined the game
-[01:09:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[01:09:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7429ms or 148 ticks behind
-[01:09:46] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 837e4ad8-3fd8-4ef1-872f-fe5ffe58a092
-[01:10:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4046ms or 80 ticks behind
-[01:10:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6389ms or 127 ticks behind
-[01:10:34] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 31d37002-9cec-42ac-bb8e-8febb1540321
-[01:10:43] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 6ad9cd2d-5511-4233-868d-1c1a3af6f188
-[01:10:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13294ms or 265 ticks behind
-[01:11:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8518ms or 170 ticks behind
-[01:11:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6436ms or 128 ticks behind
-[01:11:43] [Server thread/WARN]: bluekoya moved too quickly! 3.2886891124433966,1.1767592750642422,-9.397826479099479
-[01:11:43] [Server thread/WARN]: bluekoya moved too quickly! 3.278094664210464,1.672203327140707,-9.438996917265285
-[01:12:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10019ms or 200 ticks behind
-[01:12:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4567ms or 91 ticks behind
-[01:12:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4157ms or 83 ticks behind
-[01:13:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6368ms or 127 ticks behind
-[01:13:10] [Server thread/INFO]: theBEaRstring[/25.65.60.80:62575] logged in with entity id 24016 at (76.6796770536901, 73.0, -24.721556805102882)
-[01:13:10] [Server thread/INFO]: theBEaRstring joined the game
-[01:13:10] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 6ad9cd2d-5511-4233-868d-1c1a3af6f188
-[01:13:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8488ms or 169 ticks behind
-[01:13:35] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 31d37002-9cec-42ac-bb8e-8febb1540321
-[01:13:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10952ms or 219 ticks behind
-[01:14:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14973ms or 299 ticks behind
-[01:14:32] [Server thread/WARN]: bluekoya moved too quickly! 9.758230202285219,2.252203340253729,-0.49244143961459486
-[01:14:45] [Server thread/WARN]: bluekoya moved too quickly! 8.848187229026877,0.0,-4.956768476500372
-[01:14:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16185ms or 323 ticks behind
-[01:15:02] [Server thread/INFO]: Tanzitow lost connection: Disconnected
-[01:15:02] [Server thread/INFO]: Tanzitow left the game
-[01:15:10] [Server thread/INFO]: Tanzitow[/25.3.5.199:55614] logged in with entity id 31303 at (310.59943458074514, 68.0, -355.5228610567127)
-[01:15:10] [Server thread/INFO]: Tanzitow joined the game
-[01:15:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13295ms or 265 ticks behind
-[01:15:39] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 31d37002-9cec-42ac-bb8e-8febb1540321
-[01:15:54] [Server thread/WARN]: Bea moved too quickly! 7.715561810280292,1.7531999805212024,-6.177633794040958
-[01:15:54] [Server thread/WARN]: theBEaRstring moved too quickly! 9.909891071973078,2.0,-1.0462399506621303
-[01:15:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20802ms or 416 ticks behind
-[01:16:05] [Server thread/INFO]: Tanzitow lost connection: Disconnected
-[01:16:05] [Server thread/INFO]: Tanzitow left the game
-[01:16:14] [Server thread/INFO]: Tanzitow[/25.3.5.199:55619] logged in with entity id 33844 at (307.63501787515435, 63.0, -354.4509292197936)
-[01:16:14] [Server thread/INFO]: Tanzitow joined the game
-[01:16:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10553ms or 211 ticks behind
-[01:16:32] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 31d37002-9cec-42ac-bb8e-8febb1540321
-[01:16:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11607ms or 232 ticks behind
-[01:17:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15928ms or 318 ticks behind
-[01:17:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9466ms or 189 ticks behind
-[01:18:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10509ms or 210 ticks behind
-[01:18:20] [Server thread/INFO]: theBEaRstring lost connection: Disconnected
-[01:18:20] [Server thread/INFO]: theBEaRstring left the game
-[01:18:28] [Server thread/INFO]: theBEaRstring[/25.65.60.80:62617] logged in with entity id 40233 at (50.90619834787747, 41.0, -28.248536675595254)
-[01:18:29] [Server thread/INFO]: theBEaRstring joined the game
-[01:18:29] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 6ad9cd2d-5511-4233-868d-1c1a3af6f188
-[01:18:42] [Server thread/INFO]: theBEaRstring lost connection: Disconnected
-[01:18:42] [Server thread/INFO]: theBEaRstring left the game
-[01:18:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16873ms or 337 ticks behind
-[01:18:46] [Server thread/INFO]: theBEaRstring[/25.65.60.80:62623] logged in with entity id 41491 at (50.90619834787747, 41.0, -28.248536675595254)
-[01:18:46] [Server thread/INFO]: theBEaRstring joined the game
-[01:18:46] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 6ad9cd2d-5511-4233-868d-1c1a3af6f188
-[01:18:53] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 837e4ad8-3fd8-4ef1-872f-fe5ffe58a092
-[01:18:54] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 31d37002-9cec-42ac-bb8e-8febb1540321
-[01:19:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11168ms or 223 ticks behind
-[01:19:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10881ms or 217 ticks behind
-[01:19:54] [Server thread/WARN]: Tanzitow moved too quickly! 4.9542724653356345,-0.757002463247801,-8.911368449857946
-[01:20:04] [Server thread/INFO]: theBEaRstring lost connection: Disconnected
-[01:20:04] [Server thread/INFO]: theBEaRstring left the game
-[01:20:07] [Server thread/INFO]: theBEaRstring[/25.65.60.80:62634] logged in with entity id 45508 at (82.69999998807907, 38.0, -0.6999999880790695)
-[01:20:07] [Server thread/INFO]: theBEaRstring joined the game
-[01:20:08] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 6ad9cd2d-5511-4233-868d-1c1a3af6f188
-[01:20:09] [Server thread/WARN]: Tanzitow moved too quickly! -3.4655376672492935,2.024424088213692,9.278381403082449
-[01:20:11] [Server thread/WARN]: Bea moved too quickly! -9.629179622069728,0.0,-2.9422600666628114
-[01:20:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 57898ms or 1157 ticks behind
-[01:20:52] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
-[01:21:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12598ms or 251 ticks behind
-[01:21:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14575ms or 291 ticks behind
-[01:21:50] [Server thread/WARN]: Tanzitow moved too quickly! 1.2374478799890767,0.0,-9.970347652416308
-[01:21:54] [Server thread/INFO]: theBEaRstring lost connection: Disconnected
-[01:21:54] [Server thread/INFO]: theBEaRstring left the game
-[01:21:57] [Server thread/INFO]: theBEaRstring[/25.65.60.80:62643] logged in with entity id 48648 at (95.39930421685423, 37.0, -1.3114878118692523)
-[01:21:57] [Server thread/INFO]: theBEaRstring joined the game
-[01:21:58] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 6ad9cd2d-5511-4233-868d-1c1a3af6f188
-[01:21:58] [Server thread/INFO]: Tanzitow lost connection: Disconnected
-[01:21:58] [Server thread/INFO]: Tanzitow left the game
-[01:22:05] [Server thread/INFO]: Tanzitow[/25.3.5.199:55625] logged in with entity id 48977 at (312.35962769253234, 63.0, -348.1488784338677)
-[01:22:05] [Server thread/INFO]: Tanzitow joined the game
-[01:22:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 28041ms or 560 ticks behind
-[01:22:36] [Server thread/WARN]: bluekoya moved too quickly! 2.316357641491436,0.0,9.873123820887997
-[01:22:51] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 837e4ad8-3fd8-4ef1-872f-fe5ffe58a092
-[01:22:56] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
-[01:23:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19144ms or 382 ticks behind
-[01:23:41] [Server thread/INFO]: Bea lost connection: Timed out
-[01:23:41] [Server thread/INFO]: Bea left the game
-[01:23:42] [Server thread/INFO]: bluekoya lost connection: Timed out
-[01:23:42] [Server thread/INFO]: bluekoya left the game
-[01:23:42] [Server thread/INFO]: theBEaRstring lost connection: Timed out
-[01:23:42] [Server thread/INFO]: theBEaRstring left the game
-[01:23:42] [Server thread/INFO]: Tanzitow lost connection: Timed out
-[01:23:42] [Server thread/INFO]: Tanzitow left the game
-[01:23:47] [Server thread/INFO]: Tanzitow[/25.3.5.199:55629] logged in with entity id 51570 at (305.17549875323124, 65.0, -446.44422069457215)
-[01:23:47] [Server thread/INFO]: Tanzitow joined the game
-[01:23:47] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 837e4ad8-3fd8-4ef1-872f-fe5ffe58a092
-[01:23:49] [Server thread/WARN]: Keeping entity minecraft:horse that already exists with UUID 9cf209fd-d46b-42f9-94d4-1781d1ea31e4
-[01:24:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 43044ms or 860 ticks behind
-[01:24:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
-[01:24:25] [Server thread/WARN]: Tanzitow moved too quickly! 8.15984038985647,0.1647732818260721,6.2141549357376675
-[01:24:40] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 837e4ad8-3fd8-4ef1-872f-fe5ffe58a092
-[01:24:48] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 837e4ad8-3fd8-4ef1-872f-fe5ffe58a092
-[01:24:54] [Server thread/INFO]: Tanzitow lost connection: Disconnected
-[01:24:54] [Server thread/INFO]: Tanzitow left the game
-[01:26:33] [Server Shutdown Thread/INFO]: Stopping server
-[01:26:33] [Server Shutdown Thread/INFO]: Saving players
-[01:26:33] [Server Shutdown Thread/INFO]: Saving worlds
-[01:26:33] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[01:26:33] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[01:26:33] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[01:33:15] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01:33:15] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:33:15] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:33:15] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01:33:15] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:33:15] [main/INFO]: Loaded 0 recipes
+[01:33:15] [main/INFO]: Loaded 0 advancements
+[01:33:15] [Server thread/INFO]: Starting minecraft server version 1.13.1
+[01:33:15] [Server thread/INFO]: Loading properties
+[01:33:15] [Server thread/INFO]: Default game type: SURVIVAL
+[01:33:15] [Server thread/INFO]: Generating keypair
+[01:33:15] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:33:15] [Server thread/INFO]: Using default channel type
+[01:33:15] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:33:15] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:33:15] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:33:15] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:33:15] [Server thread/INFO]: Preparing level "world"
+[01:33:15] [Server thread/INFO]: Reloading ResourceManager: Default
+[01:33:17] [Server thread/INFO]: Loaded 524 recipes
+[01:33:18] [Server thread/INFO]: Loaded 571 advancements
+[01:33:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:33:18] [Server thread/INFO]: Preparing spawn area: 4%
+[01:33:18] [Server thread/INFO]: Preparing spawn area: 8%
+[01:33:18] [Server thread/INFO]: Preparing spawn area: 12%
+[01:33:18] [Server thread/INFO]: Preparing spawn area: 16%
+[01:33:18] [Server thread/INFO]: Preparing spawn area: 20%
+[01:33:19] [Server thread/INFO]: Preparing spawn area: 24%
+[01:33:19] [Server thread/INFO]: Preparing spawn area: 28%
+[01:33:19] [Server thread/INFO]: Preparing spawn area: 32%
+[01:33:19] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 6ad9cd2d-5511-4233-868d-1c1a3af6f188
+[01:33:19] [Server thread/INFO]: Preparing spawn area: 36%
+[01:33:19] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 86a1bda1-a6eb-4a51-a7e7-4219874be389
+[01:33:19] [Server thread/WARN]: Keeping entity minecraft:horse that already exists with UUID 8e1ad72f-6bda-4830-8628-0e6548036998
+[01:33:19] [Server thread/INFO]: Preparing spawn area: 40%
+[01:33:19] [Server thread/INFO]: Preparing spawn area: 44%
+[01:33:19] [Server thread/INFO]: Preparing spawn area: 48%
+[01:33:19] [Server thread/INFO]: Preparing spawn area: 52%
+[01:33:19] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID f461a773-891e-497b-a191-24efbe543993
+[01:33:19] [Server thread/INFO]: Preparing spawn area: 56%
+[01:33:19] [Server thread/INFO]: Preparing spawn area: 60%
+[01:33:19] [Server thread/INFO]: Preparing spawn area: 64%
+[01:33:19] [Server thread/INFO]: Preparing spawn area: 68%
+[01:33:19] [Server thread/INFO]: Preparing spawn area: 72%
+[01:33:19] [Server thread/INFO]: Preparing spawn area: 76%
+[01:33:19] [Server thread/INFO]: Preparing spawn area: 80%
+[01:33:19] [Server thread/INFO]: Preparing spawn area: 84%
+[01:33:19] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
+[01:33:19] [Server thread/INFO]: Preparing spawn area: 88%
+[01:33:20] [Server thread/INFO]: Preparing spawn area: 92%
+[01:33:20] [Server thread/INFO]: Preparing spawn area: 96%
+[01:33:20] [Server thread/INFO]: Preparing spawn area: 100%
+[01:33:20] [Server thread/INFO]: Time elapsed: 1580 ms
+[01:33:20] [Server thread/INFO]: Done (4.304s)! For help, type "help"
+[01:34:31] [Server thread/INFO]: Tanzitow[/189.111.61.155:55649] logged in with entity id 189 at (312.50236491683336, 63.0, -348.45582741597116)
+[01:34:31] [Server thread/INFO]: Tanzitow joined the game
+[01:34:32] [Server thread/WARN]: Keeping entity minecraft:horse that already exists with UUID 9cf209fd-d46b-42f9-94d4-1781d1ea31e4
+[01:35:02] [Server thread/INFO]: theBEaRstring[/201.95.41.58:62949] logged in with entity id 619 at (106.46992587759577, 39.0, -17.33348480042921)
+[01:35:02] [Server thread/INFO]: theBEaRstring joined the game
+[01:35:02] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 6ad9cd2d-5511-4233-868d-1c1a3af6f188
+[01:35:02] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
+[01:35:04] [Server thread/INFO]: bluekoya[/200.236.253.205:7618] logged in with entity id 1137 at (302.8198755898452, 64.0, -431.2868871904701)
+[01:35:04] [Server thread/INFO]: bluekoya joined the game
+[01:35:04] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 837e4ad8-3fd8-4ef1-872f-fe5ffe58a092
+[01:35:06] [Server thread/INFO]: theBEaRstring lost connection: Disconnected
+[01:35:06] [Server thread/INFO]: theBEaRstring left the game
+[01:35:11] [Server thread/INFO]: theBEaRstring[/127.0.0.1:62955] logged in with entity id 1487 at (106.46992587759577, 39.0, -17.33348480042921)
+[01:35:11] [Server thread/INFO]: theBEaRstring joined the game
+[01:35:12] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 6ad9cd2d-5511-4233-868d-1c1a3af6f188
+[01:35:12] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
+[01:35:49] [Server thread/INFO]: theBEaRstring lost connection: Disconnected
+[01:35:49] [Server thread/INFO]: theBEaRstring left the game
+[01:35:56] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 837e4ad8-3fd8-4ef1-872f-fe5ffe58a092
+[01:36:18] [Server thread/WARN]: Tanzitow was kicked for floating too long!
+[01:36:18] [Server thread/INFO]: Tanzitow lost connection: Disconnected
+[01:36:18] [Server thread/INFO]: Tanzitow left the game
+[01:36:18] [Server thread/WARN]: handleDisconnection() called twice
+[01:36:33] [Server thread/INFO]: Tanzitow[/189.111.61.155:55653] logged in with entity id 2722 at (299.5, 68.0999984741211, -357.5)
+[01:36:33] [Server thread/INFO]: Tanzitow joined the game
+[01:36:42] [Server thread/INFO]: Bea[/187.183.37.156:5820] logged in with entity id 3001 at (153.41822466202257, 64.0, -992.3000000119209)
+[01:36:42] [Server thread/INFO]: Bea joined the game
+[01:36:43] [Server thread/INFO]: theBEaRstring[/127.0.0.1:62965] logged in with entity id 3345 at (127.36299761633708, 48.0, -35.13456323238435)
+[01:36:43] [Server thread/INFO]: theBEaRstring joined the game
+[01:36:43] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 6ad9cd2d-5511-4233-868d-1c1a3af6f188
+[01:36:43] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
+[01:36:52] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 837e4ad8-3fd8-4ef1-872f-fe5ffe58a092
+[01:39:13] [Server thread/WARN]: Tanzitow moved too quickly! 9.323359947811412,0.1199608614270602,3.8149492509834317
+[01:39:24] [Server thread/WARN]: Keeping entity minecraft:horse that already exists with UUID 9cf209fd-d46b-42f9-94d4-1781d1ea31e4
+[01:40:11] [Server thread/INFO]: <theBEaRstring> 147 -15
+[01:43:38] [Server thread/INFO]: bluekoya lost connection: Disconnected
+[01:43:38] [Server thread/INFO]: bluekoya left the game
+[01:43:44] [Server thread/INFO]: bluekoya[/200.236.253.205:6828] logged in with entity id 29390 at (250.44017850235105, 61.96636804164124, -484.55059786751343)
+[01:43:44] [Server thread/INFO]: bluekoya joined the game
+[01:44:27] [Server thread/INFO]: theBEaRstring lost connection: Disconnected
+[01:44:27] [Server thread/INFO]: theBEaRstring left the game
+[01:44:36] [Server thread/INFO]: theBEaRstring[/127.0.0.1:63005] logged in with entity id 32786 at (142.8244574768017, 42.0, -1.461881407184827)
+[01:44:36] [Server thread/INFO]: theBEaRstring joined the game
+[01:44:36] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 6ad9cd2d-5511-4233-868d-1c1a3af6f188
+[01:44:37] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
+[01:44:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3776ms or 75 ticks behind
+[01:44:38] [Server thread/WARN]: bluekoya moved too quickly! -5.021913712732385,6.166109260938214,6.344455493295527
+[01:45:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20393ms or 407 ticks behind
+[01:45:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18973ms or 379 ticks behind
+[01:46:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22202ms or 444 ticks behind
+[01:46:52] [Server thread/INFO]: theBEaRstring lost connection: Disconnected
+[01:46:52] [Server thread/INFO]: theBEaRstring left the game
+[01:47:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19716ms or 394 ticks behind
+[01:47:01] [Server thread/INFO]: theBEaRstring[/127.0.0.1:63013] logged in with entity id 38674 at (122.54505675204459, 50.0, -16.371709809697524)
+[01:47:01] [Server thread/INFO]: theBEaRstring joined the game
+[01:47:01] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 6ad9cd2d-5511-4233-868d-1c1a3af6f188
+[01:47:01] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
+[01:47:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16069ms or 321 ticks behind
+[01:48:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23723ms or 474 ticks behind
+[01:48:10] [Server thread/INFO]: Tanzitow lost connection: Disconnected
+[01:48:10] [Server thread/INFO]: Tanzitow left the game
+[01:48:14] [Server thread/INFO]: Tanzitow[/189.111.61.155:55661] logged in with entity id 41941 at (273.301939813897, 64.0, -654.5906781929326)
+[01:48:14] [Server thread/INFO]: Tanzitow joined the game
+[01:48:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 27966ms or 559 ticks behind
+[01:49:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23477ms or 469 ticks behind
+[01:50:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26612ms or 532 ticks behind
+[01:50:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6572ms or 131 ticks behind
+[01:50:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3449ms or 68 ticks behind
+[01:51:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10460ms or 209 ticks behind
+[01:51:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7921ms or 158 ticks behind
+[01:52:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5281ms or 105 ticks behind
+[01:52:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8736ms or 174 ticks behind
+[01:52:39] [Server thread/INFO]: theBEaRstring lost connection: Disconnected
+[01:52:39] [Server thread/INFO]: theBEaRstring left the game
+[01:52:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2966ms or 59 ticks behind
+[01:52:47] [Server thread/INFO]: theBEaRstring[/127.0.0.1:63028] logged in with entity id 49715 at (276.30000001192093, 72.0, -177.82613262649025)
+[01:52:47] [Server thread/INFO]: theBEaRstring joined the game
+[01:53:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3128ms or 62 ticks behind
+[01:53:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2720ms or 54 ticks behind
+[01:53:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4878ms or 97 ticks behind
+[01:53:46] [Server thread/INFO]: theBEaRstring lost connection: Disconnected
+[01:53:46] [Server thread/INFO]: theBEaRstring left the game
+[01:53:55] [Server thread/INFO]: theBEaRstring[/127.0.0.1:63036] logged in with entity id 52364 at (306.2368228239697, 69.0, -209.02262154895797)
+[01:53:55] [Server thread/INFO]: theBEaRstring joined the game
+[01:53:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3316ms or 66 ticks behind
+[01:53:57] [Server thread/WARN]: Keeping entity minecraft:horse that already exists with UUID 9cf209fd-d46b-42f9-94d4-1781d1ea31e4
+[01:54:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9684ms or 193 ticks behind
+[01:54:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7805ms or 156 ticks behind
+[01:55:07] [Server thread/INFO]: Tanzitow lost connection: Disconnected
+[01:55:07] [Server thread/INFO]: Tanzitow left the game
+[01:55:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9093ms or 181 ticks behind
+[01:55:13] [Server thread/INFO]: Tanzitow[/189.111.61.155:55668] logged in with entity id 53742 at (261.10012911268177, 42.0, -667.6999999880791)
+[01:55:13] [Server thread/INFO]: Tanzitow joined the game
+[01:55:17] [Server thread/INFO]: bluekoya lost connection: Disconnected
+[01:55:17] [Server thread/INFO]: bluekoya left the game
+[01:55:23] [Server thread/INFO]: Tanzitow lost connection: Disconnected
+[01:55:23] [Server thread/INFO]: Tanzitow left the game
+[01:55:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4535ms or 90 ticks behind
+[01:55:30] [Server thread/INFO]: Bea lost connection: Disconnected
+[01:55:30] [Server thread/INFO]: Bea left the game
+[01:55:35] [Server thread/INFO]: Tanzitow[/189.111.61.155:55672] logged in with entity id 54529 at (261.10012911268177, 42.0, -667.6999999880791)
+[01:55:35] [Server thread/INFO]: Tanzitow joined the game
+[01:55:36] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 837e4ad8-3fd8-4ef1-872f-fe5ffe58a092
+[01:55:37] [Server thread/INFO]: Bea[/187.183.37.156:6035] logged in with entity id 54908 at (336.90001146389454, 62.0, -234.69999998807904)
+[01:55:37] [Server thread/INFO]: Bea joined the game
+[01:55:37] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
+[01:55:37] [Server thread/INFO]: bluekoya[/200.236.253.205:7059] logged in with entity id 54940 at (261.7811597194405, 41.0, -667.6999999880791)
+[01:55:37] [Server thread/INFO]: bluekoya joined the game
+[01:55:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8680ms or 173 ticks behind
+[01:56:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5305ms or 106 ticks behind
+[01:56:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7021ms or 140 ticks behind
+[01:56:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2665ms or 53 ticks behind
+[01:56:59] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
+[01:57:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6462ms or 129 ticks behind
+[01:57:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5227ms or 104 ticks behind
+[01:57:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6653ms or 133 ticks behind
+[01:58:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6695ms or 133 ticks behind
+[01:58:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3610ms or 72 ticks behind
+[01:58:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4138ms or 82 ticks behind
+[01:59:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3841ms or 76 ticks behind
+[01:59:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4638ms or 92 ticks behind
+[01:59:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5868ms or 117 ticks behind
+[02:00:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12859ms or 257 ticks behind
+[02:00:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7249ms or 144 ticks behind
+[02:01:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5980ms or 119 ticks behind
+[02:01:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6416ms or 128 ticks behind
+[02:01:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5027ms or 100 ticks behind
+[02:02:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2533ms or 50 ticks behind
+[02:02:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4058ms or 81 ticks behind
+[02:02:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7131ms or 142 ticks behind
+[02:03:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8137ms or 162 ticks behind
+[02:03:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4034ms or 80 ticks behind
+[02:03:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2258ms or 45 ticks behind
+[02:04:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3142ms or 62 ticks behind
+[02:04:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7900ms or 158 ticks behind
+[02:04:32] [Server thread/INFO]: theBEaRstring lost connection: Disconnected
+[02:04:32] [Server thread/INFO]: theBEaRstring left the game
+[02:04:35] [Server thread/INFO]: Bea lost connection: Disconnected
+[02:04:35] [Server thread/INFO]: Bea left the game
+[02:04:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2489ms or 49 ticks behind
+[02:04:42] [Server Shutdown Thread/INFO]: Stopping server
+[02:04:42] [Server Shutdown Thread/INFO]: Saving players
