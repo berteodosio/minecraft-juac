@@ -375,6 +375,7 @@
       "bread": "2021-04-23 21:08:29 -0300",
       "beetroot": "2021-04-22 00:29:43 -0300",
       "cooked_chicken": "2021-04-21 23:38:27 -0300",
+      "cod": "2021-04-29 21:18:15 -0300",
       "cooked_salmon": "2021-04-23 22:15:53 -0300",
       "carrot": "2021-04-23 23:04:35 -0300"
     },
@@ -458,13 +459,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2021-04-21 22:43:38 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2021-04-21 22:43:38 -0300"
     },
@@ -671,6 +672,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2021-04-30 00:33:47 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2021-04-22 01:20:06 -0300"
@@ -797,6 +804,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2021-04-29 21:18:58 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
     "criteria": {
       "has_black_dye": "2021-04-23 21:39:12 -0300"
@@ -893,13 +906,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2021-04-24 21:17:19 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2021-04-24 21:17:19 -0300"
     },
@@ -918,7 +931,8 @@
       "minecraft:enderman": "2021-04-22 01:25:43 -0300",
       "minecraft:spider": "2021-04-23 00:14:22 -0300",
       "minecraft:zombie": "2021-04-23 00:08:18 -0300",
-      "minecraft:creeper": "2021-04-26 23:25:32 -0300"
+      "minecraft:creeper": "2021-04-26 23:25:32 -0300",
+      "minecraft:zombie_villager": "2021-04-30 00:21:15 -0300"
     },
     "done": false
   },
@@ -946,9 +960,21 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2021-04-29 21:31:33 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2021-04-24 21:15:09 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2021-04-30 00:11:43 -0300"
     },
     "done": true
   },
@@ -1168,6 +1194,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_sandstone": {
+    "criteria": {
+      "has_stone_slab": "2021-04-30 00:43:50 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2021-04-22 00:32:41 -0300"
@@ -1267,6 +1299,12 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_red_flower": "2021-04-21 22:40:55 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_glazed_terracotta": {
+    "criteria": {
+      "has_blue_terracotta": "2021-04-30 00:33:43 -0300"
     },
     "done": true
   },
@@ -1531,6 +1569,12 @@
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2021-04-21 22:56:57 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2021-04-29 21:18:58 -0300"
     },
     "done": true
   },
