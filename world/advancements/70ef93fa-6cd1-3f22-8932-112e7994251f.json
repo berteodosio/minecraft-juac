@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2021-04-30 23:20:11 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_at_least_9_wheat": "2021-04-23 21:00:02 -0300"
@@ -188,6 +194,12 @@
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-04-29 23:32:12 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2021-05-01 01:01:45 -0300"
     },
     "done": true
   },
@@ -420,15 +432,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2021-04-23 21:11:39 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-04-23 21:11:39 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/decorations/pink_banner": {
     "criteria": {
-      "has_gravel": "2021-04-23 21:11:39 -0300"
+      "has_pink_wool": "2021-05-01 01:01:45 -0300"
     },
     "done": true
   },
@@ -894,6 +912,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2021-05-01 00:17:50 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2021-04-24 21:15:25 -0300"
@@ -957,6 +981,12 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2021-04-24 17:32:52 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_at_least_9_lapis": "2021-05-01 00:17:36 -0300"
     },
     "done": true
   },
@@ -1053,6 +1083,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2021-04-24 21:56:30 -0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2021-05-01 01:08:49 -0300"
     },
     "done": true
   },
@@ -1185,6 +1221,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2021-04-23 22:05:15 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2021-05-01 01:01:45 -0300"
     },
     "done": true
   },
@@ -1323,6 +1365,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2021-04-24 17:32:52 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2021-04-30 23:20:11 -0300"
     },
     "done": true
   },
@@ -1553,7 +1601,9 @@
       "minecraft:forest": "2021-04-23 21:03:22 -0300",
       "minecraft:desert_hills": "2021-04-23 20:52:12 -0300",
       "minecraft:desert": "2021-04-23 20:46:44 -0300",
+      "minecraft:birch_forest": "2021-04-30 23:35:04 -0300",
       "minecraft:savanna_plateau": "2021-04-25 02:13:39 -0300",
+      "minecraft:dark_forest": "2021-04-30 23:45:27 -0300",
       "minecraft:river": "2021-04-23 21:25:13 -0300",
       "minecraft:wooded_hills": "2021-04-23 20:45:32 -0300",
       "minecraft:savanna": "2021-04-23 22:46:57 -0300",
@@ -1714,6 +1764,12 @@
   "minecraft:husbandry/fishy_business": {
     "criteria": {
       "cod": "2021-04-24 23:44:58 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_at_least_9_lapis": "2021-05-01 00:17:36 -0300"
     },
     "done": true
   },
