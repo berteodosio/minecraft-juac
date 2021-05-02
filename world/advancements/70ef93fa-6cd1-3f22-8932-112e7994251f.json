@@ -311,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2021-05-02 00:29:19 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2021-04-24 21:56:30 -0300"
@@ -338,7 +344,8 @@
       "potato": "2021-04-23 21:01:35 -0300",
       "cooked_cod": "2021-04-24 20:25:07 -0300",
       "beetroot": "2021-04-23 21:27:40 -0300",
-      "cooked_chicken": "2021-04-25 23:40:00 -0300"
+      "cooked_chicken": "2021-04-25 23:40:00 -0300",
+      "cooked_salmon": "2021-05-02 01:53:33 -0300"
     },
     "done": false
   },
@@ -432,13 +439,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-04-23 21:11:39 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-04-23 21:11:39 -0300"
     },
@@ -864,15 +871,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2021-04-24 21:17:25 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2021-04-24 21:17:25 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
-      "has_diamond": "2021-04-24 21:17:25 -0300"
+      "has_rail": "2021-05-02 00:29:19 -0300"
     },
     "done": true
   },
@@ -885,6 +898,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2021-04-23 20:53:30 -0300",
+      "minecraft:phantom": "2021-05-02 01:51:25 -0300",
       "minecraft:husk": "2021-04-23 20:52:53 -0300",
       "minecraft:enderman": "2021-04-29 22:58:43 -0300",
       "minecraft:spider": "2021-04-23 21:55:20 -0300",
@@ -1368,6 +1382,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2021-05-01 23:55:21 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2021-04-30 23:20:11 -0300"
@@ -1638,6 +1658,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2021-04-23 21:08:53 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2021-05-02 00:29:19 -0300"
     },
     "done": true
   },

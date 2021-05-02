@@ -587,6 +587,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_at_least_9_gold_ingot": "2021-05-02 00:53:59 -0300"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2021-04-22 01:21:39 -0300",
@@ -852,13 +858,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2021-04-22 01:14:50 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2021-04-22 01:14:50 -0300"
     },
@@ -887,7 +893,8 @@
       "minecraft:enderman": "2021-04-23 22:55:46 -0300",
       "minecraft:spider": "2021-04-21 23:30:01 -0300",
       "minecraft:zombie": "2021-04-21 22:41:39 -0300",
-      "minecraft:creeper": "2021-04-21 23:33:21 -0300"
+      "minecraft:creeper": "2021-04-21 23:33:21 -0300",
+      "minecraft:zombie_villager": "2021-05-02 00:47:51 -0300"
     },
     "done": false
   },
@@ -1014,6 +1021,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2021-04-21 23:00:03 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_at_least_9_gold_ingot": "2021-05-02 00:53:59 -0300"
     },
     "done": true
   },
@@ -1335,6 +1348,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2021-05-02 01:01:25 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2021-04-23 01:04:44 -0300"
@@ -1575,8 +1594,10 @@
       "minecraft:desert_hills": "2021-04-23 00:44:50 -0300",
       "minecraft:desert": "2021-04-21 22:40:46 -0300",
       "minecraft:savanna_plateau": "2021-04-23 23:56:42 -0300",
+      "minecraft:dark_forest": "2021-05-02 02:16:48 -0300",
       "minecraft:river": "2021-04-21 23:19:29 -0300",
       "minecraft:wooded_hills": "2021-04-21 22:38:46 -0300",
+      "minecraft:swamp": "2021-05-02 02:15:51 -0300",
       "minecraft:savanna": "2021-04-21 23:52:31 -0300",
       "minecraft:plains": "2021-04-21 22:38:07 -0300"
     },
