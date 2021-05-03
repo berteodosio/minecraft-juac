@@ -548,13 +548,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2021-04-21 22:43:38 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2021-04-21 22:43:38 -0300"
     },
@@ -1007,13 +1007,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2021-04-22 01:15:04 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2021-04-22 01:15:04 -0300"
     },
@@ -1049,8 +1049,8 @@
       "minecraft:magma_cube": "2021-04-29 01:17:04 -0300",
       "minecraft:spider": "2021-04-21 23:10:17 -0300",
       "minecraft:zombie": "2021-04-21 23:07:49 -0300",
-      "minecraft:creeper": "2021-04-21 23:43:25 -0300",
       "minecraft:drowned": "2021-04-25 01:39:50 -0300",
+      "minecraft:creeper": "2021-04-21 23:43:25 -0300",
       "minecraft:zombie_villager": "2021-04-22 23:10:21 -0300"
     },
     "done": false
@@ -1898,8 +1898,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2021-04-21 23:17:10 -0300",
       "minecraft:mountains": "2021-04-24 23:22:30 -0300",
+      "minecraft:forest": "2021-04-21 23:17:10 -0300",
       "minecraft:taiga": "2021-04-24 23:21:13 -0300",
       "minecraft:desert_hills": "2021-04-24 00:21:43 -0300",
       "minecraft:desert": "2021-04-21 22:43:12 -0300",
@@ -1908,8 +1908,8 @@
       "minecraft:savanna_plateau": "2021-04-24 00:25:42 -0300",
       "minecraft:beach": "2021-04-24 00:34:24 -0300",
       "minecraft:dark_forest": "2021-04-24 00:38:41 -0300",
-      "minecraft:river": "2021-04-21 23:36:56 -0300",
       "minecraft:lukewarm_ocean": "2021-04-24 00:34:34 -0300",
+      "minecraft:river": "2021-04-21 23:36:56 -0300",
       "minecraft:wooded_hills": "2021-04-21 22:48:51 -0300",
       "minecraft:swamp": "2021-04-24 00:38:10 -0300",
       "minecraft:savanna": "2021-04-21 23:33:35 -0300",
