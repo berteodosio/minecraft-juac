@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2021-05-03 01:00:16 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2021-04-23 20:59:32 -0300"
@@ -176,6 +182,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2021-04-23 20:59:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2021-05-03 01:00:16 -0300"
     },
     "done": true
   },
@@ -317,6 +329,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2021-05-03 01:06:34 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2021-05-03 01:00:16 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2021-04-23 21:51:02 -0300"
@@ -340,6 +364,7 @@
       "bread": "2021-04-23 22:34:12 -0300",
       "beetroot": "2021-04-23 21:01:39 -0300",
       "cooked_chicken": "2021-04-24 00:00:20 -0300",
+      "cooked_salmon": "2021-05-03 00:54:29 -0300",
       "carrot": "2021-05-02 03:00:32 -0300"
     },
     "done": false
@@ -428,13 +453,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-04-23 21:19:34 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-04-23 21:19:34 -0300"
     },
@@ -467,6 +492,12 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2021-04-23 21:51:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2021-05-03 01:00:16 -0300"
     },
     "done": true
   },
@@ -532,7 +563,10 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:chicken": "2021-05-02 02:20:48 -0300"
+      "minecraft:cow": "2021-05-02 23:14:04 -0300",
+      "minecraft:chicken": "2021-05-02 02:20:48 -0300",
+      "minecraft:pig": "2021-05-02 23:13:07 -0300",
+      "minecraft:sheep": "2021-05-02 23:14:38 -0300"
     },
     "done": false
   },
@@ -563,6 +597,12 @@
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2021-04-30 23:57:56 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_at_least_9_gold_ingot": "2021-05-03 01:00:16 -0300"
     },
     "done": true
   },
@@ -707,6 +747,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2021-05-03 01:00:16 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2021-04-23 20:42:29 -0300"
@@ -833,6 +879,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2021-05-03 01:06:34 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2021-04-23 23:59:24 -0300"
@@ -843,6 +895,7 @@
     "criteria": {
       "minecraft:skeleton": "2021-04-23 22:12:53 -0300",
       "minecraft:husk": "2021-04-25 22:31:44 -0300",
+      "minecraft:cave_spider": "2021-05-03 00:35:42 -0300",
       "minecraft:enderman": "2021-04-24 20:04:53 -0300",
       "minecraft:spider": "2021-04-23 20:47:09 -0300",
       "minecraft:zombie": "2021-04-23 20:55:31 -0300",
@@ -981,6 +1034,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_at_least_9_gold_ingot": "2021-05-03 01:00:16 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2021-04-23 23:59:23 -0300"
@@ -1041,6 +1100,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2021-05-03 01:00:16 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_the_recipe": "2021-04-23 20:44:25 -0300"
@@ -1074,6 +1139,12 @@
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2021-04-30 23:57:56 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2021-05-03 01:00:16 -0300"
     },
     "done": true
   },
@@ -1227,6 +1298,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2021-05-03 01:00:16 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2021-04-30 23:57:56 -0300"
@@ -1287,6 +1364,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2021-05-03 01:00:16 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2021-04-23 21:51:02 -0300"
@@ -1299,6 +1382,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2021-05-03 01:00:16 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2021-04-23 21:06:59 -0300"
@@ -1308,6 +1397,12 @@
   "minecraft:recipes/redstone/acacia_trapdoor": {
     "criteria": {
       "has_planks": "2021-04-23 22:25:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2021-05-03 00:11:25 -0300"
     },
     "done": true
   },
@@ -1461,9 +1556,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2021-05-03 01:00:16 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot": {
     "criteria": {
       "has_iron_ore": "2021-04-23 21:11:21 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2021-05-03 00:11:25 -0300"
     },
     "done": true
   },
@@ -1496,6 +1603,7 @@
       "minecraft:forest": "2021-04-23 21:03:20 -0300",
       "minecraft:desert_hills": "2021-04-23 21:01:25 -0300",
       "minecraft:desert": "2021-04-23 20:42:19 -0300",
+      "minecraft:savanna_plateau": "2021-05-03 02:27:13 -0300",
       "minecraft:river": "2021-04-23 21:37:35 -0300",
       "minecraft:wooded_hills": "2021-04-23 21:45:21 -0300",
       "minecraft:savanna": "2021-04-23 22:30:20 -0300",
@@ -1530,6 +1638,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2021-04-23 21:04:40 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2021-05-03 01:06:34 -0300"
     },
     "done": true
   },
@@ -1686,6 +1800,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2021-04-24 21:17:56 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2021-05-03 01:00:16 -0300"
     },
     "done": true
   },

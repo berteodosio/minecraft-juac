@@ -359,6 +359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2021-05-03 01:44:40 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2021-04-24 00:43:06 -0300"
@@ -387,6 +393,7 @@
       "apple": "2021-04-23 00:43:48 -0300",
       "potato": "2021-04-30 01:57:40 -0300",
       "cooked_cod": "2021-05-02 01:11:03 -0300",
+      "mutton": "2021-05-03 01:08:19 -0300",
       "bread": "2021-04-23 21:08:29 -0300",
       "beetroot": "2021-04-22 00:29:43 -0300",
       "cooked_chicken": "2021-04-21 23:38:27 -0300",
@@ -474,13 +481,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2021-04-21 22:43:38 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2021-04-21 22:43:38 -0300"
     },
@@ -939,6 +946,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2021-05-03 01:44:40 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2021-04-22 23:47:47 -0300"
@@ -950,6 +963,7 @@
       "minecraft:blaze": "2021-04-24 00:40:40 -0300",
       "minecraft:skeleton": "2021-04-22 23:16:34 -0300",
       "minecraft:husk": "2021-05-02 00:49:49 -0300",
+      "minecraft:cave_spider": "2021-05-03 01:12:54 -0300",
       "minecraft:enderman": "2021-04-22 01:25:43 -0300",
       "minecraft:spider": "2021-04-23 00:14:22 -0300",
       "minecraft:zombie": "2021-04-23 00:08:18 -0300",
@@ -1486,6 +1500,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2021-05-03 00:10:37 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2021-04-21 22:49:36 -0300"
@@ -1660,6 +1680,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2021-05-03 00:10:37 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2021-04-21 23:02:54 -0300"
@@ -1742,6 +1768,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2021-04-21 23:02:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2021-05-03 01:44:40 -0300"
     },
     "done": true
   },

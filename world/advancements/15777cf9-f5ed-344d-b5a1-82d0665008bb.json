@@ -358,6 +358,7 @@
       "cooked_porkchop": "2021-04-21 23:07:24 -0300",
       "cooked_mutton": "2021-04-22 01:20:36 -0300",
       "cooked_beef": "2021-04-21 23:57:41 -0300",
+      "cooked_cod": "2021-05-03 01:09:34 -0300",
       "pufferfish": "2021-04-23 00:26:46 -0300",
       "bread": "2021-04-23 00:35:37 -0300",
       "mushroom_stew": "2021-04-26 00:03:07 -0300",
@@ -443,13 +444,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2021-04-21 22:50:10 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2021-04-21 22:50:10 -0300"
     },
