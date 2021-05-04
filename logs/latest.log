@@ -1,56 +1,73 @@
-[18:51:17] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:51:17] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:51:17] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:51:17] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:51:17] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:51:17] [main/INFO]: Loaded 0 recipes
-[18:51:17] [main/INFO]: Loaded 0 advancements
-[18:51:17] [Server thread/INFO]: Starting minecraft server version 1.13.1
-[18:51:17] [Server thread/INFO]: Loading properties
-[18:51:17] [Server thread/INFO]: Default game type: SURVIVAL
-[18:51:17] [Server thread/INFO]: Generating keypair
-[18:51:17] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:51:17] [Server thread/INFO]: Using default channel type
-[18:51:18] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:51:18] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:51:18] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:51:18] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:51:18] [Server thread/INFO]: Preparing level "world"
-[18:51:18] [Server thread/INFO]: Reloading ResourceManager: Default
-[18:51:21] [Server thread/INFO]: Loaded 524 recipes
-[18:51:22] [Server thread/INFO]: Loaded 571 advancements
-[18:51:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:51:23] [Server thread/INFO]: Preparing spawn area: 4%
-[18:51:23] [Server thread/INFO]: Preparing spawn area: 8%
-[18:51:23] [Server thread/INFO]: Preparing spawn area: 12%
-[18:51:23] [Server thread/INFO]: Preparing spawn area: 16%
-[18:51:23] [Server thread/INFO]: Preparing spawn area: 20%
-[18:51:24] [Server thread/INFO]: Preparing spawn area: 24%
-[18:51:24] [Server thread/INFO]: Preparing spawn area: 28%
-[18:51:24] [Server thread/INFO]: Preparing spawn area: 32%
-[18:51:24] [Server thread/INFO]: Preparing spawn area: 36%
-[18:51:24] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 6ad9cd2d-5511-4233-868d-1c1a3af6f188
-[18:51:24] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 86a1bda1-a6eb-4a51-a7e7-4219874be389
-[18:51:24] [Server thread/WARN]: Keeping entity minecraft:horse that already exists with UUID 8e1ad72f-6bda-4830-8628-0e6548036998
-[18:51:24] [Server thread/INFO]: Preparing spawn area: 40%
-[18:51:24] [Server thread/INFO]: Preparing spawn area: 44%
-[18:51:24] [Server thread/INFO]: Preparing spawn area: 48%
-[18:51:24] [Server thread/INFO]: Preparing spawn area: 52%
-[18:51:24] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID f461a773-891e-497b-a191-24efbe543993
-[18:51:24] [Server thread/INFO]: Preparing spawn area: 56%
-[18:51:24] [Server thread/INFO]: Preparing spawn area: 60%
-[18:51:25] [Server thread/INFO]: Preparing spawn area: 64%
-[18:51:25] [Server thread/INFO]: Preparing spawn area: 68%
-[18:51:25] [Server thread/INFO]: Preparing spawn area: 72%
-[18:51:25] [Server thread/INFO]: Preparing spawn area: 76%
-[18:51:25] [Server thread/INFO]: Preparing spawn area: 80%
-[18:51:25] [Server thread/INFO]: Preparing spawn area: 84%
-[18:51:25] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
-[18:51:25] [Server thread/INFO]: Preparing spawn area: 88%
-[18:51:25] [Server thread/INFO]: Preparing spawn area: 92%
-[18:51:25] [Server thread/INFO]: Preparing spawn area: 96%
-[18:51:25] [Server thread/INFO]: Preparing spawn area: 100%
-[18:51:25] [Server thread/INFO]: Time elapsed: 2559 ms
-[18:51:25] [Server thread/INFO]: Done (6.591s)! For help, type "help"
-[18:51:28] [Server Shutdown Thread/INFO]: Stopping server
-[18:51:28] [Server Shutdown Thread/INFO]: Saving players
+[22:13:55] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:13:55] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:13:55] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:13:55] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:13:55] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:13:55] [main/INFO]: Loaded 0 recipes
+[22:13:55] [main/INFO]: Loaded 0 advancements
+[22:13:55] [Server thread/INFO]: Starting minecraft server version 1.13.1
+[22:13:55] [Server thread/INFO]: Loading properties
+[22:13:55] [Server thread/INFO]: Default game type: SURVIVAL
+[22:13:55] [Server thread/INFO]: Generating keypair
+[22:13:56] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:13:56] [Server thread/INFO]: Using default channel type
+[22:13:57] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:13:57] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:13:57] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:13:57] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:13:58] [Server thread/INFO]: Preparing level "world"
+[22:13:58] [Server thread/INFO]: Reloading ResourceManager: Default
+[22:14:00] [Server thread/INFO]: Loaded 524 recipes
+[22:14:02] [Server thread/INFO]: Loaded 571 advancements
+[22:14:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:14:03] [Server thread/INFO]: Preparing spawn area: 4%
+[22:14:03] [Server thread/INFO]: Preparing spawn area: 8%
+[22:14:03] [Server thread/INFO]: Preparing spawn area: 12%
+[22:14:03] [Server thread/INFO]: Preparing spawn area: 16%
+[22:14:03] [Server thread/INFO]: Preparing spawn area: 20%
+[22:14:03] [Server thread/INFO]: Preparing spawn area: 24%
+[22:14:04] [Server thread/INFO]: Preparing spawn area: 28%
+[22:14:04] [Server thread/INFO]: Preparing spawn area: 32%
+[22:14:04] [Server thread/INFO]: Preparing spawn area: 36%
+[22:14:04] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 6ad9cd2d-5511-4233-868d-1c1a3af6f188
+[22:14:04] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 86a1bda1-a6eb-4a51-a7e7-4219874be389
+[22:14:04] [Server thread/WARN]: Keeping entity minecraft:horse that already exists with UUID 8e1ad72f-6bda-4830-8628-0e6548036998
+[22:14:04] [Server thread/INFO]: Preparing spawn area: 40%
+[22:14:04] [Server thread/INFO]: Preparing spawn area: 44%
+[22:14:04] [Server thread/INFO]: Preparing spawn area: 48%
+[22:14:04] [Server thread/INFO]: Preparing spawn area: 52%
+[22:14:04] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID f461a773-891e-497b-a191-24efbe543993
+[22:14:04] [Server thread/INFO]: Preparing spawn area: 56%
+[22:14:04] [Server thread/INFO]: Preparing spawn area: 60%
+[22:14:04] [Server thread/INFO]: Preparing spawn area: 64%
+[22:14:04] [Server thread/INFO]: Preparing spawn area: 68%
+[22:14:04] [Server thread/INFO]: Preparing spawn area: 72%
+[22:14:04] [Server thread/INFO]: Preparing spawn area: 76%
+[22:14:04] [Server thread/INFO]: Preparing spawn area: 80%
+[22:14:05] [Server thread/INFO]: Preparing spawn area: 84%
+[22:14:05] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
+[22:14:05] [Server thread/INFO]: Preparing spawn area: 88%
+[22:14:05] [Server thread/INFO]: Preparing spawn area: 92%
+[22:14:05] [Server thread/INFO]: Preparing spawn area: 96%
+[22:14:05] [Server thread/INFO]: Preparing spawn area: 100%
+[22:14:05] [Server thread/INFO]: Time elapsed: 2689 ms
+[22:14:05] [Server thread/INFO]: Done (7.199s)! For help, type "help"
+[22:15:01] [Server thread/INFO]: Bea[/25.109.233.81:55159] logged in with entity id 131 at (345.5921178368525, 64.0, -313.9082306536625)
+[22:15:01] [Server thread/INFO]: Bea joined the game
+[22:15:04] [Server thread/WARN]: Keeping entity minecraft:horse that already exists with UUID 9cf209fd-d46b-42f9-94d4-1781d1ea31e4
+[22:15:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4193ms or 83 ticks behind
+[22:15:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2227ms or 44 ticks behind
+[22:17:13] [Server thread/INFO]: Bea lost connection: Disconnected
+[22:17:13] [Server thread/INFO]: Bea left the game
+[22:17:51] [Server thread/INFO]: Bea[/25.109.233.81:55201] logged in with entity id 3405 at (344.53915396589787, 64.0, -313.7912509934559)
+[22:17:51] [Server thread/INFO]: Bea joined the game
+[22:18:03] [Server thread/WARN]: Keeping entity minecraft:horse that already exists with UUID 9cf209fd-d46b-42f9-94d4-1781d1ea31e4
+[22:18:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12971ms or 259 ticks behind
+[22:18:39] [Server thread/INFO]: Bea lost connection: Disconnected
+[22:18:39] [Server thread/INFO]: Bea left the game
+[22:18:49] [Server Shutdown Thread/INFO]: Stopping server
+[22:18:49] [Server Shutdown Thread/INFO]: Saving players
+[22:18:49] [Server Shutdown Thread/INFO]: Saving worlds
+[22:18:49] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[22:18:49] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[22:18:49] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
