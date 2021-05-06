@@ -1,79 +1,317 @@
-[14:17:50] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[14:17:50] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:17:50] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:17:50] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[14:17:50] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:17:50] [main/INFO]: Loaded 0 recipes
-[14:17:50] [main/INFO]: Loaded 0 advancements
-[14:17:50] [Server thread/INFO]: Starting minecraft server version 1.13.1
-[14:17:50] [Server thread/INFO]: Loading properties
-[14:17:50] [Server thread/INFO]: Default game type: SURVIVAL
-[14:17:50] [Server thread/INFO]: Generating keypair
-[14:17:51] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:17:51] [Server thread/INFO]: Using default channel type
-[14:17:53] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:17:53] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:17:53] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:17:53] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:17:53] [Server thread/INFO]: Preparing level "world"
-[14:17:53] [Server thread/INFO]: Reloading ResourceManager: Default
-[14:17:55] [Server thread/INFO]: Loaded 524 recipes
-[14:17:58] [Server thread/INFO]: Loaded 571 advancements
-[14:17:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:17:59] [Server thread/INFO]: Preparing spawn area: 4%
-[14:17:59] [Server thread/INFO]: Preparing spawn area: 8%
-[14:17:59] [Server thread/INFO]: Preparing spawn area: 12%
-[14:18:00] [Server thread/INFO]: Preparing spawn area: 16%
-[14:18:00] [Server thread/INFO]: Preparing spawn area: 20%
-[14:18:00] [Server thread/INFO]: Preparing spawn area: 24%
-[14:18:01] [Server thread/INFO]: Preparing spawn area: 28%
-[14:18:01] [Server thread/INFO]: Preparing spawn area: 32%
-[14:18:01] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 6ad9cd2d-5511-4233-868d-1c1a3af6f188
-[14:18:01] [Server thread/INFO]: Preparing spawn area: 36%
-[14:18:01] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 86a1bda1-a6eb-4a51-a7e7-4219874be389
-[14:18:01] [Server thread/WARN]: Keeping entity minecraft:horse that already exists with UUID 8e1ad72f-6bda-4830-8628-0e6548036998
-[14:18:01] [Server thread/INFO]: Preparing spawn area: 40%
-[14:18:01] [Server thread/INFO]: Preparing spawn area: 44%
-[14:18:01] [Server thread/INFO]: Preparing spawn area: 48%
-[14:18:01] [Server thread/INFO]: Preparing spawn area: 52%
-[14:18:02] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID f461a773-891e-497b-a191-24efbe543993
-[14:18:02] [Server thread/INFO]: Preparing spawn area: 56%
-[14:18:02] [Server thread/INFO]: Preparing spawn area: 60%
-[14:18:02] [Server thread/INFO]: Preparing spawn area: 64%
-[14:18:02] [Server thread/INFO]: Preparing spawn area: 68%
-[14:18:02] [Server thread/INFO]: Preparing spawn area: 72%
-[14:18:02] [Server thread/INFO]: Preparing spawn area: 76%
-[14:18:02] [Server thread/INFO]: Preparing spawn area: 80%
-[14:18:02] [Server thread/INFO]: Preparing spawn area: 84%
-[14:18:02] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
-[14:18:02] [Server thread/INFO]: Preparing spawn area: 88%
-[14:18:02] [Server thread/INFO]: Preparing spawn area: 92%
-[14:18:02] [Server thread/INFO]: Preparing spawn area: 96%
-[14:18:02] [Server thread/INFO]: Preparing spawn area: 100%
-[14:18:02] [Server thread/INFO]: Time elapsed: 4705 ms
-[14:18:02] [Server thread/INFO]: Done (9.597s)! For help, type "help"
-[14:18:42] [Server thread/INFO]: Bea[/25.109.233.81:57313] logged in with entity id 121 at (345.1775288324961, 64.0, -311.7202637311147)
-[14:18:43] [Server thread/INFO]: Bea joined the game
-[14:18:45] [Server thread/WARN]: Keeping entity minecraft:horse that already exists with UUID 9cf209fd-d46b-42f9-94d4-1781d1ea31e4
-[14:18:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4487ms or 89 ticks behind
-[14:19:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3297ms or 65 ticks behind
-[14:20:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2101ms or 42 ticks behind
-[14:22:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2947ms or 58 ticks behind
-[14:24:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2157ms or 43 ticks behind
-[14:26:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2089ms or 41 ticks behind
-[14:33:51] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
-[14:40:04] [Server thread/WARN]: Keeping entity minecraft:horse that already exists with UUID 9cf209fd-d46b-42f9-94d4-1781d1ea31e4
-[14:47:07] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
-[14:47:33] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
-[15:03:36] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
-[15:04:25] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 6ad9cd2d-5511-4233-868d-1c1a3af6f188
-[15:06:40] [Server thread/WARN]: Keeping entity minecraft:horse that already exists with UUID 9cf209fd-d46b-42f9-94d4-1781d1ea31e4
-[15:21:43] [Server thread/WARN]: Keeping entity minecraft:horse that already exists with UUID 9cf209fd-d46b-42f9-94d4-1781d1ea31e4
-[15:23:17] [Server thread/INFO]: Bea lost connection: Disconnected
-[15:23:17] [Server thread/INFO]: Bea left the game
-[15:24:16] [Server Shutdown Thread/INFO]: Stopping server
-[15:24:17] [Server Shutdown Thread/INFO]: Saving players
-[15:24:17] [Server Shutdown Thread/INFO]: Saving worlds
-[15:24:17] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[15:24:18] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[15:24:18] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[00:00:00] [Server thread/INFO]: <theBEaRstring> aoba
+[00:00:14] [Server thread/INFO]: <theBEaRstring> buenas noches
+[00:00:56] [Server thread/INFO]: <Tio_Prates> bea
+[00:00:59] [Server thread/INFO]: <Tio_Prates> quero penas
+[00:01:00] [Server thread/INFO]: <theBEaRstring> to lagadin
+[00:01:06] [Server thread/INFO]: <theBEaRstring> bea vc pegou mais pérolas?
+[00:01:13] [Server thread/INFO]: <Bea> vem aq eu tenho pena
+[00:01:15] [Server thread/INFO]: <Bea> n kskssk
+[00:01:21] [Server thread/INFO]: <Bea> só to com 5 perolas
+[00:01:30] [Server thread/INFO]: <theBEaRstring> me mostra onde eh aquela outra vila? que vc falou?
+[00:01:47] [Server thread/INFO]: <Tio_Prates> no deserto
+[00:01:49] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 837e4ad8-3fd8-4ef1-872f-fe5ffe58a092
+[00:01:55] [Server thread/INFO]: <Tio_Prates> e a outra é mt longe
+[00:02:59] [Server thread/INFO]: <Bea> perai q já mostro
+[00:03:02] [Server thread/INFO]: <Bea> vem na minha casa
+[00:03:42] [Server thread/INFO]: <Tio_Prates> zzz
+[00:03:43] [Server thread/INFO]: <Tio_Prates> zzzz
+[00:03:44] [Server thread/INFO]: <Tio_Prates> zzzz
+[00:03:44] [Server thread/INFO]: <Tio_Prates> zzz
+[00:03:46] [Server thread/INFO]: <bluekoya> zzz
+[00:04:00] [Server thread/WARN]: theBEaRstring was kicked for floating too long!
+[00:04:00] [Server thread/INFO]: theBEaRstring lost connection: Flying is not enabled on this server
+[00:04:00] [Server thread/INFO]: theBEaRstring left the game
+[00:04:13] [Server thread/INFO]: theBEaRstring[/25.65.60.80:65038] logged in with entity id 231305 at (324.4348971858049, 75.25220334025373, -325.493776003457)
+[00:04:13] [Server thread/INFO]: theBEaRstring joined the game
+[00:04:17] [Server thread/INFO]: <Tio_Prates> bea
+[00:04:25] [Server thread/INFO]: <Bea> matei um passarin azul
+[00:04:29] [Server thread/INFO]: <Bea> oioi
+[00:04:45] [Server thread/INFO]: <Tio_Prates> dorme
+[00:04:49] [Server thread/INFO]: <Bea> to deitada
+[00:05:38] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
+[00:06:25] [Server thread/INFO]: <theBEaRstring> lag tah meio triste aq
+[00:06:27] [Server thread/INFO]: <theBEaRstring> :(
+[00:06:36] [Server thread/INFO]: <Bea> acho q é pq tem gente no nether
+[00:06:43] [Server thread/INFO]: <theBEaRstring> ah tem?
+[00:06:46] [Server thread/INFO]: <Tio_Prates> n temn
+[00:06:49] [Server thread/INFO]: <Bea> acho q sim
+[00:06:54] [Server thread/INFO]: <theBEaRstring> bea bora na vila?
+[00:06:57] [Server thread/INFO]: <Bea> bora
+[00:07:02] [Server thread/INFO]: <theBEaRstring> leva o trigo
+[00:07:09] [Server thread/INFO]: <Bea> to levando td ssskss
+[00:07:26] [Server thread/INFO]: <theBEaRstring> vou fazer picareta, pera ai
+[00:07:27] [Server thread/INFO]: <theBEaRstring> to sem
+[00:07:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3044ms or 60 ticks behind
+[00:08:17] [Server thread/INFO]: <Bea> ber
+[00:08:19] [Server thread/INFO]: <theBEaRstring> oe
+[00:08:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2085ms or 41 ticks behind
+[00:08:25] [Server thread/INFO]: <Bea> to te esperando na frente da minha cas
+[00:08:27] [Server thread/INFO]: <theBEaRstring> ok
+[00:08:46] [Server thread/INFO]: <theBEaRstring> jah jah vou
+[00:09:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2104ms or 42 ticks behind
+[00:09:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15411ms or 308 ticks behind
+[00:09:43] [Server thread/WARN]: bluekoya moved too quickly! 9.497095934266781,0.41999998688697815,-3.9220200305045125
+[00:09:44] [Server thread/INFO]: <theBEaRstring> vou entrar ds
+[00:10:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10648ms or 212 ticks behind
+[00:10:21] [Server thread/INFO]: <theBEaRstring> bea vc tah ds?
+[00:10:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8618ms or 172 ticks behind
+[00:10:35] [Server thread/INFO]: <Bea> n ;-;
+[00:10:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16202ms or 324 ticks behind
+[00:11:16] [Server thread/INFO]: <theBEaRstring> oe
+[00:11:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4795ms or 95 ticks behind
+[00:11:21] [Server thread/INFO]: <Bea> oii
+[00:11:26] [Server thread/INFO]: <theBEaRstring> bora
+[00:11:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6654ms or 133 ticks behind
+[00:12:07] [Server thread/WARN]: bluekoya moved too quickly! 7.0141202215006615,0.0,-7.433822078454739
+[00:12:08] [Server thread/WARN]: Bea moved too quickly! -1.1265086707040268,-1.0,-10.134225612368994
+[00:12:08] [Server thread/WARN]: theBEaRstring moved too quickly! 6.56513820313404,1.0,-7.539917122668328
+[00:12:08] [Server thread/INFO]: <theBEaRstring> alo
+[00:12:08] [Server thread/WARN]: bluekoya moved too quickly! 6.781974524589145,0.0,-7.3863220895229915
+[00:12:12] [Server thread/INFO]: <theBEaRstring> bea
+[00:12:17] [Server thread/INFO]: <theBEaRstring> lagou aq
+[00:12:18] [Server thread/INFO]: <theBEaRstring> kd tu?
+[00:12:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 38681ms or 773 ticks behind
+[00:13:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17105ms or 342 ticks behind
+[00:13:10] [Server thread/INFO]: <theBEaRstring> nice bea
+[00:13:11] [Server thread/INFO]: <Bea> aq
+[00:13:17] [Server thread/INFO]: <theBEaRstring> vamo ve se tem farmer
+[00:13:19] [Server thread/INFO]: <theBEaRstring> quando anoitecer
+[00:13:21] [Server thread/INFO]: <Bea> ook
+[00:13:21] [Server thread/INFO]: <theBEaRstring> vamos sair kk
+[00:13:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13244ms or 264 ticks behind
+[00:13:41] [Server thread/WARN]: bluekoya moved too quickly! -8.8726685753237,-1.0,4.825446270257203
+[00:14:08] [Server thread/INFO]: <Bea> ber
+[00:14:09] [Server thread/INFO]: <theBEaRstring> oe
+[00:14:14] [Server thread/INFO]: <Bea> to com 8 esmeraldas
+[00:14:18] [Server thread/INFO]: <theBEaRstring> nicee
+[00:14:19] [Server thread/WARN]: bluekoya moved too quickly! -8.660785390675073,-0.4641593749554431,5.16344359264113
+[00:14:22] [Server thread/INFO]: <theBEaRstring> agora temos que pegar perola na outra vila
+[00:14:22] [Server thread/INFO]: <theBEaRstring> aisuhsauias
+[00:14:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 35172ms or 703 ticks behind
+[00:14:28] [Server thread/INFO]: <theBEaRstring> com o clerico de la
+[00:14:29] [Server thread/INFO]: <Bea> perai sksks
+[00:14:38] [Server thread/INFO]: <theBEaRstring> com qual vc trocou?
+[00:14:49] [Server thread/INFO]: <Bea> o bibliotecario
+[00:14:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16062ms or 321 ticks behind
+[00:15:03] [Server thread/INFO]: <Bea> vc tem 1 carne?
+[00:15:07] [Server thread/INFO]: <theBEaRstring> s
+[00:15:09] [Server thread/INFO]: <Bea> falta só 1
+[00:15:09] [Server thread/INFO]: <theBEaRstring> to procurando eles
+[00:15:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18829ms or 376 ticks behind
+[00:15:36] [Server thread/INFO]: <Bea> eles tão dentro das casas
+[00:15:46] [Server thread/INFO]: <theBEaRstring> mano
+[00:15:48] [Server thread/INFO]: <theBEaRstring> kd a porta??? KK
+[00:15:54] [Server thread/INFO]: <Bea> n tem porta ssks
+[00:15:57] [Server thread/INFO]: <Bea> ta fechado
+[00:15:59] [Server thread/INFO]: <theBEaRstring> uai
+[00:16:01] [Server thread/INFO]: <theBEaRstring> tah bugado ent
+[00:16:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17695ms or 353 ticks behind
+[00:16:10] [Server thread/INFO]: <theBEaRstring> calma
+[00:16:10] [Server thread/INFO]: <Bea> vem aq
+[00:16:14] [Server thread/INFO]: <theBEaRstring> oq vc torcou com o bibliotecario?
+[00:16:18] [Server thread/INFO]: <Bea> papel
+[00:16:21] [Server thread/INFO]: <theBEaRstring> ahhh
+[00:16:22] [Server thread/INFO]: <theBEaRstring> n tenho rs
+[00:16:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7107ms or 142 ticks behind
+[00:16:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4177ms or 83 ticks behind
+[00:16:59] [Server thread/INFO]: <theBEaRstring> bea
+[00:17:00] [Server thread/INFO]: <theBEaRstring> prendi
+[00:17:06] [Server thread/INFO]: <Bea> onde??
+[00:17:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8089ms or 161 ticks behind
+[00:17:09] [Server thread/INFO]: <theBEaRstring> aq
+[00:17:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3093ms or 61 ticks behind
+[00:17:28] [Server thread/INFO]: <theBEaRstring> k
+[00:17:39] [Server thread/INFO]: <Bea> ber
+[00:17:42] [Server thread/INFO]: <Bea> vem aq
+[00:17:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3203ms or 64 ticks behind
+[00:17:43] [Server thread/INFO]: <theBEaRstring> peguei mais 1 esmeralda
+[00:17:47] [Server thread/INFO]: <Bea> boaa
+[00:18:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6806ms or 136 ticks behind
+[00:18:08] [Server thread/INFO]: Tio_Prates lost connection: Timed out
+[00:18:08] [Server thread/INFO]: Tio_Prates left the game
+[00:18:15] [Server thread/INFO]: Tio_Prates[/25.7.171.236:49869] logged in with entity id 276566 at (309.7959690536013, 67.53584062504456, -352.782597418004)
+[00:18:15] [Server thread/INFO]: Tio_Prates joined the game
+[00:18:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2807ms or 56 ticks behind
+[00:18:29] [Server thread/INFO]: <theBEaRstring> bom
+[00:18:32] [Server thread/INFO]: <theBEaRstring> acho que soh consigo trocar isso kkk
+[00:18:38] [Server thread/INFO]: <Bea> ksksksk
+[00:18:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3160ms or 63 ticks behind
+[00:18:44] [Server thread/INFO]: <Bea> tem q ir na outra
+[00:18:48] [Server thread/INFO]: <theBEaRstring> sim
+[00:18:51] [Server thread/INFO]: <theBEaRstring> pra pegar as pérolas
+[00:18:55] [Server thread/INFO]: <Bea> isso
+[00:18:57] [Server thread/INFO]: <theBEaRstring> bora?
+[00:19:00] [Server thread/INFO]: <Bea> bora
+[00:19:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2359ms or 47 ticks behind
+[00:19:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2689ms or 53 ticks behind
+[00:19:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3659ms or 73 ticks behind
+[00:19:37] [Server thread/INFO]: <theBEaRstring> bora bea?
+[00:19:46] [Server thread/INFO]: <theBEaRstring> vai na frente k
+[00:20:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8776ms or 175 ticks behind
+[00:20:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2568ms or 51 ticks behind
+[00:20:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2157ms or 43 ticks behind
+[00:21:43] [Server thread/INFO]: <theBEaRstring> bea de manhã vamo lah
+[00:21:56] [Server thread/INFO]: <Bea> ook
+[00:22:00] [Server thread/INFO]: <Bea> to dormindo
+[00:22:23] [Server thread/INFO]: <theBEaRstring> deitado
+[00:22:39] [Server thread/INFO]: <theBEaRstring> quem falta??
+[00:22:43] [Server thread/INFO]: Tio_Prates lost connection: Disconnected
+[00:22:43] [Server thread/INFO]: Tio_Prates left the game
+[00:22:50] [Server thread/INFO]: Tio_Prates[/25.7.171.236:49876] logged in with entity id 287725 at (302.6621944911227, 63.0, -303.7340324323146)
+[00:22:50] [Server thread/INFO]: Tio_Prates joined the game
+[00:22:53] [Server thread/INFO]: <theBEaRstring> bora bea?
+[00:23:02] [Server thread/INFO]: <theBEaRstring> 5 esmeraldas aq
+[00:23:21] [Server thread/INFO]: <Bea> 8 aq
+[00:23:32] [Server thread/INFO]: <Bea> leva carne
+[00:23:39] [Server thread/INFO]: <theBEaRstring> tenho pouco
+[00:23:41] [Server thread/INFO]: <Bea> e linha de aranha
+[00:23:43] [Server thread/INFO]: <theBEaRstring> a que eu tenho vou deixar pro dog
+[00:23:52] [Server thread/INFO]: <Bea> é q eu tenho aq tb skkssk
+[00:23:55] [Server thread/INFO]: <Bea> leva 2
+[00:24:18] [Server thread/INFO]: <Bea> to aq no caminho
+[00:24:24] [Server thread/INFO]: <theBEaRstring> esqueci
+[00:25:06] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
+[00:25:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2498ms or 49 ticks behind
+[00:25:27] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 6ad9cd2d-5511-4233-868d-1c1a3af6f188
+[00:25:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2391ms or 47 ticks behind
+[00:25:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[00:26:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2950ms or 59 ticks behind
+[00:26:10] [Server thread/INFO]: <theBEaRstring> n da pra trocar os 2 de uma vez kk
+[00:26:16] [Server thread/INFO]: <Bea> acabeu
+[00:26:19] [Server thread/INFO]: <Bea> acabei
+[00:26:22] [Server thread/INFO]: <theBEaRstring> pega minha linha
+[00:26:25] [Server thread/INFO]: <theBEaRstring> e minha carne
+[00:26:37] [Server thread/INFO]: <theBEaRstring> n tenho mto kk
+[00:26:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3113ms or 62 ticks behind
+[00:27:01] [Server thread/INFO]: <theBEaRstring> me falta 2 esmeralda
+[00:27:03] [Server thread/INFO]: <theBEaRstring> dihfsuihgfsduivh
+[00:27:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2122ms or 42 ticks behind
+[00:27:05] [Server thread/INFO]: <theBEaRstring> que droga
+[00:27:13] [Server thread/INFO]: <Bea> aq
+[00:27:22] [Server thread/INFO]: Tio_Prates lost connection: Timed out
+[00:27:22] [Server thread/INFO]: Tio_Prates left the game
+[00:27:27] [Server thread/INFO]: Tio_Prates[/25.7.171.236:49880] logged in with entity id 303351 at (312.37571555271927, 64.17675927506424, -336.6539870007497)
+[00:27:27] [Server thread/INFO]: Tio_Prates joined the game
+[00:27:32] [Server thread/INFO]: <theBEaRstring> veio quantas?
+[00:27:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2299ms or 45 ticks behind
+[00:27:46] [Server thread/INFO]: <theBEaRstring> to com 5
+[00:27:48] [Server thread/INFO]: <Bea> eita
+[00:28:10] [Server thread/INFO]: <theBEaRstring> conseguiu perola?
+[00:28:13] [Server thread/INFO]: <Bea> sim
+[00:28:16] [Server thread/INFO]: <theBEaRstring> boa
+[00:28:17] [Server thread/INFO]: <Bea> to com 2
+[00:28:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[00:28:26] [Server thread/INFO]: <theBEaRstring> eu tenho 2 em casa acho
+[00:28:31] [Server thread/INFO]: <theBEaRstring> mais quantas vc tem em casa?
+[00:28:35] [Server thread/INFO]: <Bea> 5
+[00:28:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3408ms or 68 ticks behind
+[00:28:42] [Server thread/INFO]: <theBEaRstring> sao 9
+[00:28:42] [Server thread/INFO]: <Bea> ou 6
+[00:28:45] [Server thread/INFO]: <theBEaRstring> vou perguntar no ds aq
+[00:28:46] [Server thread/WARN]: Tio_Prates was kicked for floating too long!
+[00:28:46] [Server thread/INFO]: Tio_Prates lost connection: Flying is not enabled on this server
+[00:28:46] [Server thread/INFO]: Tio_Prates left the game
+[00:28:46] [Server thread/WARN]: handleDisconnection() called twice
+[00:28:48] [Server thread/INFO]: <Bea> ook
+[00:28:51] [Server thread/INFO]: Tio_Prates[/25.7.171.236:49882] logged in with entity id 308292 at (367.56114845729917, 65.24918707874468, -308.54383468029744)
+[00:28:51] [Server thread/INFO]: Tio_Prates joined the game
+[00:28:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2115ms or 42 ticks behind
+[00:29:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4001ms or 80 ticks behind
+[00:29:16] [Server thread/INFO]: <theBEaRstring> a galera tem mais bea
+[00:29:22] [Server thread/INFO]: <Bea> blzz
+[00:29:29] [Server thread/INFO]: <theBEaRstring> chega ai
+[00:29:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5387ms or 107 ticks behind
+[00:29:37] [Server thread/INFO]: <theBEaRstring> prato vai fazer os olhos
+[00:29:38] [Server thread/INFO]: <theBEaRstring> do ender
+[00:29:41] [Server thread/INFO]: <Bea> eita
+[00:29:42] [Server thread/INFO]: <theBEaRstring> pq ele quer "se sentir util"
+[00:29:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3845ms or 76 ticks behind
+[00:30:01] [Server thread/WARN]: Tio_Prates moved too quickly! 0.3092895864019738,1.0554624345250403,-10.13127474523776
+[00:30:06] [Server thread/WARN]: Tio_Prates was kicked for floating too long!
+[00:30:06] [Server thread/INFO]: Tio_Prates lost connection: Flying is not enabled on this server
+[00:30:06] [Server thread/INFO]: Tio_Prates left the game
+[00:30:12] [Server thread/INFO]: Tio_Prates[/25.7.171.236:49889] logged in with entity id 313822 at (312.5912537747388, 64.25220334025373, -346.85216716958394)
+[00:30:12] [Server thread/INFO]: Tio_Prates joined the game
+[00:30:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5040ms or 100 ticks behind
+[00:30:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2829ms or 56 ticks behind
+[00:31:39] [Server thread/INFO]: <theBEaRstring> bea
+[00:31:40] [Server thread/INFO]: <theBEaRstring> kd tu?
+[00:31:45] [Server thread/INFO]: <theBEaRstring> dropa as perola pro prato
+[00:31:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[00:31:53] [Server thread/INFO]: <Bea> no seu portão
+[00:31:57] [Server thread/INFO]: <theBEaRstring> entra aq
+[00:32:39] [Server thread/INFO]: <theBEaRstring> bea
+[00:32:42] [Server thread/INFO]: <theBEaRstring> n quer vir ds?
+[00:32:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2065ms or 41 ticks behind
+[00:32:47] [Server thread/INFO]: <Bea> n da ksks
+[00:32:56] [Server thread/INFO]: <Bea> eu to em ligação com o Richard
+[00:32:59] [Server thread/INFO]: <theBEaRstring> ah blz
+[00:33:03] [Server thread/INFO]: <theBEaRstring> vamo achar a stronghold
+[00:33:07] [Server thread/INFO]: <theBEaRstring> sem necessariamente matar o drag
+[00:33:12] [Server thread/INFO]: <Bea> eita
+[00:34:17] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 837e4ad8-3fd8-4ef1-872f-fe5ffe58a092
+[00:34:17] [Server thread/WARN]: Tio_Prates moved too quickly! 5.398553445054915,-1.0244240882136921,-8.572340604356441
+[00:34:37] [Server thread/INFO]: <Bea> vai dormir??
+[00:34:41] [Server thread/INFO]: Tio_Prates lost connection: Disconnected
+[00:34:41] [Server thread/INFO]: Tio_Prates left the game
+[00:34:45] [Server thread/INFO]: <theBEaRstring> vamo
+[00:34:49] [Server thread/INFO]: Tio_Prates[/25.7.171.236:49891] logged in with entity id 328937 at (332.95167721234344, 63.0, -376.43182731099745)
+[00:34:49] [Server thread/INFO]: Tio_Prates joined the game
+[00:34:53] [Server thread/INFO]: <theBEaRstring> alias
+[00:34:56] [Server thread/INFO]: <theBEaRstring> to cozinhando uma comida
+[00:35:05] [Server thread/INFO]: <Tio_Prates> a miir
+[00:35:10] [Server thread/INFO]: <Tio_Prates> amimir
+[00:35:43] [Server thread/WARN]: Tio_Prates moved too quickly! 4.291027115687882,2.200000047683716,-8.860342858272475
+[00:35:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3768ms or 75 ticks behind
+[00:36:46] [Server thread/INFO]: <theBEaRstring> a gente vai matar o drag ou n?
+[00:36:51] [Server thread/INFO]: <Bea> ainda n
+[00:37:00] [Server thread/INFO]: <theBEaRstring> povo tah afim no ds HASUASU
+[00:37:02] [Server thread/INFO]: <theBEaRstring> bora?
+[00:37:07] [Server thread/INFO]: <Bea> agr???
+[00:37:10] [Server thread/INFO]: <theBEaRstring> s asuhsausa
+[00:37:13] [Server thread/INFO]: <Bea> eita
+[00:37:15] [Server thread/INFO]: <Bea> então pera
+[00:37:19] [Server thread/INFO]: Tio_Prates lost connection: Timed out
+[00:37:19] [Server thread/INFO]: Tio_Prates left the game
+[00:37:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[00:37:25] [Server thread/INFO]: Tio_Prates[/25.7.171.236:49895] logged in with entity id 337237 at (372.44161010031513, 67.6000000178814, -405.51238184277025)
+[00:37:25] [Server thread/INFO]: Tio_Prates joined the game
+[00:37:26] [Server thread/WARN]: Horse (vehicle of Tanzitow) moved too quickly! 8.819106954726749,0.0,-5.2335079329433825
+[00:37:26] [Server thread/WARN]: Horse (vehicle of Tanzitow) moved too quickly! 9.275519492372098,0.0,-5.491124382859198
+[00:37:26] [Server thread/WARN]: Horse (vehicle of Tanzitow) moved too quickly! 9.73133203824159,0.0,-5.749884357526753
+[00:37:26] [Server thread/WARN]: Horse (vehicle of Tanzitow) moved too quickly! 10.187756159449975,0.0,-6.007609385308456
+[00:37:26] [Server thread/WARN]: Horse (vehicle of Tanzitow) moved too quickly! 10.64696466430496,0.0,-6.260292351740475
+[00:38:11] [Server thread/INFO]: Tio_Prates lost connection: Timed out
+[00:38:11] [Server thread/INFO]: Tio_Prates left the game
+[00:38:12] [Server thread/INFO]: bluekoya lost connection: Disconnected
+[00:38:12] [Server thread/INFO]: bluekoya left the game
+[00:38:13] [Server thread/INFO]: Tanzitow lost connection: Timed out
+[00:38:13] [Server thread/INFO]: Tanzitow left the game
+[00:38:22] [Server thread/INFO]: <theBEaRstring> bea
+[00:38:24] [Server thread/INFO]: <theBEaRstring> tah ai?
+[00:38:27] [Server thread/INFO]: <Bea> to
+[00:38:31] [Server thread/INFO]: <theBEaRstring> todo mundo caiu
+[00:38:35] [Server thread/INFO]: <theBEaRstring> e n conseguem entrar
+[00:38:37] [Server thread/INFO]: <Bea> tem q levar oq??
+[00:38:39] [Server thread/INFO]: <Bea> eita
+[00:38:41] [Server thread/INFO]: <theBEaRstring> auishiuhtauta
+[00:38:45] [Server thread/INFO]: <theBEaRstring> perae
+[00:38:49] [Server thread/INFO]: <theBEaRstring> bea
+[00:38:52] [Server thread/INFO]: <theBEaRstring> posso tentar hostear
+[00:38:54] [Server thread/INFO]: <theBEaRstring> pra ver se melhora?
+[00:39:04] [Server thread/INFO]: <Bea> pode simm
+[00:39:06] [Server thread/INFO]: <theBEaRstring> blz
+[00:39:06] [Server thread/INFO]: <Bea> vou sair aq
+[00:39:09] [Server thread/INFO]: <theBEaRstring> blz
+[00:39:10] [Server thread/INFO]: <theBEaRstring> faz o push
+[00:39:11] [Server thread/INFO]: Bea lost connection: Disconnected
+[00:39:11] [Server thread/INFO]: Bea left the game
+[00:39:12] [Server thread/INFO]: <theBEaRstring> vamo falar no grupo
+[00:39:14] [Server thread/INFO]: theBEaRstring lost connection: Disconnected
+[00:39:14] [Server thread/INFO]: theBEaRstring left the game
+[00:39:56] [Server Shutdown Thread/INFO]: Stopping server
+[00:39:57] [Server Shutdown Thread/INFO]: Saving players
+[00:39:57] [Server Shutdown Thread/INFO]: Saving worlds
+[00:39:57] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[00:39:57] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[00:39:57] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
