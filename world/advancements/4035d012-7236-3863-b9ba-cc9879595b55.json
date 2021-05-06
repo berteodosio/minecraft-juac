@@ -507,13 +507,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-04-23 21:19:34 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-04-23 21:19:34 -0300"
     },
@@ -945,13 +945,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2021-04-24 21:17:23 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2021-04-24 21:17:23 -0300"
     },
@@ -978,6 +978,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2021-04-23 22:12:53 -0300",
+      "minecraft:witch": "2021-05-06 01:00:36 -0300",
       "minecraft:husk": "2021-04-25 22:31:44 -0300",
       "minecraft:ghast": "2021-05-05 23:07:39 -0300",
       "minecraft:cave_spider": "2021-05-03 00:35:42 -0300",
@@ -1751,6 +1752,7 @@
       "minecraft:desert_hills": "2021-04-23 21:01:25 -0300",
       "minecraft:desert": "2021-04-23 20:42:19 -0300",
       "minecraft:savanna_plateau": "2021-05-03 02:27:13 -0300",
+      "minecraft:beach": "2021-05-06 01:18:32 -0300",
       "minecraft:river": "2021-04-23 21:37:35 -0300",
       "minecraft:wooded_hills": "2021-04-23 21:45:21 -0300",
       "minecraft:savanna": "2021-04-23 22:30:20 -0300",
