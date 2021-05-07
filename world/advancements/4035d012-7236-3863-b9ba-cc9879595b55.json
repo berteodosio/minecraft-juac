@@ -654,6 +654,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_double_plant": "2021-05-06 20:38:00 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/cactus_green": {
     "criteria": {
       "has_cactus": "2021-05-06 01:37:39 -0300"
@@ -669,6 +675,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_at_least_9_gold_ingot": "2021-05-03 01:00:16 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_pink_dye": "2021-05-06 20:43:59 -0300"
     },
     "done": true
   },
@@ -951,13 +963,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2021-04-24 21:17:23 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2021-04-24 21:17:23 -0300"
     },
@@ -992,8 +1004,8 @@
       "minecraft:magma_cube": "2021-05-05 22:55:50 -0300",
       "minecraft:spider": "2021-04-23 20:47:09 -0300",
       "minecraft:zombie": "2021-04-23 20:55:31 -0300",
-      "minecraft:drowned": "2021-04-24 17:09:14 -0300",
       "minecraft:creeper": "2021-04-23 20:47:23 -0300",
+      "minecraft:drowned": "2021-04-24 17:09:14 -0300",
       "minecraft:zombie_villager": "2021-04-24 16:08:23 -0300",
       "minecraft:slime": "2021-05-05 00:49:16 -0300"
     },
@@ -1068,6 +1080,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane": {
     "criteria": {
       "has_glass": "2021-04-23 23:59:23 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_red_flower": "2021-05-06 20:40:10 -0300"
     },
     "done": true
   },
@@ -1254,6 +1272,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_double_plant": "2021-05-06 20:38:32 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2021-05-03 01:00:16 -0300"
@@ -1305,6 +1329,12 @@
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2021-04-23 23:59:24 -0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2021-05-07 00:23:09 -0300"
     },
     "done": true
   },
@@ -2027,6 +2057,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2021-04-30 23:57:56 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2021-05-06 20:39:44 -0300"
     },
     "done": true
   },

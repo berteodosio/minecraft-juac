@@ -259,19 +259,19 @@
   },
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
-      "has_bed": "2021-04-21 23:22:03 -0300"
+      "has_bed": "2021-04-24 00:32:04 -0300"
     },
     "done": true
   },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
-      "has_stick": "2021-04-21 23:12:35 -0300"
+      "has_stick": "2021-04-28 19:47:12 -0300"
     },
     "done": true
   },
   "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
-      "has_at_least_9_bonemeal": "2021-04-25 01:46:06 -0300"
+      "has_at_least_9_bonemeal": "2021-04-23 00:46:06 -0300"
     },
     "done": true
   },
@@ -893,6 +893,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_the_recipe": "2021-05-06 21:44:21 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
     "criteria": {
       "has_black_dye": "2021-04-23 21:39:12 -0300"
@@ -989,13 +995,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2021-04-24 21:17:19 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2021-04-24 21:17:19 -0300"
     },

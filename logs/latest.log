@@ -1,522 +1,64 @@
-[01:27:23] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[01:27:23] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:27:23] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:27:23] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[01:27:23] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:27:23] [main/INFO]: Loaded 0 recipes
-[01:27:23] [main/INFO]: Loaded 0 advancements
-[01:27:23] [Server thread/INFO]: Starting minecraft server version 1.13.1
-[01:27:23] [Server thread/INFO]: Loading properties
-[01:27:23] [Server thread/INFO]: Default game type: SURVIVAL
-[01:27:23] [Server thread/INFO]: Generating keypair
-[01:27:24] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:27:24] [Server thread/INFO]: Using default channel type
-[01:27:24] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:27:24] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:27:24] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:27:24] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:27:24] [Server thread/INFO]: Preparing level "world"
-[01:27:24] [Server thread/INFO]: Reloading ResourceManager: Default
-[01:27:25] [Server thread/INFO]: Loaded 524 recipes
-[01:27:26] [Server thread/INFO]: Loaded 571 advancements
-[01:27:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:27:26] [Server thread/INFO]: Preparing spawn area: 4%
-[01:27:26] [Server thread/INFO]: Preparing spawn area: 8%
-[01:27:26] [Server thread/INFO]: Preparing spawn area: 12%
-[01:27:26] [Server thread/INFO]: Preparing spawn area: 16%
-[01:27:26] [Server thread/INFO]: Preparing spawn area: 20%
-[01:27:26] [Server thread/INFO]: Preparing spawn area: 24%
-[01:27:26] [Server thread/INFO]: Preparing spawn area: 28%
-[01:27:27] [Server thread/INFO]: Preparing spawn area: 32%
-[01:27:27] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 6ad9cd2d-5511-4233-868d-1c1a3af6f188
-[01:27:27] [Server thread/INFO]: Preparing spawn area: 36%
-[01:27:27] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 86a1bda1-a6eb-4a51-a7e7-4219874be389
-[01:27:27] [Server thread/INFO]: Preparing spawn area: 40%
-[01:27:27] [Server thread/WARN]: Keeping entity minecraft:horse that already exists with UUID 8e1ad72f-6bda-4830-8628-0e6548036998
-[01:27:27] [Server thread/INFO]: Preparing spawn area: 44%
-[01:27:27] [Server thread/INFO]: Preparing spawn area: 48%
-[01:27:27] [Server thread/INFO]: Preparing spawn area: 52%
-[01:27:27] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID f461a773-891e-497b-a191-24efbe543993
-[01:27:27] [Server thread/INFO]: Preparing spawn area: 56%
-[01:27:27] [Server thread/INFO]: Preparing spawn area: 60%
-[01:27:27] [Server thread/INFO]: Preparing spawn area: 64%
-[01:27:27] [Server thread/INFO]: Preparing spawn area: 68%
-[01:27:27] [Server thread/INFO]: Preparing spawn area: 72%
-[01:27:27] [Server thread/INFO]: Preparing spawn area: 76%
-[01:27:27] [Server thread/INFO]: Preparing spawn area: 80%
-[01:27:27] [Server thread/INFO]: Preparing spawn area: 84%
-[01:27:27] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
-[01:27:27] [Server thread/INFO]: Preparing spawn area: 88%
-[01:27:27] [Server thread/INFO]: Preparing spawn area: 92%
-[01:27:27] [Server thread/INFO]: Preparing spawn area: 96%
-[01:27:28] [Server thread/INFO]: Preparing spawn area: 100%
-[01:27:28] [Server thread/INFO]: Time elapsed: 1576 ms
-[01:27:28] [Server thread/INFO]: Done (3.680s)! For help, type "help"
-[01:27:36] [Server thread/INFO]: bluekoya[/200.236.249.208:23858] logged in with entity id 122 at (-1118.6942537031973, 65.8500000178814, 215.47495123669887)
-[01:27:36] [Server thread/INFO]: bluekoya joined the game
-[01:27:37] [Server thread/INFO]: Tio_Prates[/177.131.74.191:5239] logged in with entity id 348 at (-1174.391614116818, 74.8500000178814, 233.32215367033834)
-[01:27:37] [Server thread/INFO]: Tio_Prates joined the game
-[01:27:39] [Server thread/INFO]: Bea[/187.183.37.156:5697] logged in with entity id 1668 at (-1102.5201041966102, 64.8500000178814, 213.42492471226794)
-[01:27:39] [Server thread/INFO]: Bea joined the game
-[01:27:49] [Server thread/INFO]: Tanzitow[/179.93.14.135:57247] logged in with entity id 2174 at (-1093.1620062366756, 64.8500000178814, 218.90851643916923)
-[01:27:49] [Server thread/INFO]: Tanzitow joined the game
-[01:28:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5596ms or 111 ticks behind
-[01:28:13] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! -9.25623465811691,1.0,4.556574382209419
-[01:28:13] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! -9.844295201792193,1.0,4.635794293430848
-[01:28:13] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! -10.435505175635626,1.0,4.691317552838001
-[01:28:13] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! -11.028707787526855,1.0,4.722566476239479
-[01:28:13] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! -11.622824121824806,1.0,4.72997202553978
-[01:28:13] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! -12.21622681725421,1.0,4.706533197765509
-[01:28:13] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! -12.806503639721996,1.0,4.646501752509465
-[01:28:13] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! -13.390176151780224,1.0,4.54422821286505
-[01:28:13] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! -13.962524710558228,1.0,4.394459343702664
-[01:28:13] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! -14.513508483903706,1.0,4.184863712942047
-[01:28:13] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! -15.036144931071476,1.0,3.9153838445923554
-[01:28:13] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! -15.519668270537295,2.0,3.583869160106616
-[01:28:13] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! -15.961551111802692,2.0,3.1988638467723547
-[01:28:13] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! -16.360222111138,2.0,2.7685013149960014
-[01:28:13] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! -16.7126784643649,2.0,2.298861246053292
-[01:28:13] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! -17.011327403417454,2.0,1.7935185169528154
-[01:28:13] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! -17.24007284617187,2.0,1.254979143630095
-[01:28:13] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! -17.407316387417495,2.0,0.6936115263267766
-[01:28:13] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! -17.494734672394543,2.0,0.11638045129956254
-[01:28:13] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! -17.50906896062952,2.0,-0.4674393330504927
-[01:28:13] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! -17.450806671153714,2.0,-1.0487266863227376
-[01:28:13] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! -17.323217480718313,2.0,-1.6192942024526076
-[01:28:13] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! -17.127417725669375,2.0,-2.170335140005676
-[01:28:13] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! -16.8701152321471,2.0,-2.6962404353472493
-[01:28:13] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! -16.54888088359212,2.0,-3.1849086959214503
-[01:28:13] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! -16.164194926375103,2.0,-3.623498022814516
-[01:28:13] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! -15.720096707401126,2.0,-3.999191349036579
-[01:28:13] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! -15.222751974809398,2.0,-4.296133732899023
-[01:28:13] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! -14.690388342717597,2.0,-4.530959810046312
-[01:28:13] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! -14.130773911326287,2.0,-4.69068585196564
-[01:28:13] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! -13.55472060140255,2.0,-4.787854415293168
-[01:28:13] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! -12.96962447170722,2.0,-4.839210324839229
-[01:28:13] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! -12.380322978994855,2.0,-4.8479642089018
-[01:28:13] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! -11.78928969177582,2.0,-4.827413579458977
-[01:28:13] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! -11.198628660263466,2.0,-4.779656842090645
-[01:28:13] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! -10.609337480383601,2.0,-4.70946630360163
-[01:28:13] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! -10.025300442118123,2.0,-4.605254853506636
-[01:28:13] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! -9.443896840607295,2.0,-4.4835611029976405
-[01:28:13] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! -8.859559126947943,2.0,-4.373808342922047
-[01:28:13] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 6.2205519216799985,-3.0,-7.502049340176654
-[01:28:13] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 6.61006691217176,-3.0,-7.8745428252229885
-[01:28:13] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 7.013677050424803,-3.0768320014953616,-8.270208786566599
-[01:28:13] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 7.248953378646547,-3.227453458663007,-8.501759870816386
-[01:28:13] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 7.477980530189825,-3.4489423104376016,-8.728196811491387
-[01:28:13] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 7.701434665810666,-3.738492209317357,-8.95007295879492
-[01:28:13] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 7.920023660061133,-4.0,-9.167780229725821
-[01:28:13] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 8.316226844648554,-4.0,-9.552049639053365
-[01:28:13] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 8.746032550563541,-4.0,-9.92858421013375
-[01:28:13] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 9.217519695243482,-4.0,-10.265438369851012
-[01:28:13] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 9.729519695904173,-4.0,-10.541598690086175
-[01:28:13] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 10.276919290764909,-4.0,-10.732771742884978
-[01:28:13] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 10.846218502396596,-4.0,-10.85111464650302
-[01:28:13] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 11.427491645071086,-4.076832001495362,-10.903663500603784
-[01:28:13] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 11.765930663497784,-4.227453458663014,-10.927889676905181
-[01:28:13] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 12.094988304028675,-4.448942310437609,-10.94453131675283
-[01:28:13] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 12.415331624204555,-4.738492209317364,-10.952779101881873
-[01:28:13] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 12.727832486879151,-5.0,-10.953258037550171
-[01:28:13] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 13.274707512271789,-5.0,-10.884493656439503
-[01:28:13] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 13.835516182875608,-5.0,-10.778934826010357
-[01:28:13] [Server thread/WARN]: Horse moved wrongly!
-[01:28:13] [Server thread/WARN]: Horse moved wrongly!
-[01:28:13] [Server thread/WARN]: Horse moved wrongly!
-[01:28:13] [Server thread/WARN]: Horse moved wrongly!
-[01:28:13] [Server thread/WARN]: Horse moved wrongly!
-[01:28:13] [Server thread/WARN]: Horse moved wrongly!
-[01:28:13] [Server thread/WARN]: Horse moved wrongly!
-[01:28:13] [Server thread/WARN]: Horse moved wrongly!
-[01:28:13] [Server thread/WARN]: Horse moved wrongly!
-[01:28:13] [Server thread/WARN]: Horse moved wrongly!
-[01:28:13] [Server thread/WARN]: Horse moved wrongly!
-[01:28:13] [Server thread/WARN]: Horse moved wrongly!
-[01:28:13] [Server thread/WARN]: Horse moved wrongly!
-[01:28:13] [Server thread/WARN]: Horse moved wrongly!
-[01:28:13] [Server thread/WARN]: Horse moved wrongly!
-[01:28:13] [Server thread/WARN]: Horse moved wrongly!
-[01:28:13] [Server thread/WARN]: Horse moved wrongly!
-[01:28:13] [Server thread/WARN]: Horse moved wrongly!
-[01:28:13] [Server thread/WARN]: Horse moved wrongly!
-[01:28:13] [Server thread/WARN]: Horse moved wrongly!
-[01:28:13] [Server thread/WARN]: Horse moved wrongly!
-[01:28:13] [Server thread/WARN]: Horse moved wrongly!
-[01:28:13] [Server thread/WARN]: Horse moved wrongly!
-[01:28:13] [Server thread/WARN]: Horse moved wrongly!
-[01:28:13] [Server thread/WARN]: Horse moved wrongly!
-[01:28:13] [Server thread/WARN]: Horse moved wrongly!
-[01:28:13] [Server thread/WARN]: Horse moved wrongly!
-[01:28:13] [Server thread/WARN]: Horse moved wrongly!
-[01:28:13] [Server thread/WARN]: Horse moved wrongly!
-[01:28:13] [Server thread/WARN]: Horse moved wrongly!
-[01:28:13] [Server thread/WARN]: Horse moved wrongly!
-[01:28:13] [Server thread/WARN]: Horse moved wrongly!
-[01:28:13] [Server thread/WARN]: Horse moved wrongly!
-[01:28:13] [Server thread/WARN]: Horse moved wrongly!
-[01:28:13] [Server thread/WARN]: Horse moved wrongly!
-[01:28:13] [Server thread/WARN]: Horse moved wrongly!
-[01:28:13] [Server thread/WARN]: Horse moved wrongly!
-[01:28:13] [Server thread/WARN]: Horse moved wrongly!
-[01:28:13] [Server thread/WARN]: Horse moved wrongly!
-[01:28:13] [Server thread/WARN]: Horse moved wrongly!
-[01:28:13] [Server thread/WARN]: Horse moved wrongly!
-[01:28:13] [Server thread/WARN]: Horse moved wrongly!
-[01:28:13] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 6.583858344437203,-2.601805719396026,-7.186522329008284
-[01:28:13] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 6.332223382499706,-2.746462569675259,-7.2461031661024435
-[01:28:13] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 6.324211097652324,-2.81452361678042,-7.253884958042619
-[01:28:13] [Server thread/INFO]: theBEaRstring[/127.0.0.1:49609] logged in with entity id 2313 at (-1097.6272744593357, 64.8500000178814, 217.23703629873773)
-[01:28:13] [Server thread/INFO]: theBEaRstring joined the game
-[01:28:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7201ms or 144 ticks behind
-[01:29:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2080ms or 41 ticks behind
-[01:29:24] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! -4.126129526111981,0.0,-9.15574028154731
-[01:29:24] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! -4.292946200950382,0.0,-9.72720594044884
-[01:29:26] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 0.004840837287929389,0.0,-10.120133321739388
-[01:29:26] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 0.006937779913869235,0.0,-10.71562294942899
-[01:29:26] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 0.009034722539809081,0.0,-11.31111185308049
-[01:29:26] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 0.011131665165748927,0.0,-11.90660036931365
-[01:29:26] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 0.013228607791688773,1.0,-12.502088678246963
-[01:29:26] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 0.01532555041762862,1.0,-13.097576876258273
-[01:29:26] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 0.017422493043568466,1.0,-13.693065014917437
-[01:29:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6856ms or 137 ticks behind
-[01:29:54] [Server thread/INFO]: Unknown item 'minecraft:eye_of_ender'
-[01:29:54] [Server thread/INFO]: ...EaRstring minecraft:eye_of_ender<--[HERE]
-[01:29:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6900ms or 138 ticks behind
-[01:30:20] [Server thread/INFO]: Gave 11 [Eye of Ender] to theBEaRstring
-[01:30:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8368ms or 167 ticks behind
-[01:30:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2252ms or 45 ticks behind
-[01:30:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2854ms or 57 ticks behind
-[01:31:20] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 3.9206961163968117,0.0,-9.3335496705065
-[01:31:20] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 4.146634151350554,0.0,-9.884502282098424
-[01:31:20] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 4.360576193911811,0.0,-10.440064380110016
-[01:31:20] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 4.5529283765433775,0.0,-11.003018620443413
-[01:31:20] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 4.712648055952741,0.0,-11.575218190776013
-[01:31:20] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 4.842066481140137,0.0,-12.154741428464831
-[01:31:20] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 4.949548961688379,0.0,-12.73904234727138
-[01:31:20] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 5.045293955615762,0.0,-13.325899707987332
-[01:31:20] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 5.134758454472376,0.0,-13.914124969799104
-[01:31:20] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 5.220862385636337,0.0,-14.503082168214178
-[01:31:20] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 5.305168144030404,0.0,-15.092431011312442
-[01:31:20] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 5.388511736027112,0.0,-15.681989415672206
-[01:31:20] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 5.4713404919680215,0.0,-16.271659952084747
-[01:31:20] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 5.553893769400247,0.0,-16.861390488122993
-[01:31:20] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 5.636299643774919,0.0,-17.45115312876476
-[01:31:20] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 3.772393147435423,0.0,-9.3742974589033
-[01:31:20] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 3.7723509443669627,0.0,-9.374306650793926
-[01:31:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11083ms or 221 ticks behind
-[01:32:06] [Server thread/INFO]: <theBEaRstring> -1201, 375
-[01:32:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[01:32:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7566ms or 151 ticks behind
-[01:33:06] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 9.024902901728638E-4,0.0,10.085277962910936
-[01:33:06] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 9.555779543006793E-4,0.0,10.680782589979458
-[01:33:06] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 0.0010086656184284948,0.0,11.276287417114986
-[01:33:06] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 0.0010617532825563103,0.0,11.87179235130236
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Tio_Prates) moved too quickly! -0.07016284298151731,0.0,10.481601411111
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Tio_Prates) moved too quickly! -0.07401791983284056,0.0,11.005726304638529
-[01:33:06] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 0.0011148409466841258,0.0,12.467297342771076
-[01:33:06] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 0.0011679286108119413,0.0,13.062802364889876
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Tio_Prates) moved too quickly! -0.07978855422697961,0.0,11.529813332493632
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Tanzitow) moved too quickly! 1.6506272292554058,0.5510576895623984,9.97984154174037
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! 0.4099222287811699,-1.7725465413369932,9.948488787489964
-[01:33:06] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 0.0012210162749397568,0.0,13.658307403408912
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Tanzitow) moved too quickly! 1.6992504675574764,0.26150779068264285,10.246945220069165
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Tio_Prates) moved too quickly! -0.0924768667493936,0.0,12.053759265666258
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Tio_Prates) moved too quickly! -0.10886669091473777,0.0,12.577629701887417
-[01:33:06] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 0.004910499548714142,0.0,14.25378753596192
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! 0.46650583106656995,-1.7725465413369932,10.445236231333979
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Tanzitow) moved too quickly! 1.746574877516423,0.0,10.50776376471049
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! 0.5149089700553304,-1.8493785428323548,10.946607909639283
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Tio_Prates) moved too quickly! -0.12852106288164578,0.0,13.101405724485744
-[01:33:06] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 0.018018250113527756,0.0,14.848967583883109
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Tanzitow) moved too quickly! 1.8284008298621757,-0.07683200149536162,10.966516509051303
-[01:33:06] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 0.038139696665211886,0.0,15.44398706250081
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! 0.5407565217460615,-2.0,11.238448170537367
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Tanzitow) moved too quickly! 1.8761464703204638,-0.2274534586630068,11.234601433447892
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! 0.5407565217460615,-2.2214888517745948,11.522277594816728
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Tio_Prates) moved too quickly! -0.15183589787693563,0.0,13.625038140682932
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Tio_Prates) moved too quickly! -0.17710937365700374,0.0,14.1485937159581
-[01:33:06] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 0.062014032101387784,0.0,16.038920623685613
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! 0.5407565217460615,-2.5110387506543503,11.798962954793637
-[01:33:06] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 0.08789646355535297,0.0,16.633808212165036
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Tanzitow) moved too quickly! 1.9140505623820445,-0.4489423104376016,11.496363853881576
-[01:33:06] [Server thread/WARN]: Pede Pano (vehicle of theBEaRstring) moved too quickly! -2.1885214169844858,-1.5510576895623984,9.82635580465967
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Tanzitow) moved too quickly! 1.9140505623820445,-0.7384922093173572,11.752523721037733
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Tio_Prates) moved too quickly! -0.20343087906985602,0.0,14.672108175187873
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Tio_Prates) moved too quickly! -0.23031316424385295,0.0,15.195600634041512
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! 0.5424471762958092,-1.7725465413369932,12.069277238042105
-[01:33:06] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 0.11485338715101534,0.0,17.2286712015665
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Tanzitow) moved too quickly! 1.917360737528952,0.0,12.00368723103702
-[01:33:06] [Server thread/WARN]: Pede Pano (vehicle of theBEaRstring) moved too quickly! -2.216813428713749,-1.5510576895623984,10.282172324115209
-[01:33:06] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 0.14238525006885538,0.0,17.82352102849177
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! 0.5593537189993185,-1.7725465413369932,12.546006221536231
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Tanzitow) moved too quickly! 1.95046248620406,0.0,12.454876168490046
-[01:33:06] [Server thread/WARN]: Pede Pano (vehicle of theBEaRstring) moved too quickly! -2.2381975336720643,-1.5510576895623984,10.740299822182578
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! 0.5853066156232671,-1.7725465413369932,13.03675709439915
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Tanzitow) moved too quickly! 2.001276320617535,0.0,12.923499685964657
-[01:33:06] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 0.17022475155476968,0.0,18.41836381243843
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Tio_Prates) moved too quickly! -0.25749551148737737,0.0,15.71908132093256
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Tio_Prates) moved too quickly! -0.2848384159615307,0.0,16.242555708881127
-[01:33:06] [Server thread/WARN]: Pede Pano (vehicle of theBEaRstring) moved too quickly! -2.2509547848408147,-1.5510576895623984,11.19975085690703
-[01:33:06] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 0.19822886430506514,0.0,19.013202827827627
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Tanzitow) moved too quickly! 2.059191433332444,-0.07683200149536162,13.401785826006858
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! 0.6161000358654292,-1.8493785428323548,13.535010800697023
-[01:33:06] [Server thread/WARN]: Pede Pano (vehicle of theBEaRstring) moved too quickly! -2.2531786067149824,-1.5510576895623984,11.659857399202338
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Tio_Prates) moved too quickly! -0.3122672314086685,0.0,16.766026726391146
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Tio_Prates) moved too quickly! -0.33974201610453747,0.0,17.289495940446727
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! 0.6342676356321135,-2.0,13.825182696939578
-[01:33:06] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 0.2263210572607477,0.0,19.6080398267369
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Tanzitow) moved too quickly! 2.0931331957367547,-0.2274534586630068,13.680476606259163
-[01:33:06] [Server thread/WARN]: Pede Pano (vehicle of theBEaRstring) moved too quickly! -2.2420057309529966,-1.5510576895623984,12.120062592684462
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Tio_Prates) moved too quickly! -0.3672413980289093,0.0,17.812964189509785
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! 0.6520358668158224,-2.2214888517745948,14.107532862233029
-[01:33:06] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 0.25156968436044735,0.0,20.202997876585073
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Tanzitow) moved too quickly! 2.1261168949597504,-0.4489423104376016,13.951812088647785
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Tio_Prates) moved too quickly! -0.39475394143983067,0.0,18.33643192222462
-[01:33:06] [Server thread/WARN]: Pede Pano (vehicle of theBEaRstring) moved too quickly! -2.2202609787170786,-1.5510576895623984,12.58002426285907
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! 0.6694479410869008,-2.5110387506543503,14.382907607665175
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Tanzitow) moved too quickly! 2.1474319606616064,-0.7384922093173572,14.215773046909703
-[01:33:06] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 0.24924170549365954,0.0,20.797756888219396
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Tio_Prates) moved too quickly! -0.4222735272999216,0.0,18.85989937865179
-[01:33:06] [Server thread/WARN]: Pede Pano (vehicle of theBEaRstring) moved too quickly! -2.1928594261603394,-1.5510576895623984,13.039855628567466
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! 0.6865423946142073,-2.772546541336993,14.652061673485605
-[01:33:06] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 0.22184031593951659,0.0,21.391503467477946
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Tanzitow) moved too quickly! 2.1581683497149697,-1.093407939109099,14.473093064877162
-[01:33:06] [Server thread/WARN]: Pede Pano (vehicle of theBEaRstring) moved too quickly! -2.1617753628172522,-1.5510576895623984,13.49956689012788
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Tio_Prates) moved too quickly! -0.44979688143394014,0.0,19.38336668724287
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! 0.7174508785960825,-2.772546541336993,15.127841850439609
-[01:33:06] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 0.17257631034931364,0.0,21.98389685672396
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Tanzitow) moved too quickly! 2.1593552009067025,-1.5111010141305457,14.724446774671947
-[01:33:06] [Server thread/WARN]: Pede Pano (vehicle of theBEaRstring) moved too quickly! -2.1244630538658384,-1.5510576895623984,13.958837393614658
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! 0.7545765235070121,-1.7725465413369932,15.617792079010997
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Tio_Prates) moved too quickly! -0.47732225189633937,0.0,19.906833916729852
-[01:33:06] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 0.10874540619329309,0.0,22.575189569026065
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Tanzitow) moved too quickly! 2.150854192753741,-1.9890854526840371,14.97043602185397
-[01:33:06] [Server thread/WARN]: Pede Pano (vehicle of theBEaRstring) moved too quickly! -2.083818134867215,-1.5510576895623984,14.41787205624405
-[01:33:06] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! 0.03712004504723154,0.0,23.16589333104048
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! 0.8067101804585946,-1.7725465413369932,16.114009138887468
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Tanzitow) moved too quickly! 2.134771985311545,-2.0,15.21164124114
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Tio_Prates) moved too quickly! -0.5048487012559235,-0.07683200149536162,20.43030110388986
-[01:33:06] [Server thread/WARN]: Pede Pano (vehicle of theBEaRstring) moved too quickly! -2.04139000267719,-1.5510576895623984,14.876780525132517
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Tio_Prates) moved too quickly! -0.5208573729184991,-0.2274534586630068,20.734734993601933
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! 0.8675025211286993,-1.7725465413369932,16.592077598963215
-[01:33:06] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! -0.03867597462954109,0.0,23.75628195749846
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Tanzitow) moved too quickly! 2.1409844036668346,-2.0,15.655427346352099
-[01:33:06] [Server thread/WARN]: Pede Pano (vehicle of theBEaRstring) moved too quickly! -1.998007708662044,-1.5510576895623984,15.335621470266688
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! 0.9329279508210675,-1.7725465413369932,16.592077598963215
-[01:33:06] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! -0.11670363053212895,0.0,24.346501961203217
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Tio_Prates) moved too quickly! -0.5364137241469962,-0.4489423104376016,21.030566178944014
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Tanzitow) moved too quickly! 2.1648630762322227,-1.0,16.12156772756407
-[01:33:06] [Server thread/WARN]: Pede Pano (vehicle of theBEaRstring) moved too quickly! -1.9541148616781356,-1.62788969105776,15.794426284785914
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! 1.0008324540754074,-1.7725465413369932,16.826044590268566
-[01:33:06] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! -0.19592539048494473,0.0,24.936631738234723
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Tanzitow) moved too quickly! 2.092044216755312,-1.0,16.589081192563754
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Tio_Prates) moved too quickly! -0.08146073798411635,0.0,10.245635779694112
-[01:33:06] [Server thread/WARN]: Pede Pano (vehicle of theBEaRstring) moved too quickly! -1.9285606893729437,-1.7785111482254052,16.06125241336963
-[01:33:06] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! -0.07901129859624234,0.0,10.079855208281174
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Tanzitow) moved too quickly! 1.475987797927246,0.6957145398416316,10.173938344172939
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! 0.4160469027679028,-1.7725465413369932,9.885834694260893
-[01:33:06] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! -0.07935318333056784,0.0,10.079829375421582
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Tio_Prates) moved too quickly! -0.09261935924064346,0.0,10.457827261030275
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Tio_Prates) moved too quickly! -0.1194963405391718,0.0,10.968925294126166
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Tanzitow) moved too quickly! 1.5253385351936686,0.621925084169348,9.978049542284452
-[01:33:06] [Server thread/WARN]: Pede Pano (vehicle of theBEaRstring) moved too quickly! -2.1130667186614573,-1.5510576895623984,9.819033222654639
-[01:33:06] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! 0.41642669468728855,-1.7725465413369932,9.921678234398996
-[01:33:06] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! -0.07953611903531055,0.0,10.079815552773539
-[01:33:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15528ms or 310 ticks behind
-[01:34:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
-[01:34:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14068ms or 281 ticks behind
-[01:35:03] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! -2.1804505763284396,1.0,-9.875593455798935
-[01:35:03] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! -2.2922086819828564,1.0,-10.460517500247079
-[01:35:03] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! -2.4039631523382923,1.0,-11.045442382696592
-[01:35:03] [Server thread/WARN]: Horse (vehicle of Tio_Prates) moved too quickly! -0.059929747600108385,1.0,-9.958783956982643
-[01:35:03] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! -2.5164194556357415,1.0,-11.63023232159344
-[01:35:03] [Server thread/WARN]: Horse (vehicle of Tio_Prates) moved too quickly! -0.06308394484221935,1.0,-10.4829304810346
-[01:35:03] [Server thread/WARN]: Horse (vehicle of Tio_Prates) moved too quickly! -0.06623814208433032,2.0,-11.007077005086103
-[01:35:03] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! 0.29400353684491165,1.0,-10.139536341614303
-[01:35:03] [Server thread/WARN]: Horse (vehicle of Tanzitow) moved too quickly! 1.1114808756221919,1.0,-10.311227628546249
-[01:35:03] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! -2.634920308413257,1.0,-12.213790178300542
-[01:35:03] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! 0.289473425051483,1.0,-10.647634343768004
-[01:35:03] [Server thread/WARN]: Horse (vehicle of Tio_Prates) moved too quickly! -0.06939233932644129,2.0,-11.53122352913806
-[01:35:03] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! -2.7637185177493393,2.0,-12.795069582415408
-[01:35:03] [Server thread/WARN]: Horse (vehicle of Tanzitow) moved too quickly! 1.1644085383582023,1.0,-10.802238487430941
-[01:35:03] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! 0.28494331325805433,1.0,-11.155732388797787
-[01:35:03] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! -2.9029675046967895,2.0,-13.373880637830553
-[01:35:03] [Server thread/WARN]: Horse (vehicle of Tanzitow) moved too quickly! 1.2173362010942128,1.0,-11.29324934631586
-[01:35:03] [Server thread/WARN]: Horse (vehicle of Tio_Prates) moved too quickly! -0.07254653656855226,2.0,-12.055370053189563
-[01:35:03] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! -3.0485014356265765,2.0,-13.951187972612843
-[01:35:03] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! 0.28041320146462567,1.0,-11.663830456769801
-[01:35:03] [Server thread/WARN]: Horse (vehicle of Tio_Prates) moved too quickly! -0.07570073381066322,2.0,-12.57951657724152
-[01:35:03] [Server thread/WARN]: Horse (vehicle of Tanzitow) moved too quickly! 1.2702638638302233,1.0,-11.784260205201008
-[01:35:03] [Server thread/WARN]: Pede Pano (vehicle of theBEaRstring) moved too quickly! 0.9836658448457456,0.0,-10.146871603006275
-[01:35:03] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! 0.275883089671197,1.0,-12.17192853701772
-[01:35:03] [Server thread/WARN]: Horse (vehicle of Tio_Prates) moved too quickly! -0.07885493105277419,2.0,-13.103663101293023
-[01:35:03] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! -3.197398314772954,2.0,-14.527690696465243
-[01:35:03] [Server thread/WARN]: Horse (vehicle of Tanzitow) moved too quickly! 1.3231915265662337,1.0,-12.275271064086155
-[01:35:03] [Server thread/WARN]: Pede Pano (vehicle of theBEaRstring) moved too quickly! 1.0281458997569644,0.0,-10.60569957699613
-[01:35:03] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! 0.27135297787776835,1.0,-12.680026623834237
-[01:35:03] [Server thread/WARN]: Pede Pano (vehicle of theBEaRstring) moved too quickly! 1.072626136709232,0.0,-11.064529428806509
-[01:35:03] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! -3.3480946404599763,2.0,-15.103762889051495
-[01:35:03] [Server thread/WARN]: Horse (vehicle of Tanzitow) moved too quickly! 1.37550628964118,1.0,-12.766347145353848
-[01:35:03] [Server thread/WARN]: Horse (vehicle of Tio_Prates) moved too quickly! -0.19293755805119872,2.0,-13.605091762023676
-[01:35:03] [Server thread/WARN]: Horse (vehicle of Tio_Prates) moved too quickly! -0.36806352419421273,2.0,-14.094364547036093
-[01:35:03] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! 0.2668228660843397,1.0,-13.188124714165497
-[01:35:03] [Server thread/WARN]: Horse (vehicle of Tanzitow) moved too quickly! 1.4269019285593458,1.0,-13.257519473898583
-[01:35:03] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! -3.501855354679492,2.0,-15.67903805158312
-[01:35:03] [Server thread/WARN]: Pede Pano (vehicle of theBEaRstring) moved too quickly! 1.1171064710681549,0.0,-11.523360285401395
-[01:35:03] [Server thread/WARN]: Horse (vehicle of Tio_Prates) moved too quickly! -0.5758525640408152,2.0,-14.577132965313922
-[01:35:03] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! 0.26229275429091103,1.0,-13.696222806377591
-[01:35:03] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! -3.6593527801683194,2.0,-16.253303597181457
-[01:35:03] [Server thread/WARN]: Horse (vehicle of Tanzitow) moved too quickly! 1.3715307367112928,1.0,-13.739478714086545
-[01:35:03] [Server thread/WARN]: Pede Pano (vehicle of theBEaRstring) moved too quickly! 1.1615868575474906,0.0,-11.982191679636344
-[01:35:03] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! 0.2577626424974824,1.0,-14.204320899595814
-[01:35:03] [Server thread/WARN]: Horse (vehicle of Tio_Prates) moved too quickly! -0.8011189633946287,2.0,-15.056421026635235
-[01:35:03] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! -3.82371591756646,2.0,-16.825606869273315
-[01:35:03] [Server thread/WARN]: Horse (vehicle of Tanzitow) moved too quickly! 1.2590307424213734,1.0,-14.216508214383794
-[01:35:03] [Server thread/WARN]: Pede Pano (vehicle of theBEaRstring) moved too quickly! 1.2060672719153445,0.0,-12.441023361551743
-[01:35:03] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! 0.2532325307040537,1.0,-14.712418993352685
-[01:35:03] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! -3.9938337896369376,2.0,-17.39622233863156
-[01:35:03] [Server thread/WARN]: Horse (vehicle of Tanzitow) moved too quickly! 1.1159622649702214,1.0,-14.69089990915404
-[01:35:03] [Server thread/WARN]: Horse (vehicle of Tio_Prates) moved too quickly! -1.0357371493598748,2.0,-15.533846818339498
-[01:35:03] [Server thread/WARN]: Horse (vehicle of Tio_Prates) moved too quickly! -1.2753592898861825,2.0,-16.010276146701926
-[01:35:03] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! 0.24870241891062506,1.0,-15.220517087397639
-[01:35:03] [Server thread/WARN]: Pede Pano (vehicle of theBEaRstring) moved too quickly! 1.2505477012057327,0.0,-12.899855197399347
-[01:35:03] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! -4.168398586221883,2.0,-17.965505753572188
-[01:35:03] [Server thread/WARN]: Horse (vehicle of Tanzitow) moved too quickly! 1.0628122274044927,1.0,-15.1731447551349
-[01:35:03] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! 0.2441723071171964,1.0,-15.728615181596751
-[01:35:03] [Server thread/WARN]: Pede Pano (vehicle of theBEaRstring) moved too quickly! 1.2950281384810296,0.0,-13.358687115612838
-[01:35:03] [Server thread/WARN]: Horse (vehicle of Tanzitow) moved too quickly! 1.0535167397226815,1.0,-10.306663680280508
-[01:35:03] [Server thread/WARN]: Horse (vehicle of bluekoya) moved too quickly! -2.245629933970349,1.0,-9.859241636654133
-[01:35:03] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! 0.29400353684491165,1.0,-10.139536513872827
-[01:35:03] [Server thread/WARN]: Pede Pano (vehicle of theBEaRstring) moved too quickly! 1.339508580028678,1.0,-13.81751907789885
-[01:35:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[01:35:54] [Server thread/WARN]: Horse moved wrongly!
-[01:35:54] [Server thread/WARN]: Horse moved wrongly!
-[01:35:54] [Server thread/WARN]: Horse moved wrongly!
-[01:35:54] [Server thread/WARN]: Horse moved wrongly!
-[01:35:54] [Server thread/WARN]: Horse moved wrongly!
-[01:35:54] [Server thread/WARN]: Horse moved wrongly!
-[01:35:54] [Server thread/WARN]: Horse moved wrongly!
-[01:35:54] [Server thread/WARN]: Horse moved wrongly!
-[01:35:54] [Server thread/WARN]: Horse moved wrongly!
-[01:35:54] [Server thread/WARN]: Horse moved wrongly!
-[01:35:54] [Server thread/WARN]: Horse moved wrongly!
-[01:35:54] [Server thread/WARN]: Horse moved wrongly!
-[01:35:54] [Server thread/WARN]: Horse moved wrongly!
-[01:35:55] [Server thread/WARN]: Horse moved wrongly!
-[01:35:55] [Server thread/WARN]: Horse moved wrongly!
-[01:35:55] [Server thread/WARN]: Horse moved wrongly!
-[01:35:55] [Server thread/WARN]: Horse moved wrongly!
-[01:35:55] [Server thread/WARN]: Horse moved wrongly!
-[01:35:55] [Server thread/WARN]: Horse moved wrongly!
-[01:35:55] [Server thread/WARN]: Horse moved wrongly!
-[01:35:55] [Server thread/WARN]: Horse moved wrongly!
-[01:35:55] [Server thread/WARN]: Horse moved wrongly!
-[01:37:05] [Server thread/WARN]: Tio_Prates was kicked for floating too long!
-[01:37:05] [Server thread/INFO]: Tio_Prates lost connection: Disconnected
-[01:37:05] [Server thread/INFO]: Tio_Prates left the game
-[01:37:05] [Server thread/WARN]: handleDisconnection() called twice
-[01:37:11] [Server thread/INFO]: Tio_Prates[/177.131.74.191:4769] logged in with entity id 34484 at (-1239.4199249191684, 64.8500000178814, 743.1266716822736)
-[01:37:11] [Server thread/INFO]: Tio_Prates joined the game
-[01:37:16] [Server thread/WARN]: Horse moved wrongly!
-[01:37:22] [Server thread/WARN]: Pede Pano moved wrongly!
-[01:37:24] [Server thread/WARN]: Horse moved wrongly!
-[01:38:09] [Server thread/WARN]: Horse moved wrongly!
-[01:38:10] [Server thread/WARN]: Horse moved wrongly!
-[01:43:53] [Server thread/INFO]: Tio_Prates fell from a high place
-[01:43:54] [Server thread/INFO]: bluekoya fell from a high place
-[01:43:56] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
-[01:43:56] [Server thread/WARN]: bluekoya moved too quickly! 1342.047769678313,26.0,-593.9657135872512
-[01:44:04] [Server thread/WARN]: Tio_Prates moved too quickly! 1355.9611513471395,26.0,-597.1999999880791
-[01:44:16] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 6ad9cd2d-5511-4233-868d-1c1a3af6f188
-[01:44:23] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 31d37002-9cec-42ac-bb8e-8febb1540321
-[01:45:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
-[01:45:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3974ms or 79 ticks behind
-[01:45:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
-[01:45:51] [Server thread/INFO]: <theBEaRstring> -1234, 628
-[01:46:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[01:46:30] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 31d37002-9cec-42ac-bb8e-8febb1540321
-[01:46:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[01:47:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[01:47:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6615ms or 132 ticks behind
-[01:47:44] [Server thread/WARN]: Tanzitow moved too quickly! 0.0,-10.56753860103435,0.14510752824457995
-[01:47:54] [Server thread/INFO]: theBEaRstring lost connection: Disconnected
-[01:47:54] [Server thread/INFO]: theBEaRstring left the game
-[01:47:56] [Server thread/INFO]: bluekoya lost connection: Disconnected
-[01:47:56] [Server thread/INFO]: bluekoya left the game
-[01:47:58] [Server thread/INFO]: Tio_Prates lost connection: Disconnected
-[01:47:58] [Server thread/INFO]: Tio_Prates left the game
-[01:48:00] [Server thread/INFO]: Tanzitow lost connection: Disconnected
-[01:48:00] [Server thread/INFO]: Tanzitow left the game
-[01:48:07] [Server thread/INFO]: bluekoya[/200.236.249.208:23948] logged in with entity id 71481 at (1.0729461826203515, 69.0, 654.5582824686683)
-[01:48:07] [Server thread/INFO]: bluekoya joined the game
-[01:48:08] [Server thread/INFO]: theBEaRstring[/127.0.0.1:49655] logged in with entity id 71686 at (-1243.2961966103824, 41.0, 610.7942262245031)
-[01:48:08] [Server thread/INFO]: theBEaRstring joined the game
-[01:48:08] [Server thread/INFO]: Tio_Prates[/177.131.74.191:3533] logged in with entity id 71710 at (-149.0729218523332, 62.334187636324984, 68.69031296258854)
-[01:48:08] [Server thread/INFO]: Tio_Prates joined the game
-[01:48:09] [Server thread/INFO]: Tanzitow[/179.93.14.135:57263] logged in with entity id 71890 at (-1235.6115618586225, 68.23235093000585, 626.6115618586228)
-[01:48:09] [Server thread/INFO]: Tanzitow joined the game
-[01:48:39] [Server thread/INFO]: Bea fell from a high place
-[01:48:43] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
-[01:48:44] [Server thread/WARN]: Bea moved too quickly! 1339.5385810210291,14.0,-597.4189662482579
-[01:48:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[01:49:08] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
-[01:49:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3886ms or 77 ticks behind
-[01:49:21] [Server thread/INFO]: <Tio_Prates> 1200 600
-[01:49:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[01:49:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3347ms or 66 ticks behind
-[01:50:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5822ms or 116 ticks behind
-[01:50:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6404ms or 128 ticks behind
-[01:50:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7313ms or 146 ticks behind
-[01:51:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9791ms or 195 ticks behind
-[01:51:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4050ms or 81 ticks behind
-[01:51:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2134ms or 42 ticks behind
-[01:52:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3935ms or 78 ticks behind
-[01:53:17] [Server thread/INFO]: <theBEaRstring> -1239, 627
-[01:54:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[01:54:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
-[01:55:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
-[01:55:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3767ms or 75 ticks behind
-[01:55:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4286ms or 85 ticks behind
-[01:56:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8198ms or 163 ticks behind
-[01:56:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8912ms or 178 ticks behind
-[01:56:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4886ms or 97 ticks behind
-[01:57:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4358ms or 87 ticks behind
-[01:57:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4503ms or 90 ticks behind
-[01:57:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5214ms or 104 ticks behind
-[01:58:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3497ms or 69 ticks behind
-[01:58:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5583ms or 111 ticks behind
-[01:58:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[01:59:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2989ms or 59 ticks behind
-[01:59:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2510ms or 50 ticks behind
-[01:59:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2402ms or 48 ticks behind
-[02:00:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2067ms or 41 ticks behind
-[02:01:20] [Server thread/INFO]: Bea lost connection: Disconnected
-[02:01:20] [Server thread/INFO]: Bea left the game
-[02:01:21] [Server thread/INFO]: bluekoya lost connection: Disconnected
-[02:01:21] [Server thread/INFO]: bluekoya left the game
-[02:01:35] [Server thread/INFO]: Bea[/187.183.37.156:5797] logged in with entity id 154047 at (-1120.5025040340074, 64.0, 326.79677530335323)
-[02:01:35] [Server thread/INFO]: Bea joined the game
-[02:01:36] [Server thread/INFO]: bluekoya[/200.236.249.208:24660] logged in with entity id 154343 at (-1134.735014747363, 64.0, 634.7651813062052)
-[02:01:36] [Server thread/INFO]: bluekoya joined the game
-[02:07:53] [Server thread/INFO]: Bea lost connection: Disconnected
-[02:07:53] [Server thread/INFO]: Bea left the game
-[02:07:59] [Server thread/INFO]: Bea[/187.183.37.156:5805] logged in with entity id 171772 at (-1260.9866751028555, 67.0, 631.6023379763556)
-[02:07:59] [Server thread/INFO]: Bea joined the game
-[02:09:07] [Server thread/INFO]: theBEaRstring lost connection: Disconnected
-[02:09:07] [Server thread/INFO]: theBEaRstring left the game
-[02:09:19] [Server thread/INFO]: theBEaRstring[/127.0.0.1:49698] logged in with entity id 173848 at (-1264.7519811412485, 70.0, 621.9242829436785)
-[02:09:19] [Server thread/INFO]: theBEaRstring joined the game
-[02:09:22] [Server thread/INFO]: bluekoya lost connection: Disconnected
-[02:09:22] [Server thread/INFO]: bluekoya left the game
-[02:09:22] [Server thread/INFO]: Bea lost connection: Disconnected
-[02:09:22] [Server thread/INFO]: Bea left the game
-[02:09:25] [Server thread/INFO]: Tanzitow lost connection: Disconnected
-[02:09:25] [Server thread/INFO]: Tanzitow left the game
-[02:09:34] [Server thread/INFO]: Tio_Prates lost connection: Disconnected
-[02:09:34] [Server thread/INFO]: Tio_Prates left the game
-[02:09:55] [Server thread/INFO]: theBEaRstring lost connection: Disconnected
-[02:09:55] [Server thread/INFO]: theBEaRstring left the game
-[02:10:01] [Server Shutdown Thread/INFO]: Stopping server
-[02:10:01] [Server Shutdown Thread/INFO]: Saving players
-[02:10:01] [Server Shutdown Thread/INFO]: Saving worlds
-[02:10:01] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[00:00:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3696ms or 73 ticks behind
+[00:01:09] [Server thread/INFO]: <Tanzitow> 38.700 / 70 / -21.373
+[00:02:52] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
+[00:23:09] [Server thread/INFO]: Tanzitow has made the advancement [A Terrible Fortress]
+[00:49:38] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
+[00:49:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2757ms or 55 ticks behind
+[00:49:46] [Server thread/WARN]: Keeping entity minecraft:horse that already exists with UUID 9cf209fd-d46b-42f9-94d4-1781d1ea31e4
+[00:52:27] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 837e4ad8-3fd8-4ef1-872f-fe5ffe58a092
+[01:11:11] [Server thread/INFO]: theBEaRstring[/25.65.60.80:60320] logged in with entity id 602682 at (-1267.3769316625146, 71.0, 640.7780764912923)
+[01:11:11] [Server thread/INFO]: theBEaRstring joined the game
+[01:11:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
+[01:15:19] [Server thread/INFO]: <Tanzitow> psiu ta ouvindo
+[01:15:23] [Server thread/INFO]: <Tanzitow> alo
+[01:15:31] [Server thread/INFO]: <bluekoya> oi
+[01:21:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2358ms or 47 ticks behind
+[01:22:01] [Server thread/INFO]: theBEaRstring lost connection: Disconnected
+[01:22:01] [Server thread/INFO]: theBEaRstring left the game
+[01:24:03] [Server thread/INFO]: anjo[/25.65.60.80:60392] logged in with entity id 644863 at (119.5, 70.0, 40.5)
+[01:24:03] [Server thread/INFO]: anjo joined the game
+[01:24:03] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
+[01:24:50] [Server thread/INFO]: anjo fell from a high place
+[01:24:51] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
+[01:24:51] [Server thread/WARN]: anjo moved too quickly! -87.91009541540797,45.0,-87.80000001192096
+[01:25:12] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 6ad9cd2d-5511-4233-868d-1c1a3af6f188
+[01:25:47] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
+[01:29:35] [Server thread/INFO]: anjo has made the advancement [Acquire Hardware]
+[01:30:54] [Server thread/INFO]: anjo has made the advancement [Suit Up]
+[01:31:43] [Server thread/INFO]: anjo has made the advancement [Monster Hunter]
+[01:33:34] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
+[01:34:48] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 6ad9cd2d-5511-4233-868d-1c1a3af6f188
+[01:35:22] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 31d37002-9cec-42ac-bb8e-8febb1540321
+[01:38:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[01:39:25] [Server thread/WARN]: Horse moved wrongly!
+[01:41:45] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
+[01:42:34] [Server thread/INFO]: anjo has made the advancement [Sweet Dreams]
+[01:52:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[01:52:28] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
+[01:52:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2123ms or 42 ticks behind
+[01:53:59] [Server thread/INFO]: anjo lost connection: Disconnected
+[01:53:59] [Server thread/INFO]: anjo left the game
+[01:55:17] [Server thread/INFO]: anjo[/25.65.60.80:60518] logged in with entity id 758956 at (-1298.300000011921, 65.0, 618.9612905977409)
+[01:55:17] [Server thread/INFO]: anjo joined the game
+[01:55:21] [Server thread/INFO]: anjo lost connection: Disconnected
+[01:55:21] [Server thread/INFO]: anjo left the game
+[01:55:58] [Server thread/INFO]: anjo[/25.65.60.80:60528] logged in with entity id 760482 at (-1298.300000011921, 65.0, 618.9612905977409)
+[01:55:58] [Server thread/INFO]: anjo joined the game
+[01:56:28] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
+[01:57:40] [Server thread/WARN]: Tanzitow moved too quickly! 0.0,-10.221069856431782,-0.19608750195260427
+[01:57:43] [Server thread/INFO]: anjo lost connection: Disconnected
+[01:57:43] [Server thread/INFO]: anjo left the game
+[01:58:28] [Server thread/INFO]: theBEaRstring[/25.65.60.80:60552] logged in with entity id 773032 at (-1327.300000011921, 63.0, 628.6999999880791)
+[01:58:28] [Server thread/INFO]: theBEaRstring joined the game
+[02:04:26] [Server thread/INFO]: Tanzitow lost connection: Disconnected
+[02:04:26] [Server thread/INFO]: Tanzitow left the game
+[02:04:29] [Server thread/INFO]: bluekoya lost connection: Disconnected
+[02:04:29] [Server thread/INFO]: bluekoya left the game
+[02:06:15] [Server thread/INFO]: theBEaRstring lost connection: Disconnected
+[02:06:15] [Server thread/INFO]: theBEaRstring left the game
+[02:21:35] [Server Shutdown Thread/INFO]: Stopping server
+[02:21:35] [Server Shutdown Thread/INFO]: Saving players
+[02:21:35] [Server Shutdown Thread/INFO]: Saving worlds
+[02:21:35] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[02:21:35] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[02:21:35] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
