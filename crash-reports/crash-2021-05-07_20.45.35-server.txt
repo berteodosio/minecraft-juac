@@ -1,0 +1,234 @@
+---- Minecraft Crash Report ----
+// Don't do that.
+
+Time: 07/05/21 20:45
+Description: Watching Server
+
+java.lang.Error
+	at java.io.DataInputStream.readUTF(Unknown Source)
+	at hn.a(SourceFile:41)
+	at gy.a(SourceFile:437)
+	at gy.a(SourceFile:81)
+	at he.a(SourceFile:69)
+	at gy.a(SourceFile:437)
+	at gy.a(SourceFile:81)
+	at he.a(SourceFile:69)
+	at gy.a(SourceFile:437)
+	at gy.a(SourceFile:81)
+	at gy.a(SourceFile:437)
+	at gy.a(SourceFile:81)
+	at hi.a(SourceFile:119)
+	at hi.a(SourceFile:84)
+	at hi.a(SourceFile:80)
+	at bnu.a(SourceFile:104)
+	at bnu.a(SourceFile:88)
+	at bnu.a(SourceFile:136)
+	at tc.a(SourceFile:102)
+	at tk.<init>(SourceFile:43)
+	at tl.c(SourceFile:172)
+	at tl.a(SourceFile:203)
+	at vp.a(SourceFile:273)
+	at vp.c(SourceFile:342)
+	at vp.a(SourceFile:166)
+	at ue.b(SourceFile:113)
+	at ue.Y_(SourceFile:65)
+	at hw.a(SourceFile:238)
+	at ub.c(SourceFile:171)
+	at net.minecraft.server.MinecraftServer.b(SourceFile:773)
+	at so.b(SourceFile:360)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:681)
+	at net.minecraft.server.MinecraftServer.run(SourceFile:584)
+	at java.lang.Thread.run(Unknown Source)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server Watchdog
+Stacktrace:
+	at java.io.DataInputStream.readUTF(Unknown Source)
+	at hn.a(SourceFile:41)
+	at gy.a(SourceFile:437)
+	at gy.a(SourceFile:81)
+	at he.a(SourceFile:69)
+	at gy.a(SourceFile:437)
+	at gy.a(SourceFile:81)
+	at he.a(SourceFile:69)
+	at gy.a(SourceFile:437)
+	at gy.a(SourceFile:81)
+	at gy.a(SourceFile:437)
+	at gy.a(SourceFile:81)
+	at hi.a(SourceFile:119)
+	at hi.a(SourceFile:84)
+	at hi.a(SourceFile:80)
+	at bnu.a(SourceFile:104)
+	at bnu.a(SourceFile:88)
+	at bnu.a(SourceFile:136)
+	at tc.a(SourceFile:102)
+	at tk.<init>(SourceFile:43)
+	at tl.c(SourceFile:172)
+	at tl.a(SourceFile:203)
+	at vp.a(SourceFile:273)
+	at vp.c(SourceFile:342)
+	at vp.a(SourceFile:166)
+	at ue.b(SourceFile:113)
+	at ue.Y_(SourceFile:65)
+	at hw.a(SourceFile:238)
+	at ub.c(SourceFile:171)
+	at net.minecraft.server.MinecraftServer.b(SourceFile:773)
+	at so.b(SourceFile:360)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:681)
+
+-- Thread Dump --
+Details:
+	Threads: "Netty Server IO #2" Id=25 RUNNABLE
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+	-  locked io.netty.channel.nio.SelectedSelectionKeySet@57149e67
+	-  locked java.util.Collections$UnmodifiableSet@59d37af5
+	-  locked sun.nio.ch.WindowsSelectorImpl@5decf517
+	at sun.nio.ch.SelectorImpl.select(Unknown Source)
+	at io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62)
+	at io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:756)
+	...
+
+
+"Netty Server IO #1" Id=24 RUNNABLE
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+	-  locked io.netty.channel.nio.SelectedSelectionKeySet@18ee70ce
+	-  locked java.util.Collections$UnmodifiableSet@6b7a3212
+	-  locked sun.nio.ch.WindowsSelectorImpl@29bce95a
+	at sun.nio.ch.SelectorImpl.select(Unknown Source)
+	at io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62)
+	at io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:756)
+	...
+
+
+"File IO Thread" Id=23 TIMED_WAITING
+	at java.lang.Thread.sleep(Native Method)
+	at cdv.c(SourceFile:59)
+	at cdv.run(SourceFile:35)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"Server Watchdog" Id=22 RUNNABLE
+	at sun.management.ThreadImpl.dumpThreads0(Native Method)
+	at sun.management.ThreadImpl.dumpAllThreads(Unknown Source)
+	at sp.run(SourceFile:45)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"Netty Server IO #0" Id=21 RUNNABLE
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+	-  locked io.netty.channel.nio.SelectedSelectionKeySet@13c2f537
+	-  locked java.util.Collections$UnmodifiableSet@78c18f81
+	-  locked sun.nio.ch.WindowsSelectorImpl@4291d829
+	at sun.nio.ch.SelectorImpl.select(Unknown Source)
+	at io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62)
+	at io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:756)
+	...
+
+
+"ObjectCleanerThread" Id=20 TIMED_WAITING on java.lang.ref.ReferenceQueue$Lock@c291f18
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.ReferenceQueue$Lock@c291f18
+	at java.lang.ref.ReferenceQueue.remove(Unknown Source)
+	at io.netty.util.internal.ObjectCleaner$1.run(ObjectCleaner.java:54)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"Server console handler" Id=19 RUNNABLE (in native)
+	at java.io.FileInputStream.readBytes(Native Method)
+	at java.io.FileInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	-  locked java.io.BufferedInputStream@8c638e7
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+	-  locked java.io.InputStreamReader@7c8f13f9
+	at java.io.InputStreamReader.read(Unknown Source)
+	...
+
+
+"DestroyJavaVM" Id=18 RUNNABLE
+
+
+"Server thread" Id=16 RUNNABLE
+	at java.io.DataInputStream.readUTF(Unknown Source)
+	at hn.a(SourceFile:41)
+	at gy.a(SourceFile:437)
+	at gy.a(SourceFile:81)
+	at he.a(SourceFile:69)
+	at gy.a(SourceFile:437)
+	at gy.a(SourceFile:81)
+	at he.a(SourceFile:69)
+	...
+
+
+"Server Infinisleeper" Id=15 TIMED_WAITING
+	at java.lang.Thread.sleep(Native Method)
+	at so$1.run(SourceFile:94)
+
+
+"Snooper Timer" Id=14 WAITING on java.util.TaskQueue@4d3edb63
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.util.TaskQueue@4d3edb63
+	at java.lang.Object.wait(Unknown Source)
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)
+
+
+"Attach Listener" Id=5 RUNNABLE
+
+
+"Signal Dispatcher" Id=4 RUNNABLE
+
+
+"Finalizer" Id=3 WAITING on java.lang.ref.ReferenceQueue$Lock@492a19e6
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.ReferenceQueue$Lock@492a19e6
+	at java.lang.ref.ReferenceQueue.remove(Unknown Source)
+	at java.lang.ref.ReferenceQueue.remove(Unknown Source)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Unknown Source)
+
+
+"Reference Handler" Id=2 WAITING on java.lang.ref.Reference$Lock@67f1b146
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.Reference$Lock@67f1b146
+	at java.lang.Object.wait(Unknown Source)
+	at java.lang.ref.Reference.tryHandlePending(Unknown Source)
+	at java.lang.ref.Reference$ReferenceHandler.run(Unknown Source)
+
+
+
+Stacktrace:
+	at sp.run(SourceFile:61)
+	at java.lang.Thread.run(Unknown Source)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.13.1
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_201, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 656786432 bytes (626 MB) / 1038614528 bytes (990 MB) up to 1038614528 bytes (990 MB)
+	JVM Flags: 2 total; -Xmx1024M -Xms1024M
+	Profiler Position: N/A (disabled)
+	Player Count: 1 / 20; [tf['Bea'/135, l='world', x=345.15, y=64.00, z=-313.76]]
+	Data Packs: vanilla
+	Is Modded: Unknown (can't tell)
+	Type: Dedicated Server (map_server.txt)

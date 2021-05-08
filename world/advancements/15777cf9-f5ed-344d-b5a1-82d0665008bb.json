@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2021-05-07 23:48:30 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_at_least_9_wheat": "2021-04-23 00:42:42 -0300"
@@ -194,6 +200,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2021-04-23 01:04:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2021-05-08 00:45:49 -0300"
     },
     "done": true
   },
@@ -367,8 +379,10 @@
       "cooked_cod": "2021-05-03 01:09:34 -0300",
       "pufferfish": "2021-04-23 00:26:46 -0300",
       "bread": "2021-04-23 00:35:37 -0300",
+      "golden_carrot": "2021-05-08 00:36:24 -0300",
       "mushroom_stew": "2021-04-26 00:03:07 -0300",
       "cod": "2021-05-06 00:04:36 -0300",
+      "cooked_salmon": "2021-05-08 00:36:44 -0300",
       "carrot": "2021-04-22 00:25:02 -0300"
     },
     "done": false
@@ -376,6 +390,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2021-04-21 22:46:28 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2021-05-07 23:38:33 -0300"
     },
     "done": true
   },
@@ -451,13 +471,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2021-04-21 22:50:10 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2021-04-21 22:50:10 -0300"
     },
@@ -860,6 +880,12 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2021-05-08 00:45:41 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2021-04-21 23:02:30 -0300"
@@ -878,13 +904,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2021-04-22 01:14:50 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2021-04-22 01:14:50 -0300"
     },
@@ -911,10 +937,11 @@
       "minecraft:husk": "2021-04-21 23:26:24 -0300",
       "minecraft:cave_spider": "2021-04-29 01:21:42 -0300",
       "minecraft:enderman": "2021-04-23 22:55:46 -0300",
+      "minecraft:silverfish": "2021-05-07 23:51:13 -0300",
       "minecraft:spider": "2021-04-21 23:30:01 -0300",
       "minecraft:zombie": "2021-04-21 22:41:39 -0300",
-      "minecraft:drowned": "2021-05-06 00:02:28 -0300",
       "minecraft:creeper": "2021-04-21 23:33:21 -0300",
+      "minecraft:drowned": "2021-05-06 00:02:28 -0300",
       "minecraft:zombie_villager": "2021-05-02 00:47:51 -0300"
     },
     "done": false
@@ -1021,6 +1048,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_gold_nugget": "2021-05-07 23:38:33 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_at_least_9_lapis": "2021-04-25 02:14:13 -0300"
@@ -1066,6 +1099,12 @@
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_at_least_9_gold_ingot": "2021-05-02 00:53:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2021-05-07 23:45:10 -0300"
     },
     "done": true
   },
@@ -1162,6 +1201,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2021-04-24 01:10:17 -0300"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2021-05-08 00:31:25 -0300"
     },
     "done": true
   },
@@ -1390,6 +1435,12 @@
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_shell": "2021-05-02 01:01:25 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2021-05-07 23:48:30 -0300"
     },
     "done": true
   },
@@ -1661,6 +1712,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2021-05-07 23:48:30 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2021-04-21 23:02:30 -0300"
@@ -1751,6 +1808,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2021-05-08 00:32:24 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2021-04-22 00:02:34 -0300"
@@ -1808,6 +1871,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-04-21 23:22:06 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2021-05-08 00:31:25 -0300"
     },
     "done": true
   },

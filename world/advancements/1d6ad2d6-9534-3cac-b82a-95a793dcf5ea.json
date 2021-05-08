@@ -245,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2021-05-08 00:42:22 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2021-04-21 22:43:38 -0300"
@@ -440,6 +446,7 @@
       "bread": "2021-04-23 21:08:29 -0300",
       "beetroot": "2021-04-22 00:29:43 -0300",
       "cooked_chicken": "2021-04-21 23:38:27 -0300",
+      "mushroom_stew": "2021-05-07 23:54:45 -0300",
       "cod": "2021-04-29 21:18:15 -0300",
       "cooked_salmon": "2021-04-23 22:15:53 -0300",
       "carrot": "2021-04-23 23:04:35 -0300"
@@ -530,13 +537,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2021-04-21 22:43:38 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2021-04-21 22:43:38 -0300"
     },
@@ -704,6 +711,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_at_least_9_gold_ingot": "2021-04-24 22:01:01 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_pink_dye": "2021-05-07 23:26:11 -0300"
     },
     "done": true
   },
@@ -995,13 +1008,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2021-04-24 21:17:19 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2021-04-24 21:17:19 -0300"
     },
@@ -1033,6 +1046,7 @@
       "minecraft:zombie_pigman": "2021-05-05 23:24:58 -0300",
       "minecraft:husk": "2021-05-02 00:49:49 -0300",
       "minecraft:cave_spider": "2021-05-03 01:12:54 -0300",
+      "minecraft:silverfish": "2021-05-08 00:09:38 -0300",
       "minecraft:enderman": "2021-04-22 01:25:43 -0300",
       "minecraft:magma_cube": "2021-05-04 21:25:44 -0300",
       "minecraft:spider": "2021-04-23 00:14:22 -0300",
@@ -1145,6 +1159,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_gold_nugget": "2021-05-07 21:46:34 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_at_least_9_lapis": "2021-04-28 20:19:22 -0300"
@@ -1190,6 +1210,12 @@
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_at_least_9_gold_ingot": "2021-04-24 22:01:01 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2021-05-08 00:07:21 -0300"
     },
     "done": true
   },
@@ -1259,6 +1285,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2021-05-07 21:09:44 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2021-04-21 23:12:35 -0300"
@@ -1286,6 +1318,12 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2021-04-23 00:38:33 -0300"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2021-05-08 00:31:38 -0300"
     },
     "done": true
   },
@@ -1951,6 +1989,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2021-05-08 00:33:18 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2021-04-22 01:19:16 -0300"
@@ -2020,6 +2064,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-04-21 23:22:03 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2021-05-08 00:31:38 -0300"
     },
     "done": true
   },
