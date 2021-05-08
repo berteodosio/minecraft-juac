@@ -423,6 +423,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2021-05-08 16:04:06 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2021-04-21 23:02:30 -0300"
@@ -661,6 +667,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2021-04-22 00:02:34 -0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2021-05-08 17:05:28 -0300"
     },
     "done": true
   },
@@ -935,6 +947,7 @@
       "minecraft:phantom": "2021-04-23 01:26:18 -0300",
       "minecraft:witch": "2021-04-30 01:59:03 -0300",
       "minecraft:husk": "2021-04-21 23:26:24 -0300",
+      "minecraft:ghast": "2021-05-08 17:05:28 -0300",
       "minecraft:cave_spider": "2021-04-29 01:21:42 -0300",
       "minecraft:enderman": "2021-04-23 22:55:46 -0300",
       "minecraft:silverfish": "2021-05-07 23:51:13 -0300",
