@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2021-05-09 17:13:49 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2021-04-22 00:02:34 -0300"
@@ -405,6 +411,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2021-05-09 17:13:14 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2021-04-22 00:02:34 -0300"
@@ -483,13 +495,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2021-04-21 22:50:10 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2021-04-21 22:50:10 -0300"
     },
@@ -742,6 +754,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2021-05-09 17:13:14 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2021-04-21 23:16:28 -0300"
@@ -928,13 +946,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2021-04-22 01:14:50 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2021-04-22 01:14:50 -0300"
     },
@@ -958,16 +976,17 @@
       "minecraft:skeleton": "2021-04-21 23:30:37 -0300",
       "minecraft:phantom": "2021-04-23 01:26:18 -0300",
       "minecraft:witch": "2021-04-30 01:59:03 -0300",
+      "minecraft:wither_skeleton": "2021-05-09 17:16:59 -0300",
       "minecraft:husk": "2021-04-21 23:26:24 -0300",
       "minecraft:ghast": "2021-05-08 17:05:28 -0300",
       "minecraft:cave_spider": "2021-04-29 01:21:42 -0300",
-      "minecraft:silverfish": "2021-05-07 23:51:13 -0300",
       "minecraft:enderman": "2021-04-23 22:55:46 -0300",
+      "minecraft:silverfish": "2021-05-07 23:51:13 -0300",
       "minecraft:magma_cube": "2021-05-08 20:06:40 -0300",
       "minecraft:spider": "2021-04-21 23:30:01 -0300",
       "minecraft:zombie": "2021-04-21 22:41:39 -0300",
-      "minecraft:drowned": "2021-05-06 00:02:28 -0300",
       "minecraft:creeper": "2021-04-21 23:33:21 -0300",
+      "minecraft:drowned": "2021-05-06 00:02:28 -0300",
       "minecraft:zombie_villager": "2021-05-02 00:47:51 -0300"
     },
     "done": false
@@ -1756,6 +1775,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2021-05-09 17:13:49 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2021-04-21 23:02:30 -0300"
@@ -1903,6 +1928,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2021-04-25 02:14:13 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2021-05-09 17:13:49 -0300"
     },
     "done": true
   },
