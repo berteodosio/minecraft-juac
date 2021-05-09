@@ -173,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2021-05-08 23:20:24 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2021-04-21 22:46:28 -0300"
@@ -949,13 +955,13 @@
       "minecraft:husk": "2021-04-21 23:26:24 -0300",
       "minecraft:ghast": "2021-05-08 17:05:28 -0300",
       "minecraft:cave_spider": "2021-04-29 01:21:42 -0300",
-      "minecraft:enderman": "2021-04-23 22:55:46 -0300",
       "minecraft:silverfish": "2021-05-07 23:51:13 -0300",
+      "minecraft:enderman": "2021-04-23 22:55:46 -0300",
       "minecraft:magma_cube": "2021-05-08 20:06:40 -0300",
       "minecraft:spider": "2021-04-21 23:30:01 -0300",
       "minecraft:zombie": "2021-04-21 22:41:39 -0300",
-      "minecraft:creeper": "2021-04-21 23:33:21 -0300",
       "minecraft:drowned": "2021-05-06 00:02:28 -0300",
+      "minecraft:creeper": "2021-04-21 23:33:21 -0300",
       "minecraft:zombie_villager": "2021-05-02 00:47:51 -0300"
     },
     "done": false
@@ -1041,6 +1047,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane": {
     "criteria": {
       "has_glass": "2021-04-22 00:49:27 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2021-05-08 23:20:24 -0300"
     },
     "done": true
   },
@@ -1994,6 +2006,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2021-04-21 23:02:30 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2021-05-08 23:20:24 -0300"
     },
     "done": true
   },
