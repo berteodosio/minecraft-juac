@@ -1,107 +1,435 @@
-[00:02:02] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID f46f278e-d12e-4399-b809-8c4fc4b629f4
-[00:02:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2570ms or 51 ticks behind
-[00:02:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2132ms or 42 ticks behind
-[00:02:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5330ms or 106 ticks behind
-[00:03:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2059ms or 41 ticks behind
-[00:04:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2668ms or 53 ticks behind
-[00:04:11] [Server thread/WARN]: theBEaRstring moved too quickly! -9.873293079876817,-1.0,2.077493191572014
-[00:04:11] [Server thread/WARN]: Tanzitow moved too quickly! 7.53927963493345,-3.7684762024129874,-5.498036805590193
-[00:09:52] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID f46f278e-d12e-4399-b809-8c4fc4b629f4
-[00:11:14] [Server thread/INFO]: <theBEaRstring> 282, 14, -1.3
-[00:14:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13690ms or 273 ticks behind
-[00:14:09] [Server thread/WARN]: bluekoya moved too quickly! 9.78937359543528,0.0,-2.754003164728907
-[00:14:25] [Server thread/INFO]: <theBEaRstring> 396, 15, -9
-[00:34:55] [Server thread/WARN]: Tanzitow moved too quickly! -1.209564767226425,-2.0,-9.852043544082605
-[00:48:13] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
-[01:00:28] [Server thread/INFO]: bluekoya was blown up by Creeper
-[01:00:35] [Server thread/WARN]: bluekoya moved too quickly! -279.816449515501,55.0,38.80000001192093
-[01:00:36] [Server thread/INFO]: <theBEaRstring> F
-[01:02:17] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID f46f278e-d12e-4399-b809-8c4fc4b629f4
-[01:02:57] [Server thread/WARN]: Keeping entity minecraft:horse that already exists with UUID 9cf209fd-d46b-42f9-94d4-1781d1ea31e4
-[01:03:15] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 205231a4-0e3c-499c-a329-9656cfbf5b0d
-[01:06:45] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 837e4ad8-3fd8-4ef1-872f-fe5ffe58a092
-[01:09:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9167ms or 183 ticks behind
-[01:09:29] [Server thread/WARN]: theBEaRstring moved too quickly! 8.329573984523478,-3.0,4.763693329368593
-[01:17:08] [Server thread/INFO]: <Tanzitow> calma ai
-[01:17:11] [Server thread/INFO]: <Tanzitow> rapide
-[01:22:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
-[01:22:57] [Server thread/INFO]: Bea was slain by Husk
-[01:23:00] [Server thread/INFO]: Tanzitow was slain by Zombie
-[01:23:04] [Server thread/INFO]: <theBEaRstring> F
-[01:23:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2506ms or 50 ticks behind
-[01:23:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
-[01:23:44] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 6ad9cd2d-5511-4233-868d-1c1a3af6f188
-[01:24:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[01:24:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6174ms or 123 ticks behind
-[01:24:55] [Server thread/INFO]: theBEaRstring lost connection: Disconnected
-[01:24:55] [Server thread/INFO]: theBEaRstring left the game
-[01:25:00] [Server thread/INFO]: theBEaRstring[/25.65.60.80:51220] logged in with entity id 729021 at (335.69999998807907, 63.9375, -267.3357465506019)
-[01:25:00] [Server thread/INFO]: theBEaRstring joined the game
-[01:25:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2098ms or 41 ticks behind
-[01:25:01] [Server thread/WARN]: Bea moved too quickly! 8.772963617120013,1.2468000194787976,-4.8420683847037935
-[01:25:02] [Server thread/WARN]: bluekoya moved too quickly! -8.526462865646408,1.0,5.564003708480527
-[01:25:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12343ms or 246 ticks behind
-[01:25:34] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 205231a4-0e3c-499c-a329-9656cfbf5b0d
-[01:26:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2129ms or 42 ticks behind
-[01:26:52] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
-[01:33:35] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 837e4ad8-3fd8-4ef1-872f-fe5ffe58a092
-[01:34:14] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
-[01:34:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14509ms or 290 ticks behind
-[01:35:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2131ms or 42 ticks behind
-[01:36:22] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
-[01:36:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2061ms or 41 ticks behind
-[01:37:47] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
-[01:40:41] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
-[01:40:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3112ms or 62 ticks behind
-[01:41:04] [Server thread/WARN]: theBEaRstring moved too quickly! 2.5349139505109406,0.0,9.742719314781596
-[01:41:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2485ms or 49 ticks behind
-[01:41:30] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
-[01:41:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6442ms or 128 ticks behind
-[01:41:35] [Server thread/WARN]: theBEaRstring moved too quickly! -0.28355302944378735,0.0,10.089086827083221
-[01:47:28] [Server thread/INFO]: Bea was shot by theBEaRstring
-[01:47:33] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
-[01:47:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
-[01:47:43] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 6ad9cd2d-5511-4233-868d-1c1a3af6f188
-[01:47:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2062ms or 41 ticks behind
-[01:48:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2183ms or 43 ticks behind
-[01:48:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2701ms or 54 ticks behind
-[01:48:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2863ms or 57 ticks behind
-[01:49:16] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
-[01:49:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2068ms or 41 ticks behind
-[01:49:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[01:54:37] [Server thread/WARN]: theBEaRstring moved too quickly! -9.589798995734649,-1.130906499714527,-3.620921260726559
-[01:57:03] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
-[01:57:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3115ms or 62 ticks behind
-[02:00:10] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
-[02:04:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9957ms or 199 ticks behind
-[02:09:41] [Server thread/INFO]: Bea was slain by theBEaRstring
-[02:09:45] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
-[02:09:46] [Server thread/WARN]: Bea moved too quickly! -237.80000001192093,4.0,356.80000001192093
-[02:09:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2087ms or 41 ticks behind
-[02:10:03] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 6ad9cd2d-5511-4233-868d-1c1a3af6f188
-[02:10:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2158ms or 43 ticks behind
-[02:11:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
-[02:11:35] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
-[02:12:45] [Server thread/INFO]: Tanzitow lost connection: Disconnected
-[02:12:45] [Server thread/INFO]: Tanzitow left the game
-[02:13:55] [Server thread/INFO]: theBEaRstring lost connection: Timed out
-[02:13:55] [Server thread/INFO]: theBEaRstring left the game
-[02:14:02] [Server thread/INFO]: theBEaRstring[/25.65.60.80:51362] logged in with entity id 867415 at (323.3912182856132, 74.0, -328.32056752261303)
-[02:14:02] [Server thread/INFO]: theBEaRstring joined the game
-[02:16:44] [Server thread/INFO]: Bea lost connection: Disconnected
-[02:16:44] [Server thread/INFO]: Bea left the game
-[02:16:54] [Server thread/INFO]: theBEaRstring lost connection: Disconnected
-[02:16:54] [Server thread/INFO]: theBEaRstring left the game
-[02:17:11] [Server thread/INFO]: Bea[/25.109.233.81:64254] logged in with entity id 879270 at (346.3602649490215, 68.0, -314.63526040694177)
-[02:17:11] [Server thread/INFO]: Bea joined the game
-[02:17:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2182ms or 43 ticks behind
-[02:17:27] [Server thread/INFO]: Bea lost connection: Disconnected
-[02:17:27] [Server thread/INFO]: Bea left the game
-[02:17:28] [Server thread/INFO]: bluekoya lost connection: Disconnected
-[02:17:28] [Server thread/INFO]: bluekoya left the game
-[02:19:28] [Server Shutdown Thread/INFO]: Stopping server
-[02:19:29] [Server Shutdown Thread/INFO]: Saving players
-[02:19:29] [Server Shutdown Thread/INFO]: Saving worlds
-[02:19:29] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[02:19:29] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[02:19:29] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[15:04:58] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:04:58] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:04:58] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:04:58] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:04:59] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:04:59] [main/INFO]: Loaded 0 recipes
+[15:04:59] [main/INFO]: Loaded 0 advancements
+[15:04:59] [Server thread/INFO]: Starting minecraft server version 1.13.1
+[15:04:59] [Server thread/INFO]: Loading properties
+[15:04:59] [Server thread/INFO]: Default game type: SURVIVAL
+[15:04:59] [Server thread/INFO]: Generating keypair
+[15:04:59] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:04:59] [Server thread/INFO]: Using default channel type
+[15:05:01] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:05:01] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:05:01] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:05:01] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:05:01] [Server thread/INFO]: Preparing level "world"
+[15:05:01] [Server thread/INFO]: Reloading ResourceManager: Default
+[15:05:03] [Server thread/INFO]: Loaded 524 recipes
+[15:05:04] [Server thread/INFO]: Loaded 571 advancements
+[15:05:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:05:05] [Server thread/INFO]: Preparing spawn area: 4%
+[15:05:05] [Server thread/INFO]: Preparing spawn area: 8%
+[15:05:05] [Server thread/INFO]: Preparing spawn area: 12%
+[15:05:06] [Server thread/INFO]: Preparing spawn area: 16%
+[15:05:06] [Server thread/INFO]: Preparing spawn area: 20%
+[15:05:06] [Server thread/INFO]: Preparing spawn area: 24%
+[15:05:06] [Server thread/INFO]: Preparing spawn area: 28%
+[15:05:06] [Server thread/INFO]: Preparing spawn area: 32%
+[15:05:06] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 6ad9cd2d-5511-4233-868d-1c1a3af6f188
+[15:05:06] [Server thread/INFO]: Preparing spawn area: 36%
+[15:05:07] [Server thread/INFO]: Preparing spawn area: 40%
+[15:05:07] [Server thread/WARN]: Keeping entity minecraft:horse that already exists with UUID 8e1ad72f-6bda-4830-8628-0e6548036998
+[15:05:07] [Server thread/INFO]: Preparing spawn area: 44%
+[15:05:07] [Server thread/INFO]: Preparing spawn area: 48%
+[15:05:07] [Server thread/INFO]: Preparing spawn area: 52%
+[15:05:07] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID f461a773-891e-497b-a191-24efbe543993
+[15:05:07] [Server thread/INFO]: Preparing spawn area: 56%
+[15:05:07] [Server thread/INFO]: Preparing spawn area: 60%
+[15:05:07] [Server thread/INFO]: Preparing spawn area: 64%
+[15:05:07] [Server thread/INFO]: Preparing spawn area: 68%
+[15:05:07] [Server thread/INFO]: Preparing spawn area: 72%
+[15:05:07] [Server thread/INFO]: Preparing spawn area: 76%
+[15:05:07] [Server thread/INFO]: Preparing spawn area: 80%
+[15:05:07] [Server thread/INFO]: Preparing spawn area: 84%
+[15:05:07] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
+[15:05:07] [Server thread/INFO]: Preparing spawn area: 88%
+[15:05:07] [Server thread/INFO]: Preparing spawn area: 92%
+[15:05:07] [Server thread/INFO]: Preparing spawn area: 96%
+[15:05:07] [Server thread/INFO]: Preparing spawn area: 100%
+[15:05:07] [Server thread/INFO]: Time elapsed: 3181 ms
+[15:05:07] [Server thread/INFO]: Done (7.059s)! For help, type "help"
+[15:07:15] [Server thread/INFO]: Tanzitow[/25.3.5.199:60011] logged in with entity id 245 at (300.6107117758424, 63.0, -354.59865506816885)
+[15:07:15] [Server thread/INFO]: Tanzitow joined the game
+[15:07:16] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 205231a4-0e3c-499c-a329-9656cfbf5b0d
+[15:07:16] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID f46f278e-d12e-4399-b809-8c4fc4b629f4
+[15:07:16] [Server thread/WARN]: Keeping entity minecraft:horse that already exists with UUID 9cf209fd-d46b-42f9-94d4-1781d1ea31e4
+[15:08:08] [Server thread/INFO]: Tio_Prates[/25.7.171.236:49912] logged in with entity id 1059 at (289.14750743115377, 65.24711730121155, -267.0985540857789)
+[15:08:08] [Server thread/INFO]: Tio_Prates joined the game
+[15:08:08] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
+[15:08:24] [Server thread/INFO]: bluekoya[/25.11.127.139:52184] logged in with entity id 3372 at (297.3870297036042, 15.0, -69.2771735545476)
+[15:08:24] [Server thread/INFO]: bluekoya joined the game
+[15:08:24] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
+[15:09:29] [Server thread/WARN]: Tio_Prates was kicked for floating too long!
+[15:09:29] [Server thread/INFO]: Tio_Prates lost connection: Flying is not enabled on this server
+[15:09:29] [Server thread/INFO]: Tio_Prates left the game
+[15:09:29] [Server thread/WARN]: handleDisconnection() called twice
+[15:09:36] [Server thread/INFO]: Tio_Prates[/25.7.171.236:49914] logged in with entity id 10248 at (311.5240881040706, 64.24918707874468, -326.8246326303383)
+[15:09:36] [Server thread/INFO]: Tio_Prates joined the game
+[15:10:28] [Server thread/INFO]: Tio_Prates lost connection: Disconnected
+[15:10:28] [Server thread/INFO]: Tio_Prates left the game
+[15:10:32] [Server thread/INFO]: Tio_Prates[/25.7.171.236:49922] logged in with entity id 14203 at (312.6752367760942, 63.0, -350.2377854123952)
+[15:10:32] [Server thread/INFO]: Tio_Prates joined the game
+[15:12:51] [Server thread/WARN]: Tio_Prates moved too quickly! -0.354179380216749,-0.043535620147501675,10.2850889117326
+[15:13:07] [Server thread/INFO]: Tio_Prates lost connection: Disconnected
+[15:13:07] [Server thread/INFO]: Tio_Prates left the game
+[15:13:09] [Server thread/INFO]: Tio_Prates[/25.7.171.236:49937] logged in with entity id 23609 at (310.48848025113404, 63.41999998688698, -308.53490612426265)
+[15:13:09] [Server thread/INFO]: Tio_Prates joined the game
+[15:17:09] [Server thread/WARN]: Tanzitow moved too quickly! -0.057884145777507,-0.5061351021062208,-10.332908505762248
+[15:17:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
+[15:20:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2994ms or 59 ticks behind
+[15:22:18] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
+[15:22:22] [Server thread/WARN]: Tio_Prates moved too quickly! 3.0262617466825645,-1.130906499714527,9.693604549799602
+[15:23:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2792ms or 55 ticks behind
+[15:23:31] [Server thread/WARN]: Tio_Prates moved too quickly! 1.6593073702780856,6.249187078744683,7.811529864690131
+[15:24:13] [Server thread/WARN]: Tio_Prates moved too quickly! 2.485876315957551,-10.521960543924251,-2.2708435613642166
+[15:25:00] [Server thread/WARN]: Tio_Prates moved too quickly! -9.848654848694714,0.0,-1.9740095479982642
+[15:25:11] [Server thread/WARN]: Tio_Prates moved too quickly! -8.447048948288584,1.1661092609382138,5.7482120773895815
+[15:31:54] [Server thread/WARN]: Tio_Prates was kicked for floating too long!
+[15:31:54] [Server thread/INFO]: Tio_Prates lost connection: Flying is not enabled on this server
+[15:31:54] [Server thread/INFO]: Tio_Prates left the game
+[15:32:02] [Server thread/INFO]: Tio_Prates[/25.7.171.236:49946] logged in with entity id 46781 at (7.3248488338689075, 71.24918707874468, -59.830053204634154)
+[15:32:02] [Server thread/INFO]: Tio_Prates joined the game
+[15:32:29] [Server thread/WARN]: Tio_Prates was kicked for floating too long!
+[15:32:29] [Server thread/INFO]: Tio_Prates lost connection: Flying is not enabled on this server
+[15:32:29] [Server thread/INFO]: Tio_Prates left the game
+[15:32:37] [Server thread/INFO]: Tio_Prates[/25.7.171.236:49948] logged in with entity id 46927 at (2.984532188627073, 93.00133597911214, -21.049773102847972)
+[15:32:37] [Server thread/INFO]: Tio_Prates joined the game
+[15:33:00] [Server thread/INFO]: <Tio_Prates> 19 93 -10
+[15:33:43] [Server thread/WARN]: Tio_Prates moved too quickly! -0.40547902610819975,0.25799910351528865,-10.12554728733923
+[15:33:56] [Server thread/WARN]: Tio_Prates moved too quickly! 7.115973088858368,-0.16779664663324922,-7.209329419409656
+[15:34:00] [Server thread/WARN]: Tio_Prates was kicked for floating too long!
+[15:34:00] [Server thread/INFO]: Tio_Prates lost connection: Flying is not enabled on this server
+[15:34:00] [Server thread/INFO]: Tio_Prates left the game
+[15:34:11] [Server thread/INFO]: Tio_Prates[/25.7.171.236:49950] logged in with entity id 47417 at (43.51628094545251, 60.24918707874468, -124.05484303915472)
+[15:34:11] [Server thread/INFO]: Tio_Prates joined the game
+[15:34:11] [Server thread/WARN]: Fetching addPacket for removed entity
+[15:34:48] [Server thread/WARN]: Tio_Prates moved too quickly! -7.431664381879745,-0.12129684053919476,6.808898964560825
+[15:34:56] [Server thread/WARN]: Tio_Prates moved too quickly! -1.3138166351642226,-10.038049907596026,2.7538569544796516
+[15:37:11] [Server thread/WARN]: Tio_Prates moved too quickly! 8.321802524507444,0.2522033402537289,5.8694296695340284
+[15:37:15] [Server thread/WARN]: Tio_Prates was kicked for floating too long!
+[15:37:15] [Server thread/INFO]: Tio_Prates lost connection: Flying is not enabled on this server
+[15:37:15] [Server thread/INFO]: Tio_Prates left the game
+[15:37:22] [Server thread/INFO]: Tio_Prates[/25.7.171.236:49952] logged in with entity id 48101 at (-4.878444494691433, 47.24918707874468, -37.85971655216016)
+[15:37:22] [Server thread/INFO]: Tio_Prates joined the game
+[15:37:31] [Server thread/INFO]: Bea[/25.109.233.81:65123] logged in with entity id 48133 at (345.6247231698283, 68.0625, -312.7387796640865)
+[15:37:31] [Server thread/INFO]: Bea joined the game
+[15:37:40] [Server thread/WARN]: Keeping entity minecraft:horse that already exists with UUID 9cf209fd-d46b-42f9-94d4-1781d1ea31e4
+[15:37:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10425ms or 208 ticks behind
+[15:37:40] [Server thread/WARN]: Tio_Prates moved too quickly! -0.3897896537877159,-2.0,-9.843843712568052
+[15:37:40] [Server thread/WARN]: bluekoya moved too quickly! -2.397424471496162,-3.0,-9.275235346873764
+[15:37:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4051ms or 81 ticks behind
+[15:38:23] [Server thread/WARN]: Tanzitow moved too quickly! 10.004539779331473,-1.127890238205488,2.21692127755027
+[15:38:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2255ms or 45 ticks behind
+[15:39:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[15:39:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2357ms or 47 ticks behind
+[15:39:40] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
+[15:39:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4771ms or 95 ticks behind
+[15:41:14] [Server thread/WARN]: Tio_Prates moved too quickly! 1.723841124469841,4.8245767040478995,8.662459484959896
+[15:42:10] [Server thread/INFO]: Bea was slain by Zombie Pigman
+[15:42:12] [Server thread/WARN]: Keeping entity minecraft:horse that already exists with UUID 9cf209fd-d46b-42f9-94d4-1781d1ea31e4
+[15:42:13] [Server thread/INFO]: Tio_Prates lost connection: Disconnected
+[15:42:13] [Server thread/INFO]: Tio_Prates left the game
+[15:42:13] [Server thread/INFO]: Tio_Prates[/25.7.171.236:49959] logged in with entity id 53886 at (-50.69999998807907, 95.0, -1.0306700798634536)
+[15:42:13] [Server thread/INFO]: Tio_Prates joined the game
+[15:42:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[15:42:29] [Server thread/INFO]: Tio_Prates lost connection: Timed out
+[15:42:29] [Server thread/INFO]: Tio_Prates left the game
+[15:42:30] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
+[15:42:34] [Server thread/INFO]: Tio_Prates[/25.7.171.236:49968] logged in with entity id 54526 at (-50.69999998807907, 95.0, -1.0306700798634536)
+[15:42:34] [Server thread/INFO]: Tio_Prates joined the game
+[15:42:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5487ms or 109 ticks behind
+[15:43:14] [Server thread/INFO]: Tanzitow lost connection: Disconnected
+[15:43:14] [Server thread/INFO]: Tanzitow left the game
+[15:43:17] [Server thread/INFO]: bluekoya lost connection: Disconnected
+[15:43:17] [Server thread/INFO]: bluekoya left the game
+[15:43:22] [Server thread/WARN]: Tio_Prates was kicked for floating too long!
+[15:43:22] [Server thread/WARN]: Tio_Prates was kicked for floating too long!
+[15:43:22] [Server thread/WARN]: Tio_Prates was kicked for floating too long!
+[15:43:22] [Server thread/WARN]: Tio_Prates was kicked for floating too long!
+[15:43:22] [Server thread/WARN]: Tio_Prates was kicked for floating too long!
+[15:43:22] [Server thread/WARN]: Tio_Prates was kicked for floating too long!
+[15:43:22] [Server thread/WARN]: Tio_Prates was kicked for floating too long!
+[15:43:22] [Server thread/WARN]: Tio_Prates was kicked for floating too long!
+[15:43:22] [Server thread/WARN]: Tio_Prates was kicked for floating too long!
+[15:43:22] [Server thread/WARN]: Tio_Prates was kicked for floating too long!
+[15:43:22] [Server thread/WARN]: Tio_Prates was kicked for floating too long!
+[15:43:23] [Server thread/WARN]: Tio_Prates was kicked for floating too long!
+[15:43:23] [Server thread/WARN]: Tio_Prates was kicked for floating too long!
+[15:43:23] [Server thread/WARN]: Tio_Prates was kicked for floating too long!
+[15:43:23] [Server thread/WARN]: Tio_Prates was kicked for floating too long!
+[15:43:23] [Server thread/WARN]: Tio_Prates was kicked for floating too long!
+[15:43:23] [Server thread/WARN]: Tio_Prates was kicked for floating too long!
+[15:43:23] [Server thread/WARN]: Tio_Prates was kicked for floating too long!
+[15:43:23] [Server thread/WARN]: Tio_Prates was kicked for floating too long!
+[15:43:23] [Server thread/WARN]: Tio_Prates was kicked for floating too long!
+[15:43:23] [Server thread/WARN]: Tio_Prates was kicked for floating too long!
+[15:43:23] [Server thread/WARN]: Tio_Prates was kicked for floating too long!
+[15:43:23] [Server thread/WARN]: Tio_Prates was kicked for floating too long!
+[15:43:23] [Server thread/WARN]: Tio_Prates was kicked for floating too long!
+[15:43:23] [Server thread/WARN]: Tio_Prates was kicked for floating too long!
+[15:43:23] [Server thread/INFO]: Tio_Prates lost connection: Flying is not enabled on this server
+[15:43:23] [Server thread/INFO]: Tio_Prates left the game
+[15:43:30] [Server thread/INFO]: bluekoya[/25.11.127.139:52458] logged in with entity id 54688 at (-51.51701377946026, 90.0, -24.699999988079067)
+[15:43:30] [Server thread/INFO]: bluekoya joined the game
+[15:43:33] [Server thread/INFO]: Tanzitow[/25.3.5.199:60065] logged in with entity id 54696 at (-21.300000011920922, 78.0, -133.0891199748935)
+[15:43:33] [Server thread/INFO]: Tanzitow joined the game
+[15:43:36] [Server thread/INFO]: Tio_Prates[/25.7.171.236:49972] logged in with entity id 54730 at (-13.908349236631077, 93.00133597911214, -7.770964482672593)
+[15:43:36] [Server thread/INFO]: Tio_Prates joined the game
+[15:43:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2906ms or 58 ticks behind
+[15:43:40] [Server thread/INFO]: Tanzitow lost connection: Disconnected
+[15:43:40] [Server thread/INFO]: Tanzitow left the game
+[15:44:32] [Server thread/INFO]: Tanzitow[/25.3.5.199:60069] logged in with entity id 55029 at (-21.30000001192093, 77.0, -132.30856041972922)
+[15:44:32] [Server thread/INFO]: Tanzitow joined the game
+[15:44:35] [Server thread/INFO]: Tio_Prates lost connection: Disconnected
+[15:44:35] [Server thread/INFO]: Tio_Prates left the game
+[15:44:42] [Server thread/INFO]: Tio_Prates[/25.7.171.236:49974] logged in with entity id 55187 at (56.575782687698464, 90.41999998688698, 48.00655291558257)
+[15:44:42] [Server thread/INFO]: Tio_Prates joined the game
+[15:46:10] [Server thread/INFO]: <Tio_Prates> a
+[15:46:15] [Server thread/INFO]: bluekoya lost connection: Timed out
+[15:46:15] [Server thread/INFO]: bluekoya left the game
+[15:46:16] [Server thread/INFO]: bluekoya[/25.11.127.139:52487] logged in with entity id 55510 at (-26.337482729317625, 89.0, -56.852327120055584)
+[15:46:16] [Server thread/INFO]: bluekoya joined the game
+[15:46:22] [Server thread/INFO]: <Tio_Prates> 1 92 -9
+[15:47:00] [Server thread/INFO]: <Tio_Prates> 38 70 -22
+[15:47:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[15:49:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2648ms or 52 ticks behind
+[15:49:22] [Server thread/INFO]: <Tio_Prates> 38 70 -22
+[15:49:23] [Server thread/INFO]: <Tio_Prates> 38 70 -22
+[15:49:23] [Server thread/INFO]: <Tio_Prates> 38 70 -22
+[15:49:24] [Server thread/INFO]: <Tio_Prates> 38 70 -22
+[15:49:24] [Server thread/INFO]: <Tio_Prates> 38 70 -22
+[15:49:24] [Server thread/INFO]: <Tio_Prates> 38 70 -22
+[15:49:25] [Server thread/INFO]: <Tio_Prates> 38 70 -22
+[15:49:25] [Server thread/INFO]: <Tio_Prates> 38 70 -22
+[15:49:25] [Server thread/INFO]: <Tio_Prates> 38 70 -22t
+[15:49:27] [Server thread/INFO]: <Tio_Prates> 38 70 -22t
+[15:49:27] [Server thread/INFO]: <Tio_Prates> 38 70 -22tt
+[15:49:27] [Server thread/INFO]: <Tio_Prates> 38 70 -22ttt
+[15:50:43] [Server thread/INFO]: Tio_Prates lost connection: Timed out
+[15:50:43] [Server thread/INFO]: Tio_Prates left the game
+[15:50:50] [Server thread/INFO]: Tio_Prates[/25.7.171.236:49981] logged in with entity id 57160 at (46.911313226197564, 92.02442408821369, 31.440463463817753)
+[15:50:50] [Server thread/INFO]: Tio_Prates joined the game
+[15:51:15] [Server thread/INFO]: Bea fell from a high place
+[15:51:20] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
+[15:51:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5079ms or 101 ticks behind
+[15:51:22] [Server thread/WARN]: Keeping entity minecraft:horse that already exists with UUID 9cf209fd-d46b-42f9-94d4-1781d1ea31e4
+[15:51:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2087ms or 41 ticks behind
+[15:52:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2199ms or 43 ticks behind
+[15:53:11] [Server thread/INFO]: Tio_Prates lost connection: You logged in from another location
+[15:53:11] [Server thread/INFO]: Tio_Prates left the game
+[15:53:11] [Server thread/INFO]: Tio_Prates[/25.7.171.236:49989] logged in with entity id 59462 at (46.69999998807907, 78.0, -32.69999998807907)
+[15:53:11] [Server thread/INFO]: Tio_Prates joined the game
+[15:53:39] [Server thread/INFO]: <Tio_Prates> foi td?
+[15:55:41] [Server thread/INFO]: <Tio_Prates> 35 70 -26
+[15:55:42] [Server thread/INFO]: <Tio_Prates> 35 70 -26
+[15:55:43] [Server thread/INFO]: <Tio_Prates> 35 70 -26
+[15:55:44] [Server thread/INFO]: <Tio_Prates> 35 70 -26
+[15:55:44] [Server thread/INFO]: <Tio_Prates> 35 70 -26
+[15:55:45] [Server thread/INFO]: <Tio_Prates> 35 70 -26
+[15:59:00] [Server thread/WARN]: Tio_Prates moved too quickly! -10.013232192878023,0.0,0.7523164458498695
+[16:00:04] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
+[16:00:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[16:00:48] [Server thread/INFO]: Tio_Prates lost connection: Disconnected
+[16:00:48] [Server thread/INFO]: Tio_Prates left the game
+[16:00:48] [Server thread/INFO]: Tio_Prates[/25.7.171.236:50000] logged in with entity id 61552 at (11.602418231503446, 80.0, -27.69999998807907)
+[16:00:48] [Server thread/INFO]: Tio_Prates joined the game
+[16:01:04] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
+[16:01:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2344ms or 46 ticks behind
+[16:01:06] [Server thread/WARN]: Tio_Prates moved too quickly! 10.100818240801111,0.0,-0.0872911154164413
+[16:01:12] [Server thread/WARN]: Keeping entity minecraft:horse that already exists with UUID 9cf209fd-d46b-42f9-94d4-1781d1ea31e4
+[16:02:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22261ms or 445 ticks behind
+[16:02:01] [Server thread/WARN]: bluekoya moved too quickly! 1.664028409206196,0.0,-10.075013606289303
+[16:02:01] [Server thread/WARN]: Tio_Prates moved too quickly! -7.802618519921452,-1.252203340253729,-6.593808561152173
+[16:02:01] [Server thread/WARN]: Tanzitow moved too quickly! 0.7614838719604791,-0.04353562014750878,-10.30367954251983
+[16:02:02] [Server thread/INFO]: Tio_Prates lost connection: Disconnected
+[16:02:02] [Server thread/INFO]: Tio_Prates left the game
+[16:02:07] [Server thread/INFO]: Tio_Prates[/25.7.171.236:50020] logged in with entity id 62854 at (300.99494507666935, 64.0, -282.9591083221603)
+[16:02:07] [Server thread/INFO]: Tio_Prates joined the game
+[16:02:08] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 205231a4-0e3c-499c-a329-9656cfbf5b0d
+[16:03:30] [Server thread/WARN]: Tio_Prates moved too quickly! -0.6212148098327361,-0.49520087700592086,10.012094778308324
+[16:04:30] [Server thread/WARN]: Tio_Prates moved too quickly! 1.4426192534621123,0.42355929454303975,-10.156084641378527
+[16:04:56] [Server thread/WARN]: Tio_Prates moved too quickly! -0.5948707150375299,0.25799910351528155,10.127326503477093
+[16:05:28] [Server thread/INFO]: Bea went up in flames
+[16:05:52] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
+[16:05:59] [Server thread/WARN]: Tio_Prates moved too quickly! 0.943322585025669,-0.12129684053920187,-10.192855271543635
+[16:06:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2807ms or 56 ticks behind
+[16:07:41] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
+[16:08:23] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
+[16:09:07] [Server thread/WARN]: Tio_Prates moved too quickly! 1.4424912556936533,-1.130906499714527,-10.061327184393747
+[16:09:53] [Server thread/INFO]: Bea was slain by Zombie Pigman
+[16:10:16] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
+[16:10:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[16:11:27] [Server thread/WARN]: Tio_Prates moved too quickly! 0.5929939892694165,0.0,-10.128030248919003
+[16:11:37] [Server thread/WARN]: Tio_Prates moved too quickly! 2.2743423589591316,0.0,-9.754382925892799
+[16:13:25] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
+[16:13:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2367ms or 47 ticks behind
+[16:13:58] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 837e4ad8-3fd8-4ef1-872f-fe5ffe58a092
+[16:14:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2098ms or 41 ticks behind
+[16:15:32] [Server thread/INFO]: bluekoya lost connection: Timed out
+[16:15:32] [Server thread/INFO]: bluekoya left the game
+[16:15:44] [Server thread/INFO]: bluekoya[/25.11.127.139:52718] logged in with entity id 103082 at (333.65784649775554, 63.0, -348.51692044424897)
+[16:15:44] [Server thread/INFO]: bluekoya joined the game
+[16:16:29] [Server thread/WARN]: Tio_Prates moved too quickly! -6.921299726357802,-0.49520087700592086,-7.354432809753291
+[16:17:09] [Server thread/INFO]: Tio_Prates lost connection: Timed out
+[16:17:09] [Server thread/INFO]: Tio_Prates left the game
+[16:17:12] [Server thread/INFO]: Tio_Prates[/25.7.171.236:50036] logged in with entity id 107368 at (310.59398432390384, 63.7531999805212, -332.9265218814532)
+[16:17:12] [Server thread/INFO]: Tio_Prates joined the game
+[16:19:02] [Server thread/INFO]: Tio_Prates lost connection: You logged in from another location
+[16:19:02] [Server thread/INFO]: Tio_Prates left the game
+[16:19:02] [Server thread/INFO]: Tio_Prates[/25.7.171.236:50047] logged in with entity id 112274 at (310.5885785401843, 63.0, -319.4706621420147)
+[16:19:03] [Server thread/INFO]: Tio_Prates joined the game
+[16:21:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2405ms or 48 ticks behind
+[16:21:30] [Server thread/WARN]: Tio_Prates moved too quickly! 0.040184642850078944,-1.0013359791121417,-10.046631338221971
+[16:22:36] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
+[16:23:02] [Server thread/INFO]: Tio_Prates lost connection: You logged in from another location
+[16:23:02] [Server thread/INFO]: Tio_Prates left the game
+[16:23:02] [Server thread/INFO]: Tio_Prates[/25.7.171.236:50068] logged in with entity id 123099 at (337.9256235765265, 63.0, -249.75775966814476)
+[16:23:02] [Server thread/INFO]: Tio_Prates joined the game
+[16:24:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2499ms or 49 ticks behind
+[16:25:52] [Server thread/INFO]: <Tio_Prates> comidaaaaa
+[16:26:22] [Server thread/INFO]: <Tio_Prates> gente?
+[16:26:30] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
+[16:27:48] [Server thread/INFO]: <Tio_Prates> hellen?
+[16:27:52] [Server thread/INFO]: <bluekoya> oiii
+[16:27:56] [Server thread/INFO]: <Tio_Prates> mq ta mutada?
+[16:30:03] [Server thread/WARN]: Tio_Prates moved too quickly! -0.6629032964165731,0.756759288177264,10.259809396998037
+[16:30:47] [Server thread/WARN]: Tio_Prates moved too quickly! 1.2741336914367594,0.8322033533667508,10.08712703037844
+[16:31:28] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
+[16:31:54] [Server thread/INFO]: Tanzitow has made the advancement [Ice Bucket Challenge]
+[16:34:23] [Server thread/WARN]: Tio_Prates moved too quickly! 0.5035643177453153,-1.127890238205481,-10.031685292991256
+[16:34:32] [Server thread/INFO]: bluekoya lost connection: Timed out
+[16:34:32] [Server thread/INFO]: bluekoya left the game
+[16:34:37] [Server thread/INFO]: Tio_Prates lost connection: Disconnected
+[16:34:37] [Server thread/INFO]: Tio_Prates left the game
+[16:34:42] [Server thread/INFO]: bluekoya[/25.11.127.139:52864] logged in with entity id 152843 at (359.80578515685727, 64.41999998688698, -360.0073127569356)
+[16:34:42] [Server thread/INFO]: bluekoya joined the game
+[16:34:43] [Server thread/INFO]: Tio_Prates[/25.7.171.236:50083] logged in with entity id 153276 at (339.3009655859896, 62.0, -300.86835516043953)
+[16:34:43] [Server thread/INFO]: Tio_Prates joined the game
+[16:35:31] [Server thread/INFO]: Bea was slain by Spider
+[16:35:38] [Server thread/INFO]: <Tio_Prates> bea?
+[16:37:14] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
+[16:38:10] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
+[16:38:11] [Server thread/INFO]: <Bea> alguem pegou minhas coisas??
+[16:38:20] [Server thread/INFO]: <bluekoya> eu e o jaja
+[16:38:25] [Server thread/INFO]: <Bea> :') obg
+[16:38:30] [Server thread/INFO]: <Bea> eu tinha saido aq skkskss
+[16:38:36] [Server thread/INFO]: <Bea> n achei q eu fosse morrer lá
+[16:38:46] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
+[16:39:17] [Server thread/INFO]: <Bea> vcs acharam os trilhos??
+[16:39:26] [Server thread/INFO]: <Tanzitow> ta cmg
+[16:39:35] [Server thread/INFO]: <Bea> blzz
+[16:40:19] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
+[16:41:33] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
+[16:44:34] [Server thread/INFO]: Tio_Prates lost connection: Disconnected
+[16:44:34] [Server thread/INFO]: Tio_Prates left the game
+[16:44:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18490ms or 369 ticks behind
+[16:44:35] [Server thread/WARN]: Bea moved too quickly! -8.681595795383316,-1.7531999805212024,5.0565373162958736
+[16:44:41] [Server thread/INFO]: Tio_Prates[/25.7.171.236:50089] logged in with entity id 177185 at (309.29855509461413, 63.0, -302.12796787900703)
+[16:44:41] [Server thread/INFO]: Tio_Prates joined the game
+[16:46:42] [Server thread/INFO]: Tio_Prates lost connection: Timed out
+[16:46:42] [Server thread/INFO]: Tio_Prates left the game
+[16:46:47] [Server thread/INFO]: Tio_Prates[/25.7.171.236:50092] logged in with entity id 184371 at (336.6151357986986, 63.17675927506424, -274.3327769730683)
+[16:46:47] [Server thread/INFO]: Tio_Prates joined the game
+[16:48:21] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
+[16:50:57] [Server thread/INFO]: Bea fell from a high place
+[16:51:04] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
+[16:51:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2193ms or 43 ticks behind
+[16:51:30] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
+[16:53:19] [Server thread/WARN]: Tio_Prates was kicked for floating too long!
+[16:53:19] [Server thread/INFO]: Tio_Prates lost connection: Flying is not enabled on this server
+[16:53:19] [Server thread/INFO]: Tio_Prates left the game
+[16:53:19] [Server thread/WARN]: handleDisconnection() called twice
+[16:53:25] [Server thread/INFO]: Tio_Prates[/25.7.171.236:50096] logged in with entity id 208037 at (310.0798141148466, 63.7531999805212, -313.1988021822563)
+[16:53:25] [Server thread/INFO]: Tio_Prates joined the game
+[16:55:00] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
+[16:56:10] [Server thread/INFO]: Tio_Prates lost connection: Timed out
+[16:56:10] [Server thread/INFO]: Tio_Prates left the game
+[16:56:34] [Server thread/INFO]: Tanzitow lost connection: Disconnected
+[16:56:34] [Server thread/INFO]: Tanzitow left the game
+[16:56:45] [Server thread/INFO]: Tio_Prates[/25.7.171.236:50099] logged in with entity id 214340 at (307.2498646276606, 63.0, -304.0775707288692)
+[16:56:45] [Server thread/INFO]: Tio_Prates joined the game
+[16:56:54] [Server thread/INFO]: Tanzitow[/25.3.5.199:60152] logged in with entity id 214821 at (348.8447365839228, 10.0, -182.30000001192093)
+[16:56:54] [Server thread/INFO]: Tanzitow joined the game
+[16:56:54] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
+[16:57:18] [Server thread/INFO]: Tio_Prates lost connection: Disconnected
+[16:57:18] [Server thread/INFO]: Tio_Prates left the game
+[16:57:20] [Server thread/INFO]: Tio_Prates[/25.7.171.236:50104] logged in with entity id 217159 at (308.66861179842465, 63.0, -317.76978497737315)
+[16:57:20] [Server thread/INFO]: Tio_Prates joined the game
+[17:04:44] [Server thread/INFO]: Tio_Prates lost connection: Disconnected
+[17:04:44] [Server thread/INFO]: Tio_Prates left the game
+[17:04:55] [Server thread/INFO]: Tio_Prates[/25.7.171.236:50124] logged in with entity id 248936 at (408.0379539241794, 64.0, -298.8639067416651)
+[17:04:55] [Server thread/INFO]: Tio_Prates joined the game
+[17:06:32] [Server thread/INFO]: * Tio_Prates morreu por dentro
+[17:10:26] [Server thread/INFO]: <bluekoya> zzzzzzzzzzz
+[17:10:30] [Server thread/INFO]: Tio_Prates lost connection: Disconnected
+[17:10:30] [Server thread/INFO]: Tio_Prates left the game
+[17:10:45] [Server thread/INFO]: Tio_Prates[/25.7.171.236:50141] logged in with entity id 267206 at (310.57351207521873, 63.0, -326.9681078999746)
+[17:10:45] [Server thread/INFO]: Tio_Prates joined the game
+[17:11:45] [Server thread/INFO]: Tio_Prates lost connection: Timed out
+[17:11:45] [Server thread/INFO]: Tio_Prates left the game
+[17:11:45] [Server thread/WARN]: handleDisconnection() called twice
+[17:11:51] [Server thread/INFO]: Tio_Prates[/25.7.171.236:50145] logged in with entity id 271809 at (372.8071889413226, 69.25220334025373, -312.2810097855876)
+[17:11:51] [Server thread/INFO]: Tio_Prates joined the game
+[17:14:52] [Server thread/INFO]: Tio_Prates lost connection: Timed out
+[17:14:52] [Server thread/INFO]: Tio_Prates left the game
+[17:14:58] [Server thread/INFO]: Tio_Prates[/25.7.171.236:50147] logged in with entity id 281177 at (372.39059583257824, 64.0, -325.05721893889597)
+[17:14:58] [Server thread/INFO]: Tio_Prates joined the game
+[17:16:13] [Server thread/INFO]: Tio_Prates lost connection: Timed out
+[17:16:13] [Server thread/INFO]: Tio_Prates left the game
+[17:16:20] [Server thread/INFO]: Tio_Prates[/25.7.171.236:50149] logged in with entity id 285535 at (384.9225418839844, 64.0, -326.85645203881046)
+[17:16:20] [Server thread/INFO]: Tio_Prates joined the game
+[17:17:44] [Server thread/INFO]: Tio_Prates lost connection: Disconnected
+[17:17:44] [Server thread/INFO]: Tio_Prates left the game
+[17:17:47] [Server thread/INFO]: Tio_Prates[/25.7.171.236:50154] logged in with entity id 289734 at (377.00064039471494, 62.0, -290.4895030217237)
+[17:17:47] [Server thread/INFO]: Tio_Prates joined the game
+[17:19:17] [Server thread/INFO]: Tanzitow lost connection: Disconnected
+[17:19:17] [Server thread/INFO]: Tanzitow left the game
+[17:24:03] [Server thread/INFO]: Tio_Prates lost connection: Timed out
+[17:24:03] [Server thread/INFO]: Tio_Prates left the game
+[17:24:09] [Server thread/INFO]: Tio_Prates[/25.7.171.236:50161] logged in with entity id 306430 at (310.4594406212195, 64.02442408821369, -321.7881062368545)
+[17:24:09] [Server thread/INFO]: Tio_Prates joined the game
+[17:24:19] [Server thread/INFO]: Tio_Prates lost connection: Disconnected
+[17:24:19] [Server thread/INFO]: Tio_Prates left the game
+[17:25:05] [Server thread/INFO]: Bea lost connection: Disconnected
+[17:25:05] [Server thread/INFO]: Bea left the game
+[17:25:08] [Server thread/INFO]: bluekoya lost connection: Disconnected
+[17:25:08] [Server thread/INFO]: bluekoya left the game
+[17:26:06] [Server thread/INFO]: Bea[/25.109.233.81:65242] logged in with entity id 307347 at (345.3641306748365, 64.0, -311.70075007618493)
+[17:26:06] [Server thread/INFO]: Bea joined the game
+[17:26:12] [Server thread/WARN]: Keeping entity minecraft:horse that already exists with UUID 9cf209fd-d46b-42f9-94d4-1781d1ea31e4
+[17:26:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6184ms or 123 ticks behind
+[17:26:13] [Server thread/INFO]: bluekoya[/25.11.127.139:53251] logged in with entity id 307561 at (352.2601401357773, 68.0, -354.4320585231089)
+[17:26:13] [Server thread/INFO]: bluekoya joined the game
+[17:26:13] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 205231a4-0e3c-499c-a329-9656cfbf5b0d
+[17:28:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2292ms or 45 ticks behind
+[17:30:28] [Server thread/INFO]: Bea fell from a high place
+[17:35:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18642ms or 372 ticks behind
+[17:35:19] [Server thread/WARN]: Bea moved too quickly! 5.479897406207101,1.0013359791121417,-8.391441215440693
+[17:35:19] [Server thread/WARN]: bluekoya moved too quickly! -9.7727535791293,0.0,2.7403074747587084
+[17:37:58] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 205231a4-0e3c-499c-a329-9656cfbf5b0d
+[17:38:37] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 205231a4-0e3c-499c-a329-9656cfbf5b0d
+[17:40:19] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 837e4ad8-3fd8-4ef1-872f-fe5ffe58a092
+[17:41:22] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
+[17:42:19] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
+[17:42:59] [Server thread/INFO]: bluekoya has made the advancement [Hot Stuff]
+[17:44:08] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 205231a4-0e3c-499c-a329-9656cfbf5b0d
+[17:44:31] [Server thread/INFO]: bluekoya tried to swim in lava
+[17:49:22] [Server thread/INFO]: bluekoya has made the advancement [Ice Bucket Challenge]
+[17:55:31] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
+[17:56:01] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
+[17:56:37] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
+[17:56:40] [Server thread/INFO]: bluekoya lost connection: Disconnected
+[17:56:40] [Server thread/INFO]: bluekoya left the game
+[17:57:06] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
+[17:57:59] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
+[17:58:30] [Server thread/INFO]: Bea lost connection: Disconnected
+[17:58:30] [Server thread/INFO]: Bea left the game
+[17:59:31] [Server Shutdown Thread/INFO]: Stopping server
+[17:59:32] [Server Shutdown Thread/INFO]: Saving players
+[17:59:32] [Server Shutdown Thread/INFO]: Saving worlds
+[17:59:32] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[17:59:32] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[17:59:32] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:overworld

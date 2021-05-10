@@ -550,13 +550,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2021-04-21 22:43:38 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2021-04-21 22:43:38 -0300"
     },
@@ -1065,6 +1065,7 @@
       "minecraft:wither_skeleton": "2021-05-09 17:20:27 -0300",
       "minecraft:zombie_pigman": "2021-05-05 23:24:58 -0300",
       "minecraft:husk": "2021-05-02 00:49:49 -0300",
+      "minecraft:ghast": "2021-05-10 15:56:25 -0300",
       "minecraft:cave_spider": "2021-05-03 01:12:54 -0300",
       "minecraft:enderman": "2021-04-22 01:25:43 -0300",
       "minecraft:silverfish": "2021-05-08 00:09:38 -0300",
@@ -1830,6 +1831,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2021-04-24 20:26:49 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2021-05-10 17:13:08 -0300"
     },
     "done": true
   },
