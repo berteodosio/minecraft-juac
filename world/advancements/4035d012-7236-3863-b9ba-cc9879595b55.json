@@ -335,6 +335,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2021-05-10 01:47:14 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2021-04-23 21:19:44 -0300"
@@ -421,9 +427,11 @@
       "baked_potato": "2021-04-23 21:33:01 -0300",
       "apple": "2021-05-01 01:57:34 -0300",
       "cooked_cod": "2021-04-30 23:05:37 -0300",
+      "pumpkin_pie": "2021-05-09 22:18:56 -0300",
       "bread": "2021-04-23 22:34:12 -0300",
       "beetroot": "2021-04-23 21:01:39 -0300",
       "cooked_chicken": "2021-04-24 00:00:20 -0300",
+      "mushroom_stew": "2021-05-09 22:25:55 -0300",
       "cooked_salmon": "2021-05-03 00:54:29 -0300",
       "carrot": "2021-05-02 03:00:32 -0300"
     },
@@ -432,6 +440,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2021-04-23 20:44:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2021-05-09 22:19:54 -0300"
     },
     "done": true
   },
@@ -522,6 +536,12 @@
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-04-23 21:19:34 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2021-05-10 01:46:48 -0300"
     },
     "done": true
   },
@@ -1003,6 +1023,7 @@
     "criteria": {
       "minecraft:skeleton": "2021-04-23 22:12:53 -0300",
       "minecraft:witch": "2021-05-06 01:00:36 -0300",
+      "minecraft:zombie_pigman": "2021-05-09 22:19:38 -0300",
       "minecraft:husk": "2021-04-25 22:31:44 -0300",
       "minecraft:ghast": "2021-05-05 23:07:39 -0300",
       "minecraft:cave_spider": "2021-05-03 00:35:42 -0300",
@@ -1449,6 +1470,12 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_yellow_flower": "2021-04-24 00:02:07 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2021-05-10 01:46:48 -0300"
     },
     "done": true
   },
@@ -2045,6 +2072,12 @@
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2021-05-05 23:33:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2021-05-09 22:19:54 -0300"
     },
     "done": true
   },
