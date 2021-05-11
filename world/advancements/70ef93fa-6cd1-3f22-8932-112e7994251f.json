@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2021-05-10 21:50:12 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2021-04-24 17:32:52 -0300"
@@ -546,13 +552,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-04-23 21:11:39 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-04-23 21:11:39 -0300"
     },
@@ -1032,13 +1038,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2021-04-24 21:17:25 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2021-04-24 21:17:25 -0300"
     },
@@ -1064,15 +1070,17 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2021-05-10 22:11:23 -0300",
       "minecraft:skeleton": "2021-04-23 20:53:30 -0300",
       "minecraft:phantom": "2021-05-02 01:51:25 -0300",
       "minecraft:husk": "2021-04-23 20:52:53 -0300",
       "minecraft:cave_spider": "2021-05-03 00:28:15 -0300",
       "minecraft:enderman": "2021-04-29 22:58:43 -0300",
+      "minecraft:magma_cube": "2021-05-10 22:02:53 -0300",
       "minecraft:spider": "2021-04-23 21:55:20 -0300",
       "minecraft:zombie": "2021-04-23 21:29:38 -0300",
-      "minecraft:creeper": "2021-04-24 21:13:46 -0300",
       "minecraft:drowned": "2021-05-09 21:05:22 -0300",
+      "minecraft:creeper": "2021-04-24 21:13:46 -0300",
       "minecraft:zombie_villager": "2021-04-23 21:32:26 -0300",
       "minecraft:slime": "2021-05-02 23:27:18 -0300"
     },
@@ -1429,6 +1437,12 @@
   "minecraft:recipes/building_blocks/bricks": {
     "criteria": {
       "has_brick": "2021-05-10 17:19:40 -0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2021-05-10 21:47:10 -0300"
     },
     "done": true
   },
@@ -1946,6 +1960,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2021-05-10 21:50:12 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2021-04-23 21:08:53 -0300"
@@ -2117,6 +2137,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2021-05-01 00:17:36 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2021-05-10 21:50:12 -0300"
     },
     "done": true
   },

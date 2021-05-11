@@ -953,13 +953,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2021-04-22 01:14:50 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2021-04-22 01:14:50 -0300"
     },
@@ -968,6 +968,12 @@
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2021-04-22 01:43:17 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2021-05-11 00:10:44 -0300"
     },
     "done": true
   },
@@ -988,13 +994,13 @@
       "minecraft:husk": "2021-04-21 23:26:24 -0300",
       "minecraft:ghast": "2021-05-08 17:05:28 -0300",
       "minecraft:cave_spider": "2021-04-29 01:21:42 -0300",
-      "minecraft:silverfish": "2021-05-07 23:51:13 -0300",
       "minecraft:enderman": "2021-04-23 22:55:46 -0300",
+      "minecraft:silverfish": "2021-05-07 23:51:13 -0300",
       "minecraft:magma_cube": "2021-05-08 20:06:40 -0300",
       "minecraft:spider": "2021-04-21 23:30:01 -0300",
       "minecraft:zombie": "2021-04-21 22:41:39 -0300",
-      "minecraft:drowned": "2021-05-06 00:02:28 -0300",
       "minecraft:creeper": "2021-04-21 23:33:21 -0300",
+      "minecraft:drowned": "2021-05-06 00:02:28 -0300",
       "minecraft:zombie_villager": "2021-05-02 00:47:51 -0300"
     },
     "done": false
@@ -1518,6 +1524,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2021-04-22 00:25:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2021-05-11 00:10:44 -0300"
     },
     "done": true
   },
