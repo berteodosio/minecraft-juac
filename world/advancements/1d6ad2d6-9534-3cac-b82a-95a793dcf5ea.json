@@ -531,8 +531,8 @@
       "minecraft:husk": "2021-05-02 00:49:49 -0300",
       "minecraft:ghast": "2021-05-10 15:56:25 -0300",
       "minecraft:cave_spider": "2021-05-03 01:12:54 -0300",
-      "minecraft:silverfish": "2021-05-08 00:09:38 -0300",
       "minecraft:enderman": "2021-04-22 01:25:43 -0300",
+      "minecraft:silverfish": "2021-05-08 00:09:38 -0300",
       "minecraft:magma_cube": "2021-05-04 21:25:44 -0300",
       "minecraft:spider": "2021-04-23 00:14:22 -0300",
       "minecraft:zombie": "2021-04-23 00:08:18 -0300",
@@ -2019,6 +2019,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2021-04-22 00:32:36 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_the_recipe": "2021-05-12 20:29:51 -0300"
     },
     "done": true
   },

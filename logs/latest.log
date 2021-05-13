@@ -1,72 +1,410 @@
-[01:54:24] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[01:54:24] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:54:24] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:54:24] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[01:54:24] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:54:24] [main/INFO]: Loaded 0 recipes
-[01:54:24] [main/INFO]: Loaded 0 advancements
-[01:54:24] [Server thread/INFO]: Starting minecraft server version 1.13.1
-[01:54:24] [Server thread/INFO]: Loading properties
-[01:54:24] [Server thread/INFO]: Default game type: SURVIVAL
-[01:54:24] [Server thread/INFO]: Generating keypair
-[01:54:24] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:54:24] [Server thread/INFO]: Using default channel type
-[01:54:24] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:54:24] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:54:24] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:54:24] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:54:24] [Server thread/INFO]: Preparing level "world"
-[01:54:24] [Server thread/INFO]: Reloading ResourceManager: Default
-[01:54:25] [Server thread/INFO]: Loaded 524 recipes
-[01:54:26] [Server thread/INFO]: Loaded 571 advancements
-[01:54:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:54:26] [Server thread/INFO]: Preparing spawn area: 4%
-[01:54:26] [Server thread/INFO]: Preparing spawn area: 8%
-[01:54:26] [Server thread/INFO]: Preparing spawn area: 12%
-[01:54:26] [Server thread/INFO]: Preparing spawn area: 16%
-[01:54:26] [Server thread/INFO]: Preparing spawn area: 20%
-[01:54:27] [Server thread/INFO]: Preparing spawn area: 24%
-[01:54:27] [Server thread/INFO]: Preparing spawn area: 28%
-[01:54:27] [Server thread/INFO]: Preparing spawn area: 32%
-[01:54:27] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 6ad9cd2d-5511-4233-868d-1c1a3af6f188
-[01:54:27] [Server thread/INFO]: Preparing spawn area: 36%
-[01:54:27] [Server thread/INFO]: Preparing spawn area: 40%
-[01:54:27] [Server thread/WARN]: Keeping entity minecraft:horse that already exists with UUID 8e1ad72f-6bda-4830-8628-0e6548036998
-[01:54:27] [Server thread/INFO]: Preparing spawn area: 44%
-[01:54:27] [Server thread/INFO]: Preparing spawn area: 48%
-[01:54:27] [Server thread/INFO]: Preparing spawn area: 52%
-[01:54:27] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID f461a773-891e-497b-a191-24efbe543993
-[01:54:27] [Server thread/INFO]: Preparing spawn area: 56%
-[01:54:27] [Server thread/INFO]: Preparing spawn area: 60%
-[01:54:27] [Server thread/INFO]: Preparing spawn area: 64%
-[01:54:27] [Server thread/INFO]: Preparing spawn area: 68%
-[01:54:27] [Server thread/INFO]: Preparing spawn area: 72%
-[01:54:27] [Server thread/INFO]: Preparing spawn area: 76%
-[01:54:27] [Server thread/INFO]: Preparing spawn area: 80%
-[01:54:27] [Server thread/INFO]: Preparing spawn area: 84%
-[01:54:27] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
-[01:54:27] [Server thread/INFO]: Preparing spawn area: 88%
-[01:54:27] [Server thread/INFO]: Preparing spawn area: 92%
-[01:54:27] [Server thread/INFO]: Preparing spawn area: 96%
-[01:54:27] [Server thread/INFO]: Preparing spawn area: 100%
-[01:54:27] [Server thread/INFO]: Time elapsed: 1553 ms
-[01:54:27] [Server thread/INFO]: Done (3.287s)! For help, type "help"
-[01:56:51] [Server thread/INFO]: theBEaRstring[/127.0.0.1:49798] logged in with entity id 132 at (329.5, 71.0, -322.5)
-[01:56:51] [Server thread/INFO]: theBEaRstring joined the game
-[01:56:51] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 205231a4-0e3c-499c-a329-9656cfbf5b0d
-[01:56:52] [Server thread/WARN]: Keeping entity minecraft:horse that already exists with UUID 9cf209fd-d46b-42f9-94d4-1781d1ea31e4
-[01:57:16] [Server thread/INFO]: theBEaRstring lost connection: Disconnected
-[01:57:16] [Server thread/INFO]: theBEaRstring left the game
-[01:57:31] [Server thread/INFO]: theBEaRstring[/127.0.0.1:49807] logged in with entity id 1805 at (329.5, 71.0, -322.5)
-[01:57:31] [Server thread/INFO]: theBEaRstring joined the game
-[01:57:32] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 205231a4-0e3c-499c-a329-9656cfbf5b0d
-[01:57:32] [Server thread/WARN]: Keeping entity minecraft:horse that already exists with UUID 9cf209fd-d46b-42f9-94d4-1781d1ea31e4
-[01:58:57] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 837e4ad8-3fd8-4ef1-872f-fe5ffe58a092
-[02:02:01] [Server thread/INFO]: theBEaRstring lost connection: Disconnected
-[02:02:01] [Server thread/INFO]: theBEaRstring left the game
-[02:02:09] [Server Shutdown Thread/INFO]: Stopping server
-[02:02:09] [Server Shutdown Thread/INFO]: Saving players
-[02:02:09] [Server Shutdown Thread/INFO]: Saving worlds
-[02:02:09] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[02:02:09] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[02:02:09] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[00:00:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2604ms or 52 ticks behind
+[00:00:47] [Server thread/WARN]: Bea moved too quickly! 0.6973262565646792,0.0,-10.0780817576333
+[00:00:47] [Server thread/WARN]: Tanzitow moved too quickly! 9.702351433637944,1.252203340253729,2.7639559330236807
+[00:01:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2327ms or 46 ticks behind
+[00:02:12] [Server thread/WARN]: Tanzitow moved too quickly! 0.6424400945176103,-0.02442408821369213,10.047428309242832
+[00:02:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5300ms or 106 ticks behind
+[00:02:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6148ms or 122 ticks behind
+[00:03:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[00:04:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3155ms or 63 ticks behind
+[00:12:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9338ms or 186 ticks behind
+[00:14:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2249ms or 44 ticks behind
+[00:16:07] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 41d3ee34-a3e9-4d90-a64d-9201994f1795
+[00:16:43] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID fc96e32e-ef3e-4688-b2c0-c758a9a28e70
+[00:16:43] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 31d37002-9cec-42ac-bb8e-8febb1540321
+[00:17:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[00:17:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3073ms or 61 ticks behind
+[00:17:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5255ms or 105 ticks behind
+[00:18:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7732ms or 154 ticks behind
+[00:18:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5114ms or 102 ticks behind
+[00:18:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3493ms or 69 ticks behind
+[00:19:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4152ms or 83 ticks behind
+[00:19:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6628ms or 132 ticks behind
+[00:19:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7285ms or 145 ticks behind
+[00:20:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10170ms or 203 ticks behind
+[00:20:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8613ms or 172 ticks behind
+[00:20:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6246ms or 124 ticks behind
+[00:21:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7620ms or 152 ticks behind
+[00:21:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5451ms or 109 ticks behind
+[00:21:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4643ms or 92 ticks behind
+[00:22:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7393ms or 147 ticks behind
+[00:22:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6120ms or 122 ticks behind
+[00:23:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5293ms or 105 ticks behind
+[00:23:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11755ms or 235 ticks behind
+[00:23:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12543ms or 250 ticks behind
+[00:24:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7865ms or 157 ticks behind
+[00:24:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11259ms or 225 ticks behind
+[00:25:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7079ms or 141 ticks behind
+[00:25:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6851ms or 137 ticks behind
+[00:25:34] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
+[00:25:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9080ms or 181 ticks behind
+[00:26:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10275ms or 205 ticks behind
+[00:26:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5572ms or 111 ticks behind
+[00:27:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10700ms or 214 ticks behind
+[00:27:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8527ms or 170 ticks behind
+[00:27:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8993ms or 179 ticks behind
+[00:28:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14254ms or 285 ticks behind
+[00:28:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8965ms or 179 ticks behind
+[00:29:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9724ms or 194 ticks behind
+[00:29:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11572ms or 231 ticks behind
+[00:30:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10502ms or 210 ticks behind
+[00:30:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11115ms or 222 ticks behind
+[00:30:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11580ms or 231 ticks behind
+[00:31:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11595ms or 231 ticks behind
+[00:31:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9655ms or 193 ticks behind
+[00:32:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11819ms or 236 ticks behind
+[00:32:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11392ms or 227 ticks behind
+[00:33:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11525ms or 230 ticks behind
+[00:33:16] [Server thread/INFO]: <AninhaRibeiro> 300-300
+[00:33:38] [Server thread/WARN]: bluekoya moved too quickly! 3.187702910508335,0.0,-9.597904007214225
+[00:33:50] [Server thread/WARN]: bluekoya moved too quickly! -2.1130229688853888,0.9868319865636792,-9.919018623436486
+[00:33:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 33610ms or 672 ticks behind
+[00:34:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16410ms or 328 ticks behind
+[00:34:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12371ms or 247 ticks behind
+[00:34:58] [Server thread/INFO]: AninhaRibeiro lost connection: Disconnected
+[00:34:58] [Server thread/INFO]: AninhaRibeiro left the game
+[00:35:09] [Server thread/INFO]: AninhaRibeiro[/25.99.213.155:58460] logged in with entity id 621452 at (772.3000000119209, 70.0, -673.5494906735194)
+[00:35:09] [Server thread/INFO]: AninhaRibeiro joined the game
+[00:35:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21880ms or 437 ticks behind
+[00:35:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8417ms or 168 ticks behind
+[00:36:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5576ms or 111 ticks behind
+[00:36:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8322ms or 166 ticks behind
+[00:37:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6894ms or 137 ticks behind
+[00:37:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5251ms or 105 ticks behind
+[00:37:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7743ms or 154 ticks behind
+[00:38:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6655ms or 133 ticks behind
+[00:38:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4408ms or 88 ticks behind
+[00:38:31] [Server thread/INFO]: <AninhaRibeiro> 300-300
+[00:38:44] [Server thread/WARN]: Tanzitow moved too quickly! 0.2834743741568104,-0.3693736602695097,10.18466989034357
+[00:38:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8156ms or 163 ticks behind
+[00:39:01] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
+[00:39:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8132ms or 162 ticks behind
+[00:39:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6054ms or 121 ticks behind
+[00:39:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5704ms or 114 ticks behind
+[00:40:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3979ms or 79 ticks behind
+[00:40:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5520ms or 110 ticks behind
+[00:40:37] [Server thread/INFO]: AninhaRibeiro lost connection: Disconnected
+[00:40:37] [Server thread/INFO]: AninhaRibeiro left the game
+[00:40:47] [Server thread/INFO]: AninhaRibeiro[/25.99.213.155:58892] logged in with entity id 630849 at (773.9456304760091, 70.0, -675.4978958006021)
+[00:40:47] [Server thread/INFO]: AninhaRibeiro joined the game
+[00:40:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5494ms or 109 ticks behind
+[00:40:57] [Server thread/INFO]: AninhaRibeiro lost connection: Disconnected
+[00:40:57] [Server thread/INFO]: AninhaRibeiro left the game
+[00:41:07] [Server thread/INFO]: AninhaRibeiro[/25.99.213.155:58898] logged in with entity id 631732 at (773.9456304760091, 70.0, -675.4978958006021)
+[00:41:07] [Server thread/INFO]: AninhaRibeiro joined the game
+[00:41:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5351ms or 107 ticks behind
+[00:41:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5516ms or 110 ticks behind
+[00:41:55] [Server thread/INFO]: AninhaRibeiro was slain by Husk
+[00:41:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9025ms or 180 ticks behind
+[00:42:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6305ms or 126 ticks behind
+[00:42:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2083ms or 41 ticks behind
+[00:42:53] [Server thread/WARN]: Bea moved too quickly! -1.261763910117395,-7.871554777320384,-6.510525841124206
+[00:42:59] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
+[00:43:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8881ms or 177 ticks behind
+[00:43:12] [Server thread/INFO]: bluekoya lost connection: Disconnected
+[00:43:12] [Server thread/INFO]: bluekoya left the game
+[00:43:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2690ms or 53 ticks behind
+[00:43:24] [Server thread/INFO]: Bea lost connection: Timed out
+[00:43:24] [Server thread/INFO]: Bea left the game
+[00:43:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[00:43:59] [Server thread/INFO]: Bea[/25.109.233.81:58559] logged in with entity id 639579 at (405.6752459849973, 67.76636799395752, -502.97486064323647)
+[00:43:59] [Server thread/INFO]: Bea joined the game
+[00:44:11] [Server thread/WARN]: Tanzitow moved too quickly! 7.295554098507864,-1.252203340253729,6.975364037392524
+[00:44:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16240ms or 324 ticks behind
+[00:44:19] [Server thread/WARN]: Tanzitow moved too quickly! 10.05775398809135,0.7967356006687041,1.0260122991851972
+[00:44:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12271ms or 245 ticks behind
+[00:45:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5660ms or 113 ticks behind
+[00:45:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8649ms or 172 ticks behind
+[00:46:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[00:47:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2075ms or 41 ticks behind
+[00:47:33] [Server thread/WARN]: Tanzitow moved too quickly! -0.29128179949492505,-0.756759288177264,10.095581129154198
+[00:47:33] [Server thread/WARN]: Bea moved too quickly! -5.177692078441055,0.0,-8.566385462347569
+[00:50:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2158ms or 43 ticks behind
+[00:51:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[00:51:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2841ms or 56 ticks behind
+[00:51:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6126ms or 122 ticks behind
+[00:52:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5741ms or 114 ticks behind
+[00:52:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3847ms or 76 ticks behind
+[00:52:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7906ms or 158 ticks behind
+[00:53:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2092ms or 41 ticks behind
+[00:53:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[00:54:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2285ms or 45 ticks behind
+[00:55:26] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
+[00:55:56] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
+[00:56:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[00:57:11] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
+[00:57:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
+[00:57:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9050ms or 181 ticks behind
+[00:58:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5874ms or 117 ticks behind
+[00:58:17] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! 1.495241321647086,0.07683200149536162,-10.084878062391851
+[00:58:17] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! 1.3667617916804602,0.07683200149536162,-10.602286725476745
+[00:58:17] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! 1.1783132062242885,0.07683200149536162,-11.099014781288702
+[00:58:17] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! 0.9332881567009963,0.07683200149536162,-11.569454715653535
+[00:58:17] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! 0.6418833253200091,0.07683200149536162,-12.013473296271798
+[00:58:17] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! 0.3120015688032254,0.07683200149536162,-12.43109117336104
+[00:58:17] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -0.04585635932187415,0.07683200149536162,-12.827138476674463
+[00:58:17] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -0.41868377908997445,0.07683200149536162,-13.211643796031353
+[00:58:17] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -0.7995210753766742,0.07683200149536162,-13.589973229895406
+[00:58:17] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -1.189532607917272,0.07683200149536162,-13.959711540905857
+[00:58:17] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! 0.7440859565591609,0.07683200149536162,-10.249554323094003
+[00:58:17] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! 0.32441257316725114,0.07683200149536162,-10.586130404166909
+[00:58:17] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -0.09813819449777839,0.07683200149536162,-10.919430815180306
+[00:58:17] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -0.5210180525854184,0.07683200149536162,-11.25253025757911
+[00:58:17] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -0.9386938616420366,0.07683200149536162,-11.592128759407217
+[00:58:31] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -9.876043089408995,-1.4888989858694543,2.366527863491001
+[00:58:31] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -10.387387191846415,-1.4888989858694543,2.532641163209746
+[00:58:31] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -10.88794883998139,-1.4888989858694543,2.7271925200307123
+[00:58:31] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -11.379013858854478,-1.4888989858694543,2.9446221697585315
+[00:58:31] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -11.862884838425998,-1.4888989858694543,3.1783619721154537
+[00:58:31] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -12.34290643100087,-1.4888989858694543,3.4208290119547655
+[00:58:31] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -12.8208682933423,-1.4888989858694543,3.6679658225687035
+[00:58:31] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -13.297728035102523,-1.4888989858694543,3.917601334418805
+[00:58:31] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -13.773998054113576,-1.4888989858694543,4.168573851481597
+[00:58:31] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -14.249952524239347,-1.4888989858694543,4.420261773376751
+[00:58:31] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -14.725738150448024,-1.4888989858694543,4.672332494134025
+[00:58:31] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -15.201433431642954,-1.4888989858694543,4.924608042930458
+[00:58:31] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -15.677080371022384,-1.4888989858694543,5.176993191126485
+[00:58:31] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -16.15114044271695,-1.4888989858694543,5.432331012797704
+[00:58:31] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -9.835309148302372,-1.4888989858694543,2.4718202702297276
+[00:58:31] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -10.318113065444436,-1.4888989858694543,2.7099195673368968
+[00:58:31] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -9.840834906879422,-1.4888989858694543,2.460819792799498
+[00:58:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14095ms or 281 ticks behind
+[00:58:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2748ms or 54 ticks behind
+[00:59:24] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -5.118178820252751,2.4231679985046384,8.715723956376848
+[00:59:24] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -5.289143335057815,2.272546541336993,8.969894047838977
+[00:59:24] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -5.458291408904074,2.0510576895623984,9.215229498042504
+[00:59:24] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -5.6269125640664015,1.7615077906826428,9.451648600524436
+[00:59:24] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -5.795474608344648,1.406592060890901,9.679692020556843
+[00:59:24] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -5.963983937534863,0.9888989858694543,9.900266006765492
+[00:59:24] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -6.132446255408354,0.5109145473159629,10.114178751698148
+[00:59:24] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -6.301178634200255,-0.024973717900664383,10.321815120003066
+[00:59:24] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -6.471050192180428,-0.6164728193269013,10.522813095551896
+[00:59:24] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -6.642662417966903,-1.2613805688883275,10.716958778466733
+[00:59:24] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -6.817037070434026,-1.9575819851171161,10.903202128988937
+[00:59:24] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -6.994275533803261,-2.5,11.081723111043345
+[00:59:24] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.3693257509589785,-2.5,11.365781798024784
+[00:59:24] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.780166618396606,-2.5,11.65381214022085
+[00:59:24] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.999999375279344,-2.5,11.807931433624503
+[00:59:24] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -8.117627500494905,-2.5,11.89039759471757
+[00:59:24] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -8.180567965045952,-2.5,11.934523593320591
+[00:59:24] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -8.214246152729743,-2.5,11.958134535395573
+[00:59:24] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -8.232266679488703,-2.5,11.970768279748484
+[00:59:24] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -8.241909104066849,-2.5,11.97752834446203
+[00:59:24] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -8.24706857320939,-2.5,11.981145520309099
+[00:59:24] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -8.24706857320939,-2.5,11.981145520309099
+[00:59:24] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -8.24706857320939,-2.5,11.981145520309099
+[00:59:24] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -8.24706857320939,-2.5,11.981145520309099
+[00:59:24] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -8.24706857320939,-2.5,11.981145520309099
+[00:59:24] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -8.24706857320939,-2.5,11.981145520309099
+[00:59:24] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -8.24706857320939,-2.5,11.981145520309099
+[00:59:24] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -8.24706857320939,-2.5,11.981145520309099
+[00:59:24] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -8.24706857320939,-2.5,11.981145520309099
+[00:59:24] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -8.24706857320939,-2.5,11.981145520309099
+[00:59:24] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -8.24706857320939,-2.5,11.981145520309099
+[00:59:24] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -8.24706857320939,-2.5,11.981145520309099
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -8.24706857320939,-2.5,11.981145520309099
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -8.24706857320939,-2.5,11.981145520309099
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -8.24706857320939,-2.5,11.981145520309099
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -8.24706857320939,-2.5,11.981145520309099
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -8.24706857320939,-2.5,11.981145520309099
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -8.24706857320939,-2.5,11.981145520309099
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -8.24706857320939,-2.5,11.981145520309099
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -8.24706857320939,-2.5,11.981145520309099
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -8.24706857320939,-2.5,11.981145520309099
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -8.24706857320939,-2.5,11.981145520309099
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -8.33821940836583,-2.5,12.06693413535703
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -8.478143238062898,-2.5,12.198626527876627
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -8.64416452471005,-2.5,12.354881116498746
+[00:59:25] [Server thread/WARN]: Tanzitow moved too quickly! 8.996437525809824,-0.22860926093821377,-4.623315043986679
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -8.824150040244035,-2.5,12.524278446538005
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -8.92045670108223,-2.5,12.614919580423589
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -8.971988475149033,-2.5,12.663419843976556
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -8.999562100019489,-2.5,12.689371368012814
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -9.014316196928917,-2.5,12.70325751110704
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -9.022210820020177,-2.5,12.710687709416959
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -9.026435075434506,-2.5,12.714663460390398
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -9.026435075434506,-2.5,12.714663460390398
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -9.026435075434506,-2.5,12.714663460390398
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -9.026435075434506,-2.5,12.714663460390398
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -9.026435075434506,-2.5,12.714663460390398
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -9.026435075434506,-2.5,12.714663460390398
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -9.026435075434506,-2.5,12.714663460390398
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -9.026435075434506,-2.5,12.714663460390398
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -9.026435075434506,-2.5,12.714663460390398
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -9.026435075434506,-2.5,12.714663460390398
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -9.026435075434506,-2.5,12.714663460390398
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -9.026435075434506,-2.5,12.714663460390398
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -9.026435075434506,-2.5,12.714663460390398
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -9.026435075434506,-2.5,12.714663460390398
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -9.026435075434506,-2.5,12.714663460390398
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -9.026435075434506,-2.5,12.714663460390398
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -9.026435075434506,-2.5,12.714663460390398
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -9.026435075434506,-2.5,12.714663460390398
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -9.026435075434506,-2.5,12.714663460390398
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -9.026435075434506,-2.5,12.714663460390398
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -9.026435075434506,-2.5,12.714663460390398
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -9.026435075434506,-2.5,12.714663460390398
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -9.026435075434506,-2.5,12.714663460390398
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -9.026435075434506,-2.5,12.714663460390398
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -9.026435075434506,-2.5,12.714663460390398
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -9.026435075434506,-2.5,12.714663460390398
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -9.026435075434506,-2.5,12.714663460390398
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -9.026435075434506,-2.5,12.714663460390398
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -8.925667269262135,-2.5,12.788919843272993
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -8.770980619100214,-2.5,12.902909336123514
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -8.587443070545305,-2.5,13.038159223925106
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -8.388467981485178,-2.5,13.184785125178507
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -8.181232572291947,-2.5,13.337498104416682
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.969577230488653,-2.5,13.493468157721281
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.8563246770419255,-2.5,13.576924623537195
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.795725493704936,-2.5,13.621580514452887
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.763300078918633,-2.5,13.645474991339483
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.745949885959476,-2.5,13.658260449517002
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.736666143632533,-2.5,13.665101693273243
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.731698598211324,-2.5,13.66876230640753
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.731698598211324,-2.5,13.66876230640753
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.731698598211324,-2.5,13.66876230640753
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.731698598211324,-2.5,13.66876230640753
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.731698598211324,-2.5,13.66876230640753
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.731698598211324,-2.5,13.66876230640753
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.731698598211324,-2.5,13.66876230640753
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.731698598211324,-2.5,13.66876230640753
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.731698598211324,-2.5,13.66876230640753
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.731698598211324,-2.5,13.66876230640753
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.731698598211324,-2.5,13.66876230640753
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.731698598211324,-2.5,13.66876230640753
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.731698598211324,-2.5,13.66876230640753
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.731698598211324,-2.5,13.66876230640753
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.731698598211324,-2.5,13.66876230640753
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.731698598211324,-2.5,13.66876230640753
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.731698598211324,-2.5,13.66876230640753
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.731698598211324,-2.5,13.66876230640753
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.731698598211324,-2.5,13.66876230640753
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.731698598211324,-2.5,13.66876230640753
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.731698598211324,-2.5,13.66876230640753
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.731698598211324,-2.5,13.66876230640753
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.731698598211324,-2.5,13.66876230640753
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.731698598211324,-2.5,13.66876230640753
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.731698598211324,-2.5,13.66876230640753
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.731698598211324,-2.5,13.66876230640753
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.731698598211324,-2.5,13.66876230640753
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.731698598211324,-2.5,13.66876230640753
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.731698598211324,-2.5,13.66876230640753
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.731698598211324,-2.5,13.66876230640753
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.731698598211324,-2.5,13.66876230640753
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.731698598211324,-2.5,13.66876230640753
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.731698598211324,-2.5,13.66876230640753
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.731698598211324,-2.5,13.66876230640753
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.731698598211324,-2.5,13.66876230640753
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.731698598211324,-2.5,13.66876230640753
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.731698598211324,-2.5,13.66876230640753
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.731698598211324,-2.5,13.66876230640753
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.731698598211324,-2.5,13.66876230640753
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.731698598211324,-2.5,13.66876230640753
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.731698598211324,-2.5,13.66876230640753
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.731698598211324,-2.5,13.66876230640753
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.731698598211324,-2.5,13.66876230640753
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.731698598211324,-2.5,13.66876230640753
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.731698598211324,-2.5,13.66876230640753
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.731698598211324,-2.5,13.66876230640753
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.731698598211324,-2.5,13.66876230640753
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.731698598211324,-2.5,13.66876230640753
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.731698598211324,-2.5,13.66876230640753
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.731698598211324,-2.5,13.66876230640753
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.731698598211324,-2.5,13.66876230640753
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.731698598211324,-2.5,13.66876230640753
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.731698598211324,-2.5,13.66876230640753
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.731698598211324,-2.5,13.66876230640753
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.731698598211324,-2.5,13.66876230640753
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.731698598211324,-2.5,13.66876230640753
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.482428650801694,-2.5,13.645586059153516
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.099779324439737,-2.5,13.610008664078407
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -6.645761351698297,-2.5,13.567795662056426
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -6.153555439216575,-2.5,13.522032079056942
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -5.640915921565124,-1.5,13.474368650967278
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -5.117342789189479,-1.5,13.425688653648706
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -4.587919297567737,-1.5,13.37646471040398
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -4.055365395356944,-1.5,13.32694971253926
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -3.521136472853641,-1.5,13.277278977150388
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -2.986011280388084,-1.5,13.227524909717431
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -2.450406511735423,-1.5,13.177726252969137
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -1.9145451314268485,-1.5,13.127903737367205
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -1.3785464433374273,-1.5,13.078068455368395
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -0.8424742845920719,-1.5,13.028226342325127
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -0.3063628131635596,-1.5,12.97838057412622
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -0.019500253711726145,-1.5,12.951709097380387
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! 0.13399418242852335,-1.5,12.937437721945571
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! 0.21612599485831652,-1.5,12.929801393490948
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! 0.260073090157789,-1.5,12.925715346386824
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! 0.2835883046419667,-1.5,12.925715346386824
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! 0.296170827069659,-1.5,12.925715346386824
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! 0.30290348395226374,-1.5,12.925715346386824
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! 0.3065059944154882,-1.5,12.925715346386824
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! 0.3065059944154882,-1.5,12.925715346386824
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! 0.3065059944154882,-1.5,12.925715346386824
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! 0.3065059944154882,-1.5,12.925715346386824
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! 0.3065059944154882,-1.5,12.925715346386824
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! 0.3065059944154882,-1.5,12.925715346386824
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! 0.3065059944154882,-1.5,12.925715346386824
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! 0.3065059944154882,-1.5,12.925715346386824
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! 0.3065059944154882,-1.5,12.925715346386824
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! 0.3065059944154882,-1.5,12.925715346386824
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! 0.3065059944154882,-1.5,12.925715346386824
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! 0.3065059944154882,-1.5,12.925715346386824
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! 0.3065059944154882,-1.5,12.925715346386824
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! 0.3065059944154882,-1.5,12.925715346386824
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! 0.3065059944154882,-1.5,12.925715346386824
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! 0.3065059944154882,-1.5,12.925715346386824
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! 0.3065059944154882,-1.5,12.925715346386824
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! 0.3065059944154882,-1.5,12.925715346386824
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! 0.3065059944154882,-1.5,12.925715346386824
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! 0.3065059944154882,-1.5,12.925715346386824
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! 0.3310918728919887,-1.5,12.676580492904577
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! 0.39921528200829925,-1.5,12.299037526796951
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! 0.5245093829279313,-1.5,11.862971315614743
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! 0.6816273032480922,-0.5625,11.396062208880664
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! 0.8557735148309575,-0.5625,10.912649683677785
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! 1.0390312255610752,-0.5625,10.420406508294889
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! 1.2271643178211207,-0.5625,9.923438228064867
+[00:59:25] [Server thread/WARN]: Álvaro moved wrongly!
+[00:59:25] [Server thread/WARN]: Álvaro moved wrongly!
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -0.4548351587588968,0.4231679985046384,10.33396541326755
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -0.5265775960648398,0.2725465413369932,10.605070350025528
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -0.5905575034981894,0.05105768956239842,10.846841739594083
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -0.6476147865917028,-0.23849220931735715,11.062453471025208
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -0.6984984731209352,-0.593407939109099,11.25473601865707
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -0.7438765460755121,-1.0111010141305457,11.426213599577125
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -4.859095396103498,2.4231679985046384,8.399631585723682
+[00:59:25] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -4.885400722343775,2.0,8.49903584454944
+[00:59:25] [Server thread/WARN]: Tanzitow moved too quickly! 8.860175199766445,-0.22860926093821377,-4.719230945329343
+[00:59:26] [Server thread/WARN]: Tanzitow moved too quickly! 8.860175199766445,-0.22860926093821377,-4.719230945329343
+[00:59:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21115ms or 422 ticks behind
+[00:59:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6310ms or 126 ticks behind
+[01:00:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4020ms or 80 ticks behind
+[01:00:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5196ms or 103 ticks behind
+[01:00:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3976ms or 79 ticks behind
+[01:01:25] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 205231a4-0e3c-499c-a329-9656cfbf5b0d
+[01:01:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2550ms or 51 ticks behind
+[01:01:31] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -6.445647887587143,-1.0,8.044443442236116
+[01:01:31] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -6.722432324092949,-1.0,8.494220353580715
+[01:01:31] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -6.931898387349406,-1.0,8.977594815102464
+[01:01:31] [Server thread/WARN]: Álvaro (vehicle of Bea) moved too quickly! -7.096415689358537,-1.0,9.481030776969192
+[01:01:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3263ms or 65 ticks behind
+[01:03:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2056ms or 41 ticks behind
+[01:04:01] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 837e4ad8-3fd8-4ef1-872f-fe5ffe58a092
+[01:06:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2093ms or 41 ticks behind
+[01:15:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[01:15:27] [Server thread/WARN]: Fetching addPacket for removed entity
+[01:18:36] [Server thread/INFO]: Tanzitow lost connection: Disconnected
+[01:18:36] [Server thread/INFO]: Tanzitow left the game
+[01:19:15] [Server thread/INFO]: Bea lost connection: Disconnected
+[01:19:15] [Server thread/INFO]: Bea left the game
+[01:20:08] [Server thread/INFO]: AninhaRibeiro lost connection: Disconnected
+[01:20:08] [Server thread/INFO]: AninhaRibeiro left the game
+[01:20:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4318ms or 86 ticks behind
+[01:20:43] [Server Shutdown Thread/INFO]: Stopping server
+[01:20:43] [Server Shutdown Thread/INFO]: Saving players
+[01:20:43] [Server Shutdown Thread/INFO]: Saving worlds
+[01:20:43] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[01:20:43] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[01:20:43] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
