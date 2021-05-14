@@ -1,341 +1,72 @@
-[01:22:53] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[01:22:53] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:22:53] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:22:53] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[01:22:53] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:22:53] [main/INFO]: Loaded 0 recipes
-[01:22:53] [main/INFO]: Loaded 0 advancements
-[01:22:53] [Server thread/INFO]: Starting minecraft server version 1.13.1
-[01:22:53] [Server thread/INFO]: Loading properties
-[01:22:53] [Server thread/INFO]: Default game type: SURVIVAL
-[01:22:53] [Server thread/INFO]: Generating keypair
-[01:22:53] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:22:53] [Server thread/INFO]: Using default channel type
-[01:22:56] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:22:56] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:22:56] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:22:56] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:22:56] [Server thread/INFO]: Preparing level "world"
-[01:22:56] [Server thread/INFO]: Reloading ResourceManager: Default
-[01:22:59] [Server thread/INFO]: Loaded 524 recipes
-[01:23:00] [Server thread/INFO]: Loaded 571 advancements
-[01:23:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:23:01] [Server thread/INFO]: Preparing spawn area: 4%
-[01:23:01] [Server thread/INFO]: Preparing spawn area: 8%
-[01:23:02] [Server thread/INFO]: Preparing spawn area: 12%
-[01:23:02] [Server thread/INFO]: Preparing spawn area: 16%
-[01:23:02] [Server thread/INFO]: Preparing spawn area: 20%
-[01:23:02] [Server thread/INFO]: Preparing spawn area: 24%
-[01:23:02] [Server thread/INFO]: Preparing spawn area: 28%
-[01:23:02] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 6ad9cd2d-5511-4233-868d-1c1a3af6f188
-[01:23:02] [Server thread/INFO]: Preparing spawn area: 32%
-[01:23:02] [Server thread/INFO]: Preparing spawn area: 36%
-[01:23:02] [Server thread/INFO]: Preparing spawn area: 40%
-[01:23:03] [Server thread/WARN]: Keeping entity minecraft:horse that already exists with UUID 8e1ad72f-6bda-4830-8628-0e6548036998
-[01:23:03] [Server thread/INFO]: Preparing spawn area: 44%
-[01:23:03] [Server thread/INFO]: Preparing spawn area: 48%
-[01:23:03] [Server thread/INFO]: Preparing spawn area: 52%
-[01:23:03] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID f461a773-891e-497b-a191-24efbe543993
-[01:23:03] [Server thread/INFO]: Preparing spawn area: 56%
-[01:23:03] [Server thread/INFO]: Preparing spawn area: 60%
-[01:23:03] [Server thread/INFO]: Preparing spawn area: 64%
-[01:23:03] [Server thread/INFO]: Preparing spawn area: 68%
-[01:23:03] [Server thread/INFO]: Preparing spawn area: 72%
-[01:23:03] [Server thread/INFO]: Preparing spawn area: 76%
-[01:23:03] [Server thread/INFO]: Preparing spawn area: 80%
-[01:23:03] [Server thread/INFO]: Preparing spawn area: 84%
-[01:23:03] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
-[01:23:03] [Server thread/INFO]: Preparing spawn area: 88%
-[01:23:03] [Server thread/INFO]: Preparing spawn area: 92%
-[01:23:03] [Server thread/INFO]: Preparing spawn area: 96%
-[01:23:04] [Server thread/INFO]: Preparing spawn area: 100%
-[01:23:04] [Server thread/INFO]: Time elapsed: 2705 ms
-[01:23:04] [Server thread/INFO]: Done (7.454s)! For help, type "help"
-[01:23:15] [Server thread/INFO]: Bea[/25.109.233.81:49960] logged in with entity id 161 at (209.01307986676014, 63.85000001788139, -192.76954284975017)
-[01:23:15] [Server thread/INFO]: Bea joined the game
-[01:23:18] [Server thread/INFO]: Tanzitow[/25.3.5.199:54153] logged in with entity id 360 at (-76.9419577393995, 62.073264324665075, -1650.7059590984686)
-[01:23:18] [Server thread/INFO]: Tanzitow joined the game
-[01:23:21] [Server thread/WARN]: Keeping entity minecraft:boat that already exists with UUID 5001eb43-63b9-4cc6-b4af-a557c5868a51
-[01:23:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5997ms or 119 ticks behind
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -2.1737322876697363,0.0,-9.874767399678404
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -2.2760538909217587,0.0,-10.257478594103105
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -2.376817566784865,0.0,-10.640649168748979
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -2.4767476267639097,0.0,-11.024065548592148
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -2.5762316355038877,0.0,-11.407613453895578
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -2.6754769711191386,0.0,-11.791231735850431
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -2.7745945975039774,0.0,-12.174887674948337
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -2.873643889225889,0.0,-12.558563763632662
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -2.97265661643209,0.0,-12.942250633958963
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -3.0716497786949617,0.0,-13.325943273326914
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -3.1706324721467354,0.0,-13.709638999594006
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -3.2696095639464318,0.0,-14.093336377599314
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -3.368583658413769,0.0,-14.477034639416786
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -3.4675561490683435,0.0,-14.86073337414453
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -3.5665277815546688,0.0,-15.244432361917148
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -3.665498954852268,0.0,-15.628131485089028
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -3.7644698824471448,0.0,-16.011830680710347
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -3.8634406785713793,0.0,-16.39552991509791
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -3.962411404348302,0.0,-16.77922917022852
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -4.061382092483797,0.0,-17.162928436458316
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -4.160352760478105,0.0,-17.546627708627085
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -4.259323417695271,0.0,-17.930326983973657
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -4.358294069145785,0.0,-18.314026261020615
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -4.4572647175106965,0.0,-18.697725538977437
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -4.5562353642245625,0.0,-19.081424817421095
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -4.662180837553166,0.0,-19.463178049176804
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -4.790446802917501,0.0,-19.837201738058383
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -4.94885358481838,0.0,-20.198208902325263
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -5.12923353676743,0.0,-20.548846998616426
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -5.321370893911535,0.0,-20.893936813370686
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -5.519799404158135,0.0,-21.236057853295335
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -5.7215941849978265,0.0,-21.57659036099966
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -5.925190190115671,0.0,-21.916272876784802
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -6.129749994432217,0.0,-22.25550057884101
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -6.334825508483931,0.0,-22.594484919138864
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -6.540176968532762,0.0,-22.933339041411926
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -6.745676081782904,0.0,-23.27212348661621
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -6.95125420131717,0.0,-23.610870649010167
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -7.156874595538852,0.0,-23.949597862115695
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -7.362517610102913,0.0,-24.2883144007547
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -7.567341042400869,0.0,-24.627527247820126
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -7.7713166870779276,0.0,-24.9672505006088
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -7.973164909669833,0.0,-25.30823336289808
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -8.173874791120198,0.0,-25.649890217117246
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -8.373975568921793,0.0,-25.991907710980144
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -8.57375042750516,0.0,-26.334118175926022
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -8.773350893212978,0.0,-26.676431895850982
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -8.972858044770106,0.0,-27.01880086545657
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -9.172315265785699,0.0,-27.361199398064684
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -9.371745769964008,0.0,-27.703613749246045
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -9.571161978495354,0.0,-28.046036564630555
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -9.770570537711052,0.0,-28.388463909041405
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -9.969975003930443,0.0,-28.730893676843948
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -10.169377280069114,0.0,-29.073324741355066
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -10.368778384339265,0.0,-29.41575649970912
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -10.56817886156594,0.0,-29.75818862932468
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -10.767579003274165,0.0,-30.100620957594856
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -10.966978965453137,0.0,-30.443053392161175
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -11.166378831569602,0.0,-30.785485883604423
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -11.365778646284923,0.0,-31.12791840548138
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -11.565178433496499,0.0,-31.470350943642813
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -11.764578205991398,0.0,-31.812783490517745
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -11.963977970611694,0.0,-32.155216042055116
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -12.163377731018443,0.0,-32.49764859608723
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -12.362777489170611,0.0,-32.84008115145426
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -12.562177246116391,0.0,-33.18251370753555
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -12.761577002416658,0.0,-33.524946263999055
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -2.267898862275956,0.0,-9.835347288063275
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -2.26789886209113,0.0,-9.835347288172699
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -2.2678988619922507,0.0,-9.835347288231247
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -2.2678988619393294,0.0,-9.835347288262597
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -2.2678988619110214,0.0,-9.835347288279365
-[01:23:28] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -2.2678988618958726,0.0,-9.835347288288318
-[01:23:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19697ms or 393 ticks behind
-[01:24:03] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 837e4ad8-3fd8-4ef1-872f-fe5ffe58a092
-[01:24:16] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -2.710120121599317,0.0,-9.933941247632333
-[01:24:16] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -2.829025910568049,0.0,-10.311938074625743
-[01:24:16] [Server thread/WARN]: Horse (vehicle of Bea) moved too quickly! -2.9479343302012353,0.0,-10.689934155398134
-[01:24:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
-[01:25:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[01:25:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
-[01:25:41] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 2f355904-5b21-4780-81af-3f982bf0c1ac
-[01:25:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
-[01:26:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3095ms or 61 ticks behind
-[01:26:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2316ms or 46 ticks behind
-[01:28:00] [Server thread/INFO]: bluekoya[/25.11.127.139:57494] logged in with entity id 20631 at (-145.56151139345678, 62.073264324665075, -1478.910842882056)
-[01:28:00] [Server thread/INFO]: bluekoya joined the game
-[01:28:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[01:28:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6178ms or 123 ticks behind
-[01:28:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2520ms or 50 ticks behind
-[01:29:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14927ms or 298 ticks behind
-[01:29:29] [Server thread/WARN]: Boat (vehicle of Tanzitow) moved too quickly! -3.2652538939109945,0.0,-9.66276633890061
-[01:29:29] [Server thread/WARN]: Boat (vehicle of Tanzitow) moved too quickly! -3.463703742885855,0.0,-10.004289896232876
-[01:29:29] [Server thread/WARN]: Boat (vehicle of Tanzitow) moved too quickly! -3.667708041268611,0.0,-10.342562035576293
-[01:29:29] [Server thread/WARN]: Boat (vehicle of Tanzitow) moved too quickly! -3.8770064316812523,0.0,-10.677662968420691
-[01:29:29] [Server thread/WARN]: Boat (vehicle of Tanzitow) moved too quickly! -4.091333065357844,0.0,-11.009686968626056
-[01:29:29] [Server thread/WARN]: Boat (vehicle of Tanzitow) moved too quickly! -4.310417771544508,0.0,-11.338741739182524
-[01:29:29] [Server thread/WARN]: Boat (vehicle of Tanzitow) moved too quickly! -4.533995694890564,0.0,-11.66494016074671
-[01:29:29] [Server thread/WARN]: Boat (vehicle of Tanzitow) moved too quickly! -4.761278789689754,0.0,-11.988862125240985
-[01:29:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13976ms or 279 ticks behind
-[01:29:49] [Server thread/INFO]: <bluekoya> -147.451/62/-1480
-[01:29:54] [Server thread/INFO]: <Bea> 427 / 1560
-[01:30:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4669ms or 93 ticks behind
-[01:30:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2076ms or 41 ticks behind
-[01:30:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7373ms or 147 ticks behind
-[01:31:00] [Server thread/INFO]: bluekoya lost connection: Disconnected
-[01:31:00] [Server thread/INFO]: bluekoya left the game
-[01:31:02] [Server thread/INFO]: Bea lost connection: Disconnected
-[01:31:02] [Server thread/INFO]: Bea left the game
-[01:31:15] [Server thread/INFO]: bluekoya[/25.11.127.139:57541] logged in with entity id 27929 at (-124.6494385915178, 62.073264324665075, -1462.9381250339104)
-[01:31:15] [Server thread/INFO]: bluekoya joined the game
-[01:31:18] [Server thread/INFO]: Bea[/25.109.233.81:49969] logged in with entity id 28225 at (280.8735510214122, 63.0, -1470.0333296306385)
-[01:31:18] [Server thread/INFO]: Bea joined the game
-[01:31:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2092ms or 41 ticks behind
-[01:31:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4126ms or 82 ticks behind
-[01:32:58] [Server thread/INFO]: <bluekoya> -157.892/62/-1485
-[01:33:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3202ms or 64 ticks behind
-[01:34:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2997ms or 59 ticks behind
-[01:35:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
-[01:41:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2113ms or 42 ticks behind
-[01:41:26] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 0.5882534058429201,0.0,-10.381978050465477
-[01:41:26] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 0.6102278707573419,0.0,-10.781364318067972
-[01:41:26] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 0.6321858940877405,0.0,-11.180752444432073
-[01:41:26] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 0.6541291199928878,0.0,-11.580142243681621
-[01:41:26] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 0.6760590282157182,0.0,-11.979533548528025
-[01:41:26] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 0.6979769505247191,0.0,-12.378926208411485
-[01:41:26] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 0.7198840855116373,0.0,-12.778320087828433
-[01:41:26] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 0.7417815119088687,0.0,-13.177715064825406
-[01:41:26] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 0.763670200575632,0.0,-13.577111029644357
-[01:41:26] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 0.7855510252852014,0.0,-13.976507883503018
-[01:41:26] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 0.8074247724334782,0.0,-14.375905537497374
-[01:41:26] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 0.8292921497767338,0.0,-14.775303911613946
-[01:41:26] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 0.8511537942956693,0.0,-15.174702933840535
-[01:41:26] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 0.8730102792728189,0.0,-15.574102539366095
-[01:41:26] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 0.8948621206624807,0.0,-15.973502669860636
-[01:41:33] [Server thread/WARN]: Bea moved too quickly! -6.611037151110054,-1.0,-7.573443497170047
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 0.5673779224215423,0.0,-10.384490438023022
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 0.5891901587222605,0.0,-10.78389504597044
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 0.6110021763042255,0.0,-11.183299678644516
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 0.6328139970393067,0.0,-11.582704333572792
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 0.6546256406121529,0.0,-11.982109008529505
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 0.6764371247390386,0.0,-12.381513701512176
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 0.6982484653645429,0.0,-12.780918410717959
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 0.7200596768387868,0.0,-13.180323134524542
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 0.7418707720769362,0.0,-13.57972787147196
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 0.7636817627026176,0.0,-13.979132620245991
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 0.7854926591770663,0.0,-14.378537379664067
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 0.8073034709153717,0.0,-14.77794214866185
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 0.829114206391182,0.0,-15.177346926281189
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 0.8509248732307242,0.0,-15.576751711660108
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 0.8727354782976704,0.0,-15.976156504022583
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 0.8945460277692519,0.0,-16.37556130267035
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 0.9163565272049823,0.0,-16.774966106974716
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 0.9381669816085036,0.0,-17.17437091636998
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 0.9599773954830084,0.0,-17.57377573034728
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 0.9817877728813755,0.0,-17.973180548448227
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 1.0035981174512472,0.0,-18.372585370260595
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 1.0254084324755013,0.0,-18.771990195413082
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 1.0472187209086314,0.0,-19.171395023571904
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 1.0690289854098296,0.0,-19.570799854436245
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 1.0908392283722605,0.0,-19.97020468773553
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 1.1126494519497783,0.0,-20.369609523226245
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 1.134459658080857,0.0,-20.769014360689425
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 1.1562698485101919,0.0,-21.168419199927712
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 1.1780800248079117,0.0,-21.567824040763526
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 1.1998901883872009,0.0,-21.96722888303725
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 1.2217003405199307,0.0,-22.36663372660496
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 1.2435104823507572,0.0,-22.766038571337504
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 1.2653206149097969,0.0,-23.16544341711824
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 1.2871307391242794,0.0,-23.56484826384235
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 1.3089408558286664,0.0,-23.964253111415474
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 1.330750965773973,0.0,-24.363657959752572
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 1.3525610696360673,0.0,-24.763062808777477
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 1.3743711680233446,0.0,-25.162467658421292
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 1.396181261483207,0.0,-25.561872508622173
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 1.41799135050843,0.0,-25.961277359324413
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 1.4398014355425062,0.0,-26.36068221047799
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 1.4616115169844761,0.0,-26.760087062037655
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 1.4834215951935903,0.0,-27.15949191396271
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 1.505231670493174,0.0,-27.558896766216776
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 1.527041743174152,0.0,-27.958301618766882
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 1.548851813498345,0.0,-28.357706471583242
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 1.5706618817014828,0.0,-28.75711132463948
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 1.592471947995648,0.0,-29.1565161779115
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 1.6142820125717208,0.0,-29.555921031377693
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 1.636092075601539,0.0,-29.955325885018738
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 1.6579021372397165,0.0,-30.354730738817125
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 1.679712197625463,0.0,-30.754135592757166
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 1.7015222568839476,0.0,-31.153540446824536
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 1.7233323151279478,0.0,-31.55294530100673
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 1.7451423724588722,0.0,-31.95235015529215
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 1.766952428968068,0.0,-32.35175500967034
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 1.7887624847376742,0.0,-32.751159864132205
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 1.8105725398417007,0.0,-33.15056471866933
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 1.8323825943466545,0.0,-33.54996957327421
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 1.8541926483124485,0.0,-33.94937442794003
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 1.876002701793027,0.0,-34.348779282660644
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 1.8978127548368775,0.0,-34.7481841374306
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 1.9196228074877126,0.0,-35.14758899224512
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 1.9414328597848112,0.0,-35.54699384709966
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 1.9632429117635297,0.0,-35.94639870199012
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 1.9850529634557574,0.0,-36.34580355691287
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 2.0068630148900866,0.0,-36.74520841186495
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 2.028673066092324,0.0,-37.14461326684318
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 2.050483117085662,0.0,-37.544018121845056
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 2.0722931678910186,0.0,-37.94342297686808
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 2.0941032185272093,0.0,-38.34282783191043
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 2.1159132690111164,0.0,-38.74223268696983
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 2.137723319357974,0.0,-39.14163754204469
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 2.1595333695814816,0.0,-39.54104239713365
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 2.1813434196940307,0.0,-39.94044725223512
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 2.203153469706649,0.0,-40.33985210734795
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 2.224963519629341,0.0,-40.73925696247079
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 2.246773569471145,0.0,-41.13866181760295
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 2.2685836192400757,0.0,-41.5380666727433
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 2.290393668943466,0.0,-41.93747152789092
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 2.3122037185878526,0.0,-42.336876383045364
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 2.3340137681791475,0.0,-42.73628123820572
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 2.355823817722694,0.0,-43.13568609337153
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 2.37763386722321,0.0,-43.53509094854212
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 2.3994439166850157,0.0,-43.93449580371703
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 2.4212539661119763,0.0,-44.33390065889603
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 2.443064015507616,0.0,-44.73330551407844
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 2.464874064875005,0.0,-45.13271036926403
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 2.4866841142170415,0.0,-45.53211522445258
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 2.508494163536227,0.0,-45.93152007964363
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 2.530304212834835,0.0,-46.330924934837185
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 2.5521142621149124,0.0,-46.73032979003278
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 2.5739243113783346,0.0,-47.1297346452302
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 2.59573436062675,0.0,-47.52913950042944
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 2.6175444098616936,0.0,-47.92854435563004
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 2.6393544590844726,0.0,-48.327949210832
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 2.6611645082963378,0.0,-48.72735406603533
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 2.682974557498369,0.0,-49.1267589212398
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 2.7047846066915326,0.0,-49.52616377644517
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 2.726594655876738,0.0,-49.92556863165146
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 2.7484047050547815,0.0,-50.32497348685865
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 2.7702147542263447,0.0,-50.72437834206653
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 2.79202480339211,0.0,-51.12378319727509
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 2.8138348525526453,0.0,-51.5231880524841
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 2.835644901708463,0.0,-51.9225929076938
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 2.857454950860074,0.0,-52.32199776290395
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 2.8792650000078766,0.0,-52.72140261811455
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 2.9010750491522117,0.0,-53.120807473325385
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 2.9228850982934773,0.0,-53.52021232853667
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 2.9446951474319576,0.0,-53.91961718374819
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 2.9665051965679368,0.0,-54.31902203895993
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 2.988315245701642,0.0,-54.718426894172126
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 3.010125294833358,0.0,-55.11783174938455
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 3.031935343963255,0.0,-55.517236604596974
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 3.0537453930915035,0.0,-55.916641459809625
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 3.075555442218274,0.0,-56.316046315022504
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 3.0973654913436803,0.0,-56.71545117023561
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 3.119175540467893,0.0,-57.11485602544872
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 3.1409855895910255,0.0,-57.51426088066205
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 3.1627956387131917,0.0,-57.913665735875384
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 3.1846056878345053,0.0,-58.313070591088945
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 3.206415736955023,0.0,-58.712475446302506
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 3.2282257860748587,0.0,-59.11188030151607
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 0.5673754922191279,0.0,-10.384490712763409
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 0.5673754922185594,0.0,-10.384490712763409
-[01:41:33] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 0.5673754922180478,0.0,-10.384490712763409
-[01:41:44] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 5.456199930151172,0.0,-8.816404972165856
-[01:41:44] [Server thread/WARN]: Boat (vehicle of bluekoya) moved too quickly! 5.610642910189995,0.0,-9.181001111636988
-[01:41:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26424ms or 528 ticks behind
-[01:42:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[01:42:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3068ms or 61 ticks behind
-[01:42:39] [Server thread/WARN]: bluekoya moved too quickly! 7.587653189794992,0.0,6.839156899709451
-[01:42:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[01:44:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[01:44:08] [Server thread/INFO]: Bea lost connection: Disconnected
-[01:44:08] [Server thread/INFO]: Bea left the game
-[01:44:09] [Server thread/INFO]: Tanzitow lost connection: Disconnected
-[01:44:09] [Server thread/INFO]: Tanzitow left the game
-[01:44:18] [Server thread/INFO]: bluekoya lost connection: Disconnected
-[01:44:18] [Server thread/INFO]: bluekoya left the game
-[01:44:42] [Server Shutdown Thread/INFO]: Stopping server
-[01:44:42] [Server Shutdown Thread/INFO]: Saving players
-[01:44:42] [Server Shutdown Thread/INFO]: Saving worlds
-[01:44:42] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[01:44:42] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[01:44:42] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[13:31:02] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:31:02] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:31:02] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:31:02] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:31:02] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:31:02] [main/INFO]: Loaded 0 recipes
+[13:31:02] [main/INFO]: Loaded 0 advancements
+[13:31:02] [Server thread/INFO]: Starting minecraft server version 1.13.1
+[13:31:02] [Server thread/INFO]: Loading properties
+[13:31:03] [Server thread/INFO]: Default game type: SURVIVAL
+[13:31:03] [Server thread/INFO]: Generating keypair
+[13:31:03] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:31:03] [Server thread/INFO]: Using default channel type
+[13:31:05] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:31:05] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:31:05] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:31:05] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:31:05] [Server thread/INFO]: Preparing level "world"
+[13:31:05] [Server thread/INFO]: Reloading ResourceManager: Default
+[13:31:07] [Server thread/INFO]: Loaded 524 recipes
+[13:31:09] [Server thread/INFO]: Loaded 571 advancements
+[13:31:09] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:31:10] [Server thread/INFO]: Preparing spawn area: 4%
+[13:31:10] [Server thread/INFO]: Preparing spawn area: 8%
+[13:31:10] [Server thread/INFO]: Preparing spawn area: 12%
+[13:31:11] [Server thread/INFO]: Preparing spawn area: 16%
+[13:31:11] [Server thread/INFO]: Preparing spawn area: 20%
+[13:31:12] [Server thread/INFO]: Preparing spawn area: 24%
+[13:31:12] [Server thread/INFO]: Preparing spawn area: 28%
+[13:31:12] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 6ad9cd2d-5511-4233-868d-1c1a3af6f188
+[13:31:12] [Server thread/INFO]: Preparing spawn area: 32%
+[13:31:12] [Server thread/INFO]: Preparing spawn area: 36%
+[13:31:13] [Server thread/INFO]: Preparing spawn area: 40%
+[13:31:13] [Server thread/WARN]: Keeping entity minecraft:horse that already exists with UUID 8e1ad72f-6bda-4830-8628-0e6548036998
+[13:31:13] [Server thread/INFO]: Preparing spawn area: 44%
+[13:31:13] [Server thread/INFO]: Preparing spawn area: 48%
+[13:31:13] [Server thread/INFO]: Preparing spawn area: 52%
+[13:31:13] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID f461a773-891e-497b-a191-24efbe543993
+[13:31:13] [Server thread/INFO]: Preparing spawn area: 56%
+[13:31:13] [Server thread/INFO]: Preparing spawn area: 60%
+[13:31:13] [Server thread/INFO]: Preparing spawn area: 64%
+[13:31:13] [Server thread/INFO]: Preparing spawn area: 68%
+[13:31:13] [Server thread/INFO]: Preparing spawn area: 72%
+[13:31:14] [Server thread/INFO]: Preparing spawn area: 76%
+[13:31:14] [Server thread/INFO]: Preparing spawn area: 80%
+[13:31:14] [Server thread/INFO]: Preparing spawn area: 84%
+[13:31:14] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b2c137e0-63c5-4a3e-a10d-88bcf41c0f27
+[13:31:14] [Server thread/INFO]: Preparing spawn area: 88%
+[13:31:14] [Server thread/INFO]: Preparing spawn area: 92%
+[13:31:14] [Server thread/INFO]: Preparing spawn area: 96%
+[13:31:14] [Server thread/INFO]: Preparing spawn area: 100%
+[13:31:14] [Server thread/INFO]: Time elapsed: 4703 ms
+[13:31:14] [Server thread/INFO]: Done (8.993s)! For help, type "help"
+[13:32:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5058ms or 101 ticks behind
+[13:34:47] [Server thread/INFO]: Bea[/25.109.233.81:50360] logged in with entity id 120 at (288.1107309978136, 64.0, -1439.7576372407207)
+[13:34:48] [Server thread/INFO]: Bea joined the game
+[13:35:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23866ms or 477 ticks behind
+[13:35:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9542ms or 190 ticks behind
+[13:40:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2068ms or 41 ticks behind
+[13:42:51] [Server thread/INFO]: Bea lost connection: Disconnected
+[13:42:51] [Server thread/INFO]: Bea left the game
+[13:43:29] [Server thread/INFO]: Bea[/25.109.233.81:50380] logged in with entity id 6340 at (288.6788222872821, 64.0, -1440.6733114101298)
+[13:43:29] [Server thread/INFO]: Bea joined the game
+[13:43:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[13:43:41] [Server thread/INFO]: Bea lost connection: Disconnected
+[13:43:41] [Server thread/INFO]: Bea left the game
+[13:48:41] [Server Shutdown Thread/INFO]: Stopping server
+[13:48:41] [Server Shutdown Thread/INFO]: Saving players
+[13:48:41] [Server Shutdown Thread/INFO]: Saving worlds
+[13:48:41] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[13:48:41] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[13:48:41] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
