@@ -479,9 +479,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_log": "2021-05-14 01:11:16 -0300"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2021-05-10 17:42:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2021-05-14 01:00:56 -0300"
     },
     "done": true
   },
@@ -556,8 +568,8 @@
       "minecraft:magma_cube": "2021-05-10 22:02:53 -0300",
       "minecraft:spider": "2021-04-23 21:55:20 -0300",
       "minecraft:zombie": "2021-04-23 21:29:38 -0300",
-      "minecraft:drowned": "2021-05-09 21:05:22 -0300",
       "minecraft:creeper": "2021-04-24 21:13:46 -0300",
+      "minecraft:drowned": "2021-05-09 21:05:22 -0300",
       "minecraft:zombie_villager": "2021-04-23 21:32:26 -0300",
       "minecraft:slime": "2021-05-02 23:27:18 -0300"
     },
@@ -779,6 +791,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2021-05-14 01:11:16 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_yellow_flower": "2021-04-23 22:59:59 -0300"
@@ -794,6 +812,12 @@
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2021-04-24 17:32:52 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2021-05-14 01:04:24 -0300"
     },
     "done": true
   },
@@ -1017,11 +1041,17 @@
     "criteria": {
       "minecraft:forest": "2021-04-23 21:03:22 -0300",
       "minecraft:desert_hills": "2021-04-23 20:52:12 -0300",
+      "minecraft:snowy_tundra": "2021-05-14 01:42:09 -0300",
       "minecraft:desert": "2021-04-23 20:46:44 -0300",
+      "minecraft:frozen_river": "2021-05-14 01:42:16 -0300",
       "minecraft:birch_forest": "2021-04-30 23:35:04 -0300",
+      "minecraft:snowy_beach": "2021-05-14 01:42:03 -0300",
+      "minecraft:warm_ocean": "2021-05-14 01:03:08 -0300",
+      "minecraft:deep_lukewarm_ocean": "2021-05-14 01:02:51 -0300",
       "minecraft:savanna_plateau": "2021-04-25 02:13:39 -0300",
       "minecraft:beach": "2021-05-03 15:08:34 -0300",
       "minecraft:dark_forest": "2021-04-30 23:45:27 -0300",
+      "minecraft:lukewarm_ocean": "2021-05-14 01:00:50 -0300",
       "minecraft:river": "2021-04-23 21:25:13 -0300",
       "minecraft:wooded_hills": "2021-04-23 20:45:32 -0300",
       "minecraft:savanna": "2021-04-23 22:46:57 -0300",
@@ -1462,6 +1492,7 @@
       "cooked_mutton": "2021-04-25 02:13:25 -0300",
       "cooked_beef": "2021-04-25 01:38:49 -0300",
       "baked_potato": "2021-04-23 21:36:21 -0300",
+      "beetroot_soup": "2021-05-14 00:09:58 -0300",
       "potato": "2021-04-23 21:01:35 -0300",
       "cooked_cod": "2021-04-24 20:25:07 -0300",
       "pumpkin_pie": "2021-05-08 00:38:18 -0300",
@@ -1470,6 +1501,7 @@
       "melon_slice": "2021-05-08 00:51:30 -0300",
       "beetroot": "2021-04-23 21:27:40 -0300",
       "cooked_chicken": "2021-04-25 23:40:00 -0300",
+      "cod": "2021-05-13 23:59:19 -0300",
       "cooked_salmon": "2021-05-02 01:53:33 -0300",
       "carrot": "2021-05-05 22:46:49 -0300"
     },
@@ -2312,6 +2344,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2021-05-02 00:29:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_iron_nugget": "2021-05-14 01:10:14 -0300"
     },
     "done": true
   },

@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2021-05-14 01:17:01 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-04-23 21:19:34 -0300"
@@ -86,6 +92,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-04-23 21:19:34 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-05-14 01:17:01 -0300"
     },
     "done": true
   },
@@ -158,6 +170,12 @@
   "minecraft:recipes/decorations/magenta_stained_glass_pane": {
     "criteria": {
       "has_glass": "2021-04-23 23:59:24 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2021-05-14 01:17:01 -0300"
     },
     "done": true
   },
@@ -482,6 +500,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2021-05-14 01:11:30 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2021-04-23 20:42:29 -0300"
@@ -533,6 +557,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-04-23 21:19:34 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2021-05-14 01:16:53 -0300"
     },
     "done": true
   },
@@ -704,6 +734,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2021-05-14 01:16:53 -0300"
+    },
+    "done": true
+  },
   "minecraft:end/root": {
     "criteria": {
       "entered_end": "2021-05-08 00:31:28 -0300"
@@ -797,6 +833,12 @@
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2021-04-23 23:59:23 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2021-05-14 01:12:32 -0300"
     },
     "done": true
   },
@@ -944,6 +986,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2021-05-14 01:17:01 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2021-05-05 23:33:31 -0300"
@@ -1015,9 +1063,12 @@
       "minecraft:forest": "2021-04-23 21:03:20 -0300",
       "minecraft:desert_hills": "2021-04-23 21:01:25 -0300",
       "minecraft:desert": "2021-04-23 20:42:19 -0300",
+      "minecraft:warm_ocean": "2021-05-14 01:02:47 -0300",
+      "minecraft:deep_lukewarm_ocean": "2021-05-14 01:01:00 -0300",
       "minecraft:savanna_plateau": "2021-05-03 02:27:13 -0300",
       "minecraft:beach": "2021-05-06 01:18:32 -0300",
       "minecraft:river": "2021-04-23 21:37:35 -0300",
+      "minecraft:lukewarm_ocean": "2021-05-14 01:00:18 -0300",
       "minecraft:wooded_hills": "2021-04-23 21:45:21 -0300",
       "minecraft:savanna": "2021-04-23 22:30:20 -0300",
       "minecraft:plains": "2021-04-23 20:35:40 -0300"
@@ -1457,6 +1508,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-05-14 01:16:53 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2021-04-24 18:43:19 -0300"
@@ -1466,6 +1523,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2021-04-23 21:51:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2021-05-14 01:16:53 -0300"
     },
     "done": true
   },
@@ -1778,6 +1841,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2021-05-14 01:17:01 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2021-04-24 21:17:23 -0300"
@@ -1835,6 +1904,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2021-04-30 23:57:56 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2021-05-14 01:17:01 -0300"
     },
     "done": true
   },
@@ -2096,6 +2171,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2021-05-14 01:17:01 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_terracotta": {
     "criteria": {
       "has_terracotta": "2021-05-10 15:18:32 -0300"
@@ -2189,6 +2270,12 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2021-05-10 21:47:03 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2021-05-14 01:16:53 -0300"
     },
     "done": true
   },
@@ -2318,6 +2405,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2021-05-14 01:16:53 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_bricks": {
     "criteria": {
       "has_end_stone": "2021-05-08 00:33:21 -0300"
@@ -2354,6 +2447,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2021-05-14 01:16:53 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_brick": "2021-05-10 21:59:48 -0300"
@@ -2384,6 +2483,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-05-14 01:16:53 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2021-04-24 00:31:33 -0300"
@@ -2399,6 +2504,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2021-05-03 01:00:16 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-05-14 01:17:01 -0300"
     },
     "done": true
   },
