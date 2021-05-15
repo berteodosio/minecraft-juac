@@ -1700,15 +1700,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/beetroot_soup": {
-    "criteria": {
-      "has_beetroot": "2021-04-23 21:04:40 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/orange_glazed_terracotta": {
     "criteria": {
       "has_orange_terracotta": "2021-04-23 21:04:40 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2021-04-23 21:04:40 -0300"
     },
     "done": true
   },
