@@ -579,8 +579,8 @@
       "minecraft:husk": "2021-05-02 00:49:49 -0300",
       "minecraft:ghast": "2021-05-10 15:56:25 -0300",
       "minecraft:cave_spider": "2021-05-03 01:12:54 -0300",
-      "minecraft:enderman": "2021-04-22 01:25:43 -0300",
       "minecraft:silverfish": "2021-05-08 00:09:38 -0300",
+      "minecraft:enderman": "2021-04-22 01:25:43 -0300",
       "minecraft:magma_cube": "2021-05-04 21:25:44 -0300",
       "minecraft:spider": "2021-04-23 00:14:22 -0300",
       "minecraft:zombie": "2021-04-23 00:08:18 -0300",
@@ -1054,15 +1054,19 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_mountains": "2021-05-15 23:18:58 -0300",
       "minecraft:forest": "2021-04-22 00:10:29 -0300",
       "minecraft:desert_hills": "2021-04-21 23:18:22 -0300",
+      "minecraft:snowy_tundra": "2021-05-15 22:51:46 -0300",
       "minecraft:desert": "2021-04-21 22:40:46 -0300",
+      "minecraft:frozen_river": "2021-05-15 23:28:19 -0300",
+      "minecraft:snowy_beach": "2021-05-15 22:51:37 -0300",
       "minecraft:warm_ocean": "2021-05-14 01:03:05 -0300",
       "minecraft:deep_lukewarm_ocean": "2021-05-14 01:02:51 -0300",
       "minecraft:savanna_plateau": "2021-04-22 00:34:39 -0300",
       "minecraft:beach": "2021-05-06 01:18:41 -0300",
-      "minecraft:river": "2021-04-21 23:46:05 -0300",
       "minecraft:lukewarm_ocean": "2021-05-14 01:00:51 -0300",
+      "minecraft:river": "2021-04-21 23:46:05 -0300",
       "minecraft:wooded_hills": "2021-04-21 22:38:51 -0300",
       "minecraft:savanna": "2021-04-21 23:55:53 -0300",
       "minecraft:plains": "2021-04-21 22:37:26 -0300"
@@ -1520,6 +1524,7 @@
       "pumpkin_pie": "2021-05-05 15:11:36 -0300",
       "mutton": "2021-05-03 01:08:19 -0300",
       "bread": "2021-04-23 21:08:29 -0300",
+      "dried_kelp": "2021-05-15 22:03:20 -0300",
       "melon_slice": "2021-05-08 22:20:42 -0300",
       "beetroot": "2021-04-22 00:29:43 -0300",
       "cooked_chicken": "2021-04-21 23:38:27 -0300",
@@ -2094,6 +2099,12 @@
   "minecraft:recipes/misc/pink_dye_from_peony": {
     "criteria": {
       "has_double_plant": "2021-04-25 00:46:07 -0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "salmon_bucket": "2021-05-15 21:54:26 -0300"
     },
     "done": true
   },

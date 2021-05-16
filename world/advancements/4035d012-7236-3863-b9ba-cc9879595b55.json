@@ -335,6 +335,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2021-05-15 21:37:10 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-04-23 21:19:34 -0300"
@@ -500,6 +506,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_log": "2021-05-15 23:00:44 -0300"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2021-04-23 20:53:31 -0300"
@@ -595,6 +607,7 @@
       "minecraft:ghast": "2021-05-05 23:07:39 -0300",
       "minecraft:cave_spider": "2021-05-03 00:35:42 -0300",
       "minecraft:enderman": "2021-04-23 21:56:04 -0300",
+      "minecraft:stray": "2021-05-15 22:52:38 -0300",
       "minecraft:magma_cube": "2021-05-01 00:17:50 -0300",
       "minecraft:spider": "2021-04-23 20:47:25 -0300",
       "minecraft:zombie": "2021-04-23 20:55:31 -0300",
@@ -821,6 +834,12 @@
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2021-05-02 02:49:03 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2021-05-15 23:00:44 -0300"
     },
     "done": true
   },
@@ -1079,7 +1098,9 @@
       "minecraft:beach": "2021-05-02 22:44:39 -0300",
       "minecraft:river": "2021-04-23 21:08:53 -0300",
       "minecraft:lukewarm_ocean": "2021-05-14 01:00:18 -0300",
+      "minecraft:snowy_taiga": "2021-05-15 23:30:49 -0300",
       "minecraft:wooded_hills": "2021-04-23 21:45:21 -0300",
+      "minecraft:snowy_taiga_hills": "2021-05-15 23:31:02 -0300",
       "minecraft:savanna": "2021-04-23 21:08:53 -0300",
       "minecraft:plains": "2021-04-23 20:35:10 -0300"
     },
@@ -2523,15 +2544,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_leggings": {
-    "criteria": {
-      "has_gold_ingot": "2021-04-24 17:32:52 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2021-04-24 17:32:52 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2021-04-24 17:32:52 -0300"
     },
     "done": true
   },
